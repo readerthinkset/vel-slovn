@@ -69,7 +69,42 @@
       "transliteration": "Vsak trood sh-teh-yeh, mal-o poh mal-o.",
       "category": "Perseverance",
       "generated_at": "2026-06-17T13:10:25.099902"
+    },
+    {
+      "english": "Hello, how are you?",
+      "slovenian": "Živjo, kako si?",
+      "transliteration": "Zhee-vyo, kah-koh see?",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:56:09.116998"
+    },
+    {
+      "english": "Good morning, friend.",
+      "slovenian": "Dobro jutro, prijatelj.",
+      "transliteration": "Doh-broh yoo-troh, pree-yah-telj.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:56:09.117007"
+    },
+    {
+      "english": "Nice to meet you.",
+      "slovenian": "Prijetno spoznati.",
+      "transliteration": "Pree-yet-noh spo-znah-tee.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:56:09.117009"
+    },
+    {
+      "english": "Welcome, come in.",
+      "slovenian": "Dobrodošli, vstopite.",
+      "transliteration": "Doh-broh-dve-shlee, vsto-pee-teh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:56:09.117010"
+    },
+    {
+      "english": "Hello, good day.",
+      "slovenian": "Zdravo, dober dan.",
+      "transliteration": "Zdrah-voh, doh-ber dahn.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:56:09.117011"
     }
   ],
-  "last_updated": "2026-06-17T13:10:25.099904"
+  "last_updated": "2026-06-17T16:56:09.117012"
 }
