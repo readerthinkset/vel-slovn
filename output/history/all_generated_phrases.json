@@ -104,7 +104,42 @@
       "transliteration": "Zdrah-voh, doh-ber dahn.",
       "category": "Greetings",
       "generated_at": "2026-06-17T16:56:09.117011"
+    },
+    {
+      "english": "A table for two, please.",
+      "slovenian": "Miza za dva, prosim.",
+      "transliteration": "Mee-zah zah dvah, pro-seem.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T19:18:48.179305"
+    },
+    {
+      "english": "Can I see the menu?",
+      "slovenian": "Lahko vidim jedilnik?",
+      "transliteration": "Lah-koh vee-deem yeh-deel-neek?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T19:18:48.179315"
+    },
+    {
+      "english": "What do you recommend?",
+      "slovenian": "Kaj priporočate?",
+      "transliteration": "Kigh pree-poh-roh-chah-teh?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T19:18:48.179316"
+    },
+    {
+      "english": "I'll have the soup.",
+      "slovenian": "Vzel bom juho.",
+      "transliteration": "Vzel bohm yoo-hoh.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T19:18:48.179317"
+    },
+    {
+      "english": "One beer, please.",
+      "slovenian": "Eno pivo, prosim.",
+      "transliteration": "Eh-noh pee-voh, pro-seem.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T19:18:48.179318"
     }
   ],
-  "last_updated": "2026-06-17T16:56:09.117012"
+  "last_updated": "2026-06-17T19:18:48.179320"
 }
