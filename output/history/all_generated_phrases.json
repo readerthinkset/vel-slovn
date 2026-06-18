@@ -139,7 +139,42 @@
       "transliteration": "Eh-noh pee-voh, pro-seem.",
       "category": "Restaurant",
       "generated_at": "2026-06-17T19:18:48.179318"
+    },
+    {
+      "english": "Now, let's begin.",
+      "slovenian": "Zdaj, začnimo.",
+      "transliteration": "Zdai, zachnimo.",
+      "category": "Time",
+      "generated_at": "2026-06-18T00:09:48.091369"
+    },
+    {
+      "english": "Later, perhaps.",
+      "slovenian": "Kasneje, morda.",
+      "transliteration": "Kasneye, morda.",
+      "category": "Time",
+      "generated_at": "2026-06-18T00:09:48.091378"
+    },
+    {
+      "english": "Soon, very soon.",
+      "slovenian": "Kmalu, zelo kmalu.",
+      "transliteration": "Kmalu, zelo kmalu.",
+      "category": "Time",
+      "generated_at": "2026-06-18T00:09:48.091380"
+    },
+    {
+      "english": "Always, remember this.",
+      "slovenian": "Vedno, zapomni si.",
+      "transliteration": "Vedno, zapomni si.",
+      "category": "Time",
+      "generated_at": "2026-06-18T00:09:48.091381"
+    },
+    {
+      "english": "Never, forget me.",
+      "slovenian": "Nikoli, ne pozabi.",
+      "transliteration": "Nikoli, ne pozabi.",
+      "category": "Time",
+      "generated_at": "2026-06-18T00:09:48.091382"
     }
   ],
-  "last_updated": "2026-06-17T19:18:48.179320"
+  "last_updated": "2026-06-18T00:09:48.091384"
 }
