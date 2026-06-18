@@ -244,7 +244,42 @@
       "transliteration": "Pos-loo-shai poz-or-no, raz-oo-mee glo-bo-ko.",
       "category": "Inspiration",
       "generated_at": "2026-06-18T15:40:08.282411"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "slovenian": "Uči se, malo, vsak dan.",
+      "transliteration": "Oo-chi se, ma-lo, vsak dan.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T17:02:42.368219"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "slovenian": "Napredek, ne popolnost.",
+      "transliteration": "Na-pre-dek, ne po-pol-nost.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T17:02:42.368227"
+    },
+    {
+      "english": "Small steps, big results.",
+      "slovenian": "Mali koraki, veliki rezultati.",
+      "transliteration": "Ma-li ko-ra-ki, veli-ki re-zul-ta-ti.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T17:02:42.368228"
+    },
+    {
+      "english": "Embrace the challenge, grow.",
+      "slovenian": "Sprejmi izziv, rasti.",
+      "transliteration": "Sprej-mi iz-ziv, ra-sti.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T17:02:42.368230"
+    },
+    {
+      "english": "Keep practicing, you'll get there.",
+      "slovenian": "Vadi, boš uspel.",
+      "transliteration": "Va-di, bo-sh oo-spel.",
+      "category": "Growth",
+      "generated_at": "2026-06-18T17:02:42.368231"
     }
   ],
-  "last_updated": "2026-06-18T15:40:08.282413"
+  "last_updated": "2026-06-18T17:02:42.368233"
 }
