@@ -419,7 +419,42 @@
       "transliteration": "Je tukaj v bližini lekarna?",
       "category": "Emergency",
       "generated_at": "2026-06-19T15:30:00.170463"
+    },
+    {
+      "english": "Learn Slovenian, speak with confidence.",
+      "slovenian": "Nauči se slovenščine, govori samozavestno.",
+      "transliteration": "Nau-chi se slo-ven-shchi-ne, go-vo-ri sam-o-zavest-no.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T16:32:50.887585"
+    },
+    {
+      "english": "Practice daily, make progress.",
+      "slovenian": "Vadi redno, napreduj.",
+      "transliteration": "Va-di red-no, na-pre-duy.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T16:32:50.887595"
+    },
+    {
+      "english": "Listen carefully, understand more.",
+      "slovenian": "Poslušaj pozorno, razumi več.",
+      "transliteration": "Pos-lu-shay poz-or-no, raz-u-mi vech.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T16:32:50.887596"
+    },
+    {
+      "english": "Read books, expand your world.",
+      "slovenian": "Beri knjige, razširi svoj svet.",
+      "transliteration": "Be-ri knji-ge, raz-shiri svoy svet.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T16:32:50.887597"
+    },
+    {
+      "english": "Write sentences, express yourself.",
+      "slovenian": "Piši stavke, izrazi se.",
+      "transliteration": "Pi-shi stav-ke, iz-ra-zi se.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T16:32:50.887598"
     }
   ],
-  "last_updated": "2026-06-19T15:30:00.170465"
+  "last_updated": "2026-06-19T16:32:50.887599"
 }
