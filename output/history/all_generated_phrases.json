@@ -454,7 +454,42 @@
       "transliteration": "Pi-shi stav-ke, iz-ra-zi se.",
       "category": "Purpose",
       "generated_at": "2026-06-19T16:32:50.887598"
+    },
+    {
+      "english": "Thank you, from my heart.",
+      "slovenian": "Hvala ti, iz srca.",
+      "transliteration": "Hvala tee, eez srtsa.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T18:27:56.182322"
+    },
+    {
+      "english": "I appreciate, your kindness.",
+      "slovenian": "Cenim, tvojo prijaznost.",
+      "transliteration": "Tseenim, tvoyoh preeyaznost.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T18:27:56.182332"
+    },
+    {
+      "english": "So grateful, for this.",
+      "slovenian": "Tako hvaležen, za to.",
+      "transliteration": "Tako hvalezhen, za toh.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T18:27:56.182334"
+    },
+    {
+      "english": "You are, a great help.",
+      "slovenian": "Si, velika pomoč.",
+      "transliteration": "See, velika pomoch.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T18:27:56.182335"
+    },
+    {
+      "english": "My thanks, are sincere.",
+      "slovenian": "Moji hvaležni, so iskreni.",
+      "transliteration": "Moyee hvalezhnee, soh eeskreni.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T18:27:56.182338"
     }
   ],
-  "last_updated": "2026-06-19T16:32:50.887599"
+  "last_updated": "2026-06-19T18:27:56.182339"
 }
