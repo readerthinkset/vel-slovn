@@ -489,7 +489,42 @@
       "transliteration": "Moyee hvalezhnee, soh eeskreni.",
       "category": "Gratitude",
       "generated_at": "2026-06-19T18:27:56.182338"
+    },
+    {
+      "english": "Thank you, very much.",
+      "slovenian": "Hvala, lepa.",
+      "transliteration": "Hva-la, le-pa.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T21:13:31.527129"
+    },
+    {
+      "english": "Excuse me, please.",
+      "slovenian": "Oprostite, prosim.",
+      "transliteration": "O-pros-tee-te, pro-seem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T21:13:31.527138"
+    },
+    {
+      "english": "Yes, I understand.",
+      "slovenian": "Da, razumem.",
+      "transliteration": "Da, rah-zoo-mem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T21:13:31.527140"
+    },
+    {
+      "english": "No, I don't know.",
+      "slovenian": "Ne, ne vem.",
+      "transliteration": "Ne, ne vem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T21:13:31.527141"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "slovenian": "Kje je stranišče?",
+      "transliteration": "Kyeh yeh strah-neesh-cheh?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T21:13:31.527143"
     }
   ],
-  "last_updated": "2026-06-19T18:27:56.182339"
+  "last_updated": "2026-06-19T21:13:31.527144"
 }
