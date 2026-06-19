@@ -384,7 +384,42 @@
       "transliteration": "Tvoy nah-smeh, mee poh-lep-shah dahn.",
       "category": "Love",
       "generated_at": "2026-06-19T05:11:28.475571"
+    },
+    {
+      "english": "Help! I need a doctor.",
+      "slovenian": "Pomagajte! Potrebujem zdravnika.",
+      "transliteration": "Pomagajte! Potrebujem zdravnika.",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T15:30:00.170450"
+    },
+    {
+      "english": "Call the police, please.",
+      "slovenian": "Pokličite policijo, prosim.",
+      "transliteration": "Pokličite policijo, prosim.",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T15:30:00.170459"
+    },
+    {
+      "english": "Where is the hospital?",
+      "slovenian": "Kje je bolnišnica?",
+      "transliteration": "Kje je bolnišnica?",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T15:30:00.170461"
+    },
+    {
+      "english": "I am lost, can you help?",
+      "slovenian": "Sem izgubljen, mi lahko pomagate?",
+      "transliteration": "Sem izgubljen, mi lahko pomagate?",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T15:30:00.170462"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "slovenian": "Je tukaj v bližini lekarna?",
+      "transliteration": "Je tukaj v bližini lekarna?",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T15:30:00.170463"
     }
   ],
-  "last_updated": "2026-06-19T05:11:28.475572"
+  "last_updated": "2026-06-19T15:30:00.170465"
 }
