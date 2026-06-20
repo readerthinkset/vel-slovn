@@ -524,7 +524,42 @@
       "transliteration": "Kyeh yeh strah-neesh-cheh?",
       "category": "Common Expressions",
       "generated_at": "2026-06-19T21:13:31.527143"
+    },
+    {
+      "english": "Tomorrow, is a new day.",
+      "slovenian": "Jutri, je nov dan.",
+      "transliteration": "Yoo-tree, yeh nov dahn.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T04:23:57.608278"
+    },
+    {
+      "english": "Hold on, it gets better.",
+      "slovenian": "Zdrži, bo bolje.",
+      "transliteration": "Zhd-zhee, boh boh-lyeh.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T04:23:57.608286"
+    },
+    {
+      "english": "Believe, in yourself.",
+      "slovenian": "Verjemi, vase.",
+      "transliteration": "Veh-rye-mee, vah-seh.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T04:23:57.608288"
+    },
+    {
+      "english": "A little light, shines through.",
+      "slovenian": "Malo luči, posije skozi.",
+      "transliteration": "Mah-loh loo-chee, poh-see-yeh skoh-zee.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T04:23:57.608290"
+    },
+    {
+      "english": "Keep going, strong.",
+      "slovenian": "Nadaljuj, močno.",
+      "transliteration": "Nah-dah-lyooy, moh-ch-noh.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T04:23:57.608291"
     }
   ],
-  "last_updated": "2026-06-19T21:13:31.527144"
+  "last_updated": "2026-06-20T04:23:57.608293"
 }
