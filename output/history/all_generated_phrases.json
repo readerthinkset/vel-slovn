@@ -734,7 +734,42 @@
       "transliteration": "Not-ran-yee meer, zoo-nan-yee meer.",
       "category": "Balance",
       "generated_at": "2026-06-21T14:20:27.756642"
+    },
+    {
+      "english": "Keep going, you're doing great.",
+      "slovenian": "Drži se, gre ti odlično.",
+      "transliteration": "Dri-zhi se, gre ti od-li-chno.",
+      "category": "Success",
+      "generated_at": "2026-06-21T15:52:12.084087"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "slovenian": "Zmoreš to, verjemi vanjo.",
+      "transliteration": "Zmo-resh to, ver-je-mi van-yo.",
+      "category": "Success",
+      "generated_at": "2026-06-21T15:52:12.084096"
+    },
+    {
+      "english": "Practice makes perfect, keep learning.",
+      "slovenian": "Vadba dela mojstra, vztrajaj.",
+      "transliteration": "Vad-ba de-la moyst-ra, vstra-yay.",
+      "category": "Success",
+      "generated_at": "2026-06-21T15:52:12.084097"
+    },
+    {
+      "english": "Every day, a new word.",
+      "slovenian": "Vsak dan, nova beseda.",
+      "transliteration": "Vsak dan, no-va be-se-da.",
+      "category": "Success",
+      "generated_at": "2026-06-21T15:52:12.084099"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "slovenian": "Ne obupaj, poskusi znova.",
+      "transliteration": "Ne o-bu-pay, po-sku-si zno-va.",
+      "category": "Success",
+      "generated_at": "2026-06-21T15:52:12.084100"
     }
   ],
-  "last_updated": "2026-06-21T14:20:27.756644"
+  "last_updated": "2026-06-21T15:52:12.084102"
 }
