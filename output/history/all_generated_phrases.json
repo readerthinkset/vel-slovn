@@ -664,7 +664,42 @@
       "transliteration": "Tre-noo-tek chee-ste bla-zhe-nos-ti.",
       "category": "Joy",
       "generated_at": "2026-06-20T21:21:50.194983"
+    },
+    {
+      "english": "How much, is this?",
+      "slovenian": "Koliko, je to?",
+      "transliteration": "Koli-ko, ye toh?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T05:07:32.957775"
+    },
+    {
+      "english": "I am looking, for a gift.",
+      "slovenian": "Iščem, darilo.",
+      "transliteration": "Ish-chem, dah-ri-lo.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T05:07:32.957782"
+    },
+    {
+      "english": "Do you have, this size?",
+      "slovenian": "Imate, to številko?",
+      "transliteration": "I-ma-te, toh shtevi-lko?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T05:07:32.957784"
+    },
+    {
+      "english": "Can I try, it on?",
+      "slovenian": "Lahko, pomerim?",
+      "transliteration": "Lah-ko, po-meh-rim?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T05:07:32.957785"
+    },
+    {
+      "english": "Where is, the changing room?",
+      "slovenian": "Kje je, kabina?",
+      "transliteration": "K'yeh yeh, kah-bi-nah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T05:07:32.957786"
     }
   ],
-  "last_updated": "2026-06-20T21:21:50.194988"
+  "last_updated": "2026-06-21T05:07:32.957788"
 }
