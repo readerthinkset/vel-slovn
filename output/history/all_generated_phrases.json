@@ -979,7 +979,42 @@
       "transliteration": "Vesak dan, shteye.",
       "category": "Time",
       "generated_at": "2026-06-22T19:59:56.996259"
+    },
+    {
+      "english": "Every word counts, listen.",
+      "slovenian": "Vsaka beseda šteje, poslušaj.",
+      "transliteration": "Vsá-ka be-sé-da šte-je, po-slu-šaj.",
+      "category": "Growth",
+      "generated_at": "2026-06-22T22:06:54.050145"
+    },
+    {
+      "english": "Don't be afraid, try.",
+      "slovenian": "Ne boj se, poskusi.",
+      "transliteration": "Ne boj se, po-sku-si.",
+      "category": "Growth",
+      "generated_at": "2026-06-22T22:06:54.050151"
+    },
+    {
+      "english": "Your effort, is rewarded.",
+      "slovenian": "Tvoj trud, se obrestuje.",
+      "transliteration": "Tvoj trud, se o-bre-stu-je.",
+      "category": "Growth",
+      "generated_at": "2026-06-22T22:06:54.050153"
+    },
+    {
+      "english": "Speak clearly, be understood.",
+      "slovenian": "Govori jasno, te bodo razumeli.",
+      "transliteration": "Go-vo-ri ja-sno, te bo-do ra-zu-me-li.",
+      "category": "Growth",
+      "generated_at": "2026-06-22T22:06:54.050154"
+    },
+    {
+      "english": "Discover Slovenia, word by word.",
+      "slovenian": "Odkrij Slovenijo, besedo za besedo.",
+      "transliteration": "Odk-rij Slo-ve-ni-jo, be-sé-do za be-sé-do.",
+      "category": "Growth",
+      "generated_at": "2026-06-22T22:06:54.050155"
     }
   ],
-  "last_updated": "2026-06-22T19:59:56.996262"
+  "last_updated": "2026-06-22T22:06:54.050157"
 }
