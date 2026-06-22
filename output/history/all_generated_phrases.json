@@ -944,7 +944,42 @@
       "transliteration": "Pet, pr-stov, na ro-ki.",
       "category": "Numbers",
       "generated_at": "2026-06-22T18:13:10.504301"
+    },
+    {
+      "english": "Today, a new start.",
+      "slovenian": "Danes, nov začetek.",
+      "transliteration": "Danes, nov zachytek.",
+      "category": "Time",
+      "generated_at": "2026-06-22T19:59:56.996241"
+    },
+    {
+      "english": "Yesterday, it was.",
+      "slovenian": "Včeraj, je bilo.",
+      "transliteration": "Vcherai, ye bilo.",
+      "category": "Time",
+      "generated_at": "2026-06-22T19:59:56.996252"
+    },
+    {
+      "english": "Tomorrow, we will see.",
+      "slovenian": "Jutri, bomo videli.",
+      "transliteration": "Yutri, bomo videli.",
+      "category": "Time",
+      "generated_at": "2026-06-22T19:59:56.996255"
+    },
+    {
+      "english": "Sometimes, it happens.",
+      "slovenian": "Včasih, se zgodi.",
+      "transliteration": "Vchasih, se zgodi.",
+      "category": "Time",
+      "generated_at": "2026-06-22T19:59:56.996257"
+    },
+    {
+      "english": "Every day, matters.",
+      "slovenian": "Vsak dan, šteje.",
+      "transliteration": "Vesak dan, shteye.",
+      "category": "Time",
+      "generated_at": "2026-06-22T19:59:56.996259"
     }
   ],
-  "last_updated": "2026-06-22T18:13:10.504303"
+  "last_updated": "2026-06-22T19:59:56.996262"
 }
