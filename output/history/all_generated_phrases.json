@@ -909,7 +909,42 @@
       "transliteration": "Spoos-tee, kar yeh mee-noo-lo.",
       "category": "Mindfulness",
       "generated_at": "2026-06-22T17:05:14.802421"
+    },
+    {
+      "english": "One, small step.",
+      "slovenian": "En, majhen korak.",
+      "transliteration": "En, mya-hen ko-rak.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:13:10.504287"
+    },
+    {
+      "english": "Two, is better than one.",
+      "slovenian": "Dva, sta boljša od enega.",
+      "transliteration": "Dva, sta bol-sha od e-ne-ga.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:13:10.504297"
+    },
+    {
+      "english": "Three, cheers!",
+      "slovenian": "Tri, na zdravje!",
+      "transliteration": "Tri, na zdra-vye!",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:13:10.504299"
+    },
+    {
+      "english": "Four, seasons, change.",
+      "slovenian": "Štiri, letni časi, se menjajo.",
+      "transliteration": "Sh-ti-ri, let-ni cha-si, se me-nya-yo.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:13:10.504300"
+    },
+    {
+      "english": "Five, fingers, on hand.",
+      "slovenian": "Pet, prstov, na roki.",
+      "transliteration": "Pet, pr-stov, na ro-ki.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:13:10.504301"
     }
   ],
-  "last_updated": "2026-06-22T17:05:14.802423"
+  "last_updated": "2026-06-22T18:13:10.504303"
 }
