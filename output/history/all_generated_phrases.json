@@ -1154,7 +1154,42 @@
       "transliteration": "Lahko sprejmete moje opravičilo?",
       "category": "Forgiveness",
       "generated_at": "2026-06-23T21:46:04.632238"
+    },
+    {
+      "english": "How's it going?",
+      "slovenian": "Kako gre?",
+      "transliteration": "Kah-koh greh?",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T04:15:55.967509"
+    },
+    {
+      "english": "See you later.",
+      "slovenian": "Vidimo se kasneje.",
+      "transliteration": "Vee-dee-moh seh kahs-neh-yeh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T04:15:55.967523"
+    },
+    {
+      "english": "Good evening to you.",
+      "slovenian": "Dober večer tebi.",
+      "transliteration": "Doh-ber ve-cher teh-bee.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T04:15:55.967525"
+    },
+    {
+      "english": "Hello, hope you are well.",
+      "slovenian": "Živjo, upam, da si dobro.",
+      "transliteration": "Zhee-vyo, oo-pahm, dah see doh-broh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T04:15:55.967526"
+    },
+    {
+      "english": "A pleasure, truly.",
+      "slovenian": "Veselje, resnično.",
+      "transliteration": "Ve-seh-lyeh, reh-snee-chtoh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T04:15:55.967527"
     }
   ],
-  "last_updated": "2026-06-23T21:46:04.632239"
+  "last_updated": "2026-06-24T04:15:55.967534"
 }
