@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Pozdravi",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "sl-SI-RokNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Slovenian.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Slovenian.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Slovenian text should be CLEAN - use standard Slovenian script
 7. Do NOT include multiple versions or slashes - just ONE clean Slovenian translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Slovenian text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Slovenian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Slovenian teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Slovenian text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Slovenian text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "slovenian": "[SK] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "slovenian": "[SK] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "slovenian": "[SK] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "slovenian": "[SK] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "slovenian": "[SK] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "slovenian": "[SK] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "slovenian": "[SK] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "slovenian": "[SK] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "slovenian": "[SK] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "slovenian": "[SK] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "slovenian": "Pozdravljeni, lepo vas je spoznati.", "transliteration": "Pozdravljeni, lepo vas je spoznati."},
+        {"english": "Thank you very much.", "slovenian": "Najlep\u0161a hvala.", "transliteration": "Najlep\u0161a hvala."},
+        {"english": "Good morning, have a great day.", "slovenian": "Dobro jutro, lep dan vam \u017eelim.", "transliteration": "Dobro jutro, lep dan vam \u017eelim."},
+        {"english": "I love learning new languages.", "slovenian": "Obo\u017eujem u\u010denje novih jezikov.", "transliteration": "Obo\u017eujem u\u010denje novih jezikov."},
+        {"english": "Never give up on your dreams.", "slovenian": "Nikoli ne obupajte nad svojimi sanjami.", "transliteration": "Nikoli ne obupajte nad svojimi sanjami."},
+        {"english": "Every day is a fresh start.", "slovenian": "Vsak dan je nov za\u010detek.", "transliteration": "Vsak dan je nov za\u010detek."},
+        {"english": "Believe in yourself always.", "slovenian": "Vedno verjemite vase.", "transliteration": "Vedno verjemite vase."},
+        {"english": "Small steps lead to big changes.", "slovenian": "Majhni koraki vodijo do velikih sprememb.", "transliteration": "Majhni koraki vodijo do velikih sprememb."},
+        {"english": "You are stronger than you think.", "slovenian": "Mo\u010dnej\u0161i ste, kot si mislite.", "transliteration": "Mo\u010dnej\u0161i ste, kot si mislite."},
+        {"english": "Happiness is a choice, choose it.", "slovenian": "Sre\u010da je izbira, izberite jo.", "transliteration": "Sre\u010da je izbira, izberite jo."},
+        {"english": "What time is it please.", "slovenian": "Koliko je ura, prosim.", "transliteration": "Koliko je ura, prosim."},
+        {"english": "Where is the train station.", "slovenian": "Kje je \u017eelezni\u0161ka postaja.", "transliteration": "Kje je \u017eelezni\u0161ka postaja."},
+        {"english": "How much does this cost.", "slovenian": "Koliko to stane.", "transliteration": "Koliko to stane."},
+        {"english": "Can you help me please.", "slovenian": "Mi lahko pomagate, prosim.", "transliteration": "Mi lahko pomagate, prosim."},
+        {"english": "I would like a coffee please.", "slovenian": "Rad bi kavo, prosim.", "transliteration": "Rad bi kavo, prosim."},
+        {"english": "The food is delicious today.", "slovenian": "Hrana je danes okusna.", "transliteration": "Hrana je danes okusna."},
+        {"english": "Have a wonderful weekend.", "slovenian": "Lep vikend vam \u017eelim.", "transliteration": "Lep vikend vam \u017eelim."},
+        {"english": "Take care of yourself.", "slovenian": "Skrbite zase.", "transliteration": "Skrbite zase."},
+        {"english": "See you tomorrow my friend.", "slovenian": "Se vidimo jutri, prijatelj.", "transliteration": "Se vidimo jutri, prijatelj."},
+        {"english": "The weather is beautiful outside.", "slovenian": "Zunaj je lepo vreme.", "transliteration": "Zunaj je lepo vreme."},
+        {"english": "I am very happy today.", "slovenian": "Danes sem zelo vesel/vesela.", "transliteration": "Danes sem zelo vesel/vesela."},
+        {"english": "Learning a language opens new doors.", "slovenian": "U\u010denje jezika odpira nova vrata.", "transliteration": "U\u010denje jezika odpira nova vrata."},
+        {"english": "Keep practicing every single day.", "slovenian": "Vadite vsak dan.", "transliteration": "Vadite vsak dan."},
+        {"english": "You can achieve anything you want.", "slovenian": "Lahko dose\u017eete vse, kar si \u017eelite.", "transliteration": "Lahko dose\u017eete vse, kar si \u017eelite."},
+        {"english": "Rest when you are tired.", "slovenian": "Po\u010divajte, ko ste utrujeni.", "transliteration": "Po\u010divajte, ko ste utrujeni."},
+        {"english": "Focus on the positive things.", "slovenian": "Osredoto\u010dite se na pozitivne stvari.", "transliteration": "Osredoto\u010dite se na pozitivne stvari."},
+        {"english": "Learn from your mistakes.", "slovenian": "U\u010dite se iz svojih napak.", "transliteration": "U\u010dite se iz svojih napak."},
+        {"english": "Trust the process completely.", "slovenian": "Popolnoma zaupajte procesu.", "transliteration": "Popolnoma zaupajte procesu."},
+        {"english": "Breathe deeply and stay calm.", "slovenian": "Globoko dihajte in ostanite mirni.", "transliteration": "Globoko dihajte in ostanite mirni."},
+        {"english": "Enjoy the little moments in life.", "slovenian": "U\u017eivajte v malih trenutkih \u017eivljenja.", "transliteration": "U\u017eivajte v malih trenutkih \u017eivljenja."},
+        {"english": "Smile more, worry less.", "slovenian": "Ve\u010d se smejte, manj skrbite.", "transliteration": "Ve\u010d se smejte, manj skrbite."},
+        {"english": "Be kind to everyone you meet.", "slovenian": "Bodite prijazni do vseh, ki jih sre\u010date.", "transliteration": "Bodite prijazni do vseh, ki jih sre\u010date."},
+        {"english": "Help others without expecting anything back.", "slovenian": "Pomagajte drugim, ne da bi pri\u010dakovali povra\u010dilo.", "transliteration": "Pomagajte drugim, ne da bi pri\u010dakovali povra\u010dilo."},
+        {"english": "Forgive yourself and move forward.", "slovenian": "Oprostite si in pojdite naprej.", "transliteration": "Oprostite si in pojdite naprej."},
+        {"english": "Stay strong in difficult times.", "slovenian": "Ostanite mo\u010dni v te\u017ekih \u010dasih.", "transliteration": "Ostanite mo\u010dni v te\u017ekih \u010dasih."},
+        {"english": "Every moment is a new beginning.", "slovenian": "Vsak trenutek je nov za\u010detek.", "transliteration": "Vsak trenutek je nov za\u010detek."},
+        {"english": "Listen to your heart always.", "slovenian": "Vedno poslu\u0161ajte svoje srce.", "transliteration": "Vedno poslu\u0161ajte svoje srce."},
+        {"english": "Do what makes you happy.", "slovenian": "Delajte tisto, kar vas osre\u010duje.", "transliteration": "Delajte tisto, kar vas osre\u010duje."},
+        {"english": "Your potential is unlimited.", "slovenian": "Va\u0161 potencial je neomejen.", "transliteration": "Va\u0161 potencial je neomejen."},
+        {"english": "Be brave and take risks.", "slovenian": "Bodite pogumni in tvegajte.", "transliteration": "Bodite pogumni in tvegajte."},
+        {"english": "Celebrate your progress every day.", "slovenian": "Vsak dan praznujte svoj napredek.", "transliteration": "Vsak dan praznujte svoj napredek."},
+        {"english": "Surround yourself with good people.", "slovenian": "Obkro\u017eite se z dobrimi ljudmi.", "transliteration": "Obkro\u017eite se z dobrimi ljudmi."},
+        {"english": "Read books and grow your mind.", "slovenian": "Berite knjige in razvijajte svoj um.", "transliteration": "Berite knjige in razvijajte svoj um."},
+        {"english": "Travel and discover new places.", "slovenian": "Potujte in odkrivajte nove kraje.", "transliteration": "Potujte in odkrivajte nove kraje."},
+        {"english": "Appreciate what you already have.", "slovenian": "Cenite tisto, kar \u017ee imate.", "transliteration": "Cenite tisto, kar \u017ee imate."},
+        {"english": "Dance like nobody is watching.", "slovenian": "Ple\u0161ite, kot da vas nih\u010de ne gleda.", "transliteration": "Ple\u0161ite, kot da vas nih\u010de ne gleda."},
+        {"english": "Sing from your heart out loud.", "slovenian": "Pojte iz srca na glas.", "transliteration": "Pojte iz srca na glas."},
+        {"english": "Plant seeds of kindness everywhere.", "slovenian": "Sadite seme prijaznosti povsod.", "transliteration": "Sadite seme prijaznosti povsod."},
+        {"english": "Let go of what you cannot control.", "slovenian": "Pustite tisto, \u010desar ne morete nadzorovati.", "transliteration": "Pustite tisto, \u010desar ne morete nadzorovati."},
+        {"english": "Be present in the here and now.", "slovenian": "Bodite prisotni v tukaj in zdaj.", "transliteration": "Bodite prisotni v tukaj in zdaj."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "slovenian"
-    for p in fresh:
-        p[lang_key] = p.pop("slovenian")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
