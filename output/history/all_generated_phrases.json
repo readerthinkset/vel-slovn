@@ -1399,7 +1399,42 @@
       "transliteration": "Gromh ghr-mee, zd-eye dah-lech strahn.",
       "category": "Weather",
       "generated_at": "2026-07-08T14:25:19.028765"
+    },
+    {
+      "english": "Speak Slovenian, with joy.",
+      "slovenian": "Govorite slovenščino, z veseljem.",
+      "transliteration": "Go-vo-ri-te slo-ven-shchi-no, z ve-se-ljem.",
+      "category": "Education",
+      "generated_at": "2026-07-08T16:02:32.160907"
+    },
+    {
+      "english": "Understand Slovenian, a new world.",
+      "slovenian": "Razumite slovenščino, nov svet.",
+      "transliteration": "Raz-u-mi-te slo-ven-shchi-no, nov svet.",
+      "category": "Education",
+      "generated_at": "2026-07-08T16:02:32.160919"
+    },
+    {
+      "english": "Practice Slovenian, every day.",
+      "slovenian": "Vadite slovenščino, vsak dan.",
+      "transliteration": "Va-di-te slo-ven-shchi-no, vsak dan.",
+      "category": "Education",
+      "generated_at": "2026-07-08T16:02:32.160921"
+    },
+    {
+      "english": "Read Slovenian, stories unfold.",
+      "slovenian": "Berite slovenščino, zgodbe se odvijajo.",
+      "transliteration": "Be-ri-te slo-ven-shchi-no, zgod-be se od-vi-ja-jo.",
+      "category": "Education",
+      "generated_at": "2026-07-08T16:02:32.160922"
+    },
+    {
+      "english": "Write Slovenian, express yourself.",
+      "slovenian": "Pišite slovenščino, izrazite se.",
+      "transliteration": "Pi-shi-te slo-ven-shchi-no, iz-ra-zi-te se.",
+      "category": "Education",
+      "generated_at": "2026-07-08T16:02:32.160923"
     }
   ],
-  "last_updated": "2026-07-08T14:25:19.028767"
+  "last_updated": "2026-07-08T16:02:32.160925"
 }
