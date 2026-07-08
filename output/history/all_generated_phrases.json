@@ -1364,7 +1364,42 @@
       "transliteration": "Tem-no vijolič-na, skriv-nost kli-če.",
       "category": "Colors",
       "generated_at": "2026-07-08T01:21:26.232533"
+    },
+    {
+      "english": "The sun shines, brightly today.",
+      "slovenian": "Sonce sije, danes močno.",
+      "transliteration": "Soh-neh see-yeh, dah-nehs mohch-noh.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T14:25:19.028753"
+    },
+    {
+      "english": "A gentle breeze, whispers through leaves.",
+      "slovenian": "Nežen vetrič, šepeta skozi liste.",
+      "transliteration": "Neh-zhen veh-treech, sheh-peh-tah skoh-zee lee-steh.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T14:25:19.028761"
+    },
+    {
+      "english": "Clouds are gathering, looking gray.",
+      "slovenian": "Oblaki se zbirajo, videti so sivi.",
+      "transliteration": "Oh-blah-kee seh zb-ee-rah-yoh, vee-deh-tee soh see-vee.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T14:25:19.028763"
+    },
+    {
+      "english": "Rain is falling, a soft pitter-patter.",
+      "slovenian": "Dež pada, nežno bobnenje.",
+      "transliteration": "Dezh pah-dah, neh-zhnoh boh-bn-eh-nyeh.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T14:25:19.028764"
+    },
+    {
+      "english": "Thunder rumbles, far away now.",
+      "slovenian": "Grom grmi, zdaj daleč stran.",
+      "transliteration": "Gromh ghr-mee, zd-eye dah-lech strahn.",
+      "category": "Weather",
+      "generated_at": "2026-07-08T14:25:19.028765"
     }
   ],
-  "last_updated": "2026-07-08T01:21:26.232535"
+  "last_updated": "2026-07-08T14:25:19.028767"
 }
