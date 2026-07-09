@@ -1504,7 +1504,42 @@
       "transliteration": "Zapoj stare pesmi, z dušo.",
       "category": "Culture",
       "generated_at": "2026-07-08T21:11:35.626061"
+    },
+    {
+      "english": "This shirt, it's so soft.",
+      "slovenian": "Ta srajca, je tako mehka.",
+      "transliteration": "Tah sigh-tsah, yeh tah-koh meh-khah.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T04:02:29.107564"
+    },
+    {
+      "english": "I need new socks, please.",
+      "slovenian": "Potrebujem nove nogavice, prosim.",
+      "transliteration": "Poh-treh-boo-yem noh-veh noh-gah-vee-tseh, proh-seem.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T04:02:29.107574"
+    },
+    {
+      "english": "These jeans, they fit perfectly.",
+      "slovenian": "Te kavbojke, se popolnoma prilegajo.",
+      "transliteration": "Teh kahv-boy-keh, seh poh-pohl-noh-mah preeh-lee-gah-yoh.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T04:02:29.107576"
+    },
+    {
+      "english": "My favorite sweater, is blue.",
+      "slovenian": "Moj najljubši pulover, je moder.",
+      "transliteration": "Moy nye-lyoo-bee-shee poo-loh-vehr, yeh moh-dehr.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T04:02:29.107577"
+    },
+    {
+      "english": "Where is the hat section?",
+      "slovenian": "Kje je oddelek za klobuke?",
+      "transliteration": "Kyeh yeh od-deh-lek zah kloh-boo-keh?",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T04:02:29.107578"
     }
   ],
-  "last_updated": "2026-07-08T21:11:35.626063"
+  "last_updated": "2026-07-09T04:02:29.107580"
 }
