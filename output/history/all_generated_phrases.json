@@ -1959,7 +1959,42 @@
       "transliteration": "Voh-zee ow-toh-boos v tsen-ter?",
       "category": "Travel",
       "generated_at": "2026-07-11T14:54:45.230052"
+    },
+    {
+      "english": "We're ready, to order, finally.",
+      "slovenian": "Pripravljeni, smo, naročiti, končno.",
+      "transliteration": "Pree-yah-veh-nee, smo, nah-roh-cheet-ee, kon-nah-no.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T17:45:59.130946"
+    },
+    {
+      "english": "Could we, have some water, please?",
+      "slovenian": "Lahko, dobimo, malo vode, prosim?",
+      "transliteration": "Lah-koh, doh-bee-moh, mah-loh voh-deh, pro-seem?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T17:45:59.130955"
+    },
+    {
+      "english": "This looks, delicious, doesn't it?",
+      "slovenian": "To izgleda, slastno, a ne?",
+      "transliteration": "Toh eez-gleh-dah, slahs-tno, ah neh?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T17:45:59.130956"
+    },
+    {
+      "english": "What's the, daily special, today?",
+      "slovenian": "Kakšen, je dnevni, meni, danes?",
+      "transliteration": "Kah-k-shen, yeh dnehv-nee, meh-nee, dah-nes?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T17:45:59.130957"
+    },
+    {
+      "english": "Just a moment, please, I'm deciding.",
+      "slovenian": "Samo trenutek, prosim, odločam se.",
+      "transliteration": "Sah-moh treh-noo-tek, pro-seem, ohd-loh-cham seh.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T17:45:59.130959"
     }
   ],
-  "last_updated": "2026-07-11T14:54:45.230054"
+  "last_updated": "2026-07-11T17:45:59.130960"
 }
