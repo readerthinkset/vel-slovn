@@ -1924,7 +1924,42 @@
       "transliteration": "Vsak eez-zeev, yeh pree-lozh-nost.",
       "category": "Confidence",
       "generated_at": "2026-07-11T13:28:24.843723"
+    },
+    {
+      "english": "Where is the nearest train station?",
+      "slovenian": "Kje je najbližja železniška postaja?",
+      "transliteration": "Kyeh yeh nay-bleezh-yah zheh-lehz-neesh-kah post-ah-yah?",
+      "category": "Travel",
+      "generated_at": "2026-07-11T14:54:45.230037"
+    },
+    {
+      "english": "Can I have the menu, please?",
+      "slovenian": "Lahko dobim jedilni list, prosim?",
+      "transliteration": "Lah-koh doh-beem yeh-deel-nee leest, pro-seem?",
+      "category": "Travel",
+      "generated_at": "2026-07-11T14:54:45.230049"
+    },
+    {
+      "english": "How much does this cost?",
+      "slovenian": "Koliko je to?",
+      "transliteration": "Koh-lee-koh yeh toh?",
+      "category": "Travel",
+      "generated_at": "2026-07-11T14:54:45.230050"
+    },
+    {
+      "english": "A ticket to Ljubljana, one way.",
+      "slovenian": "Ena vozovnica, za Ljubljano, v eno smer.",
+      "transliteration": "Eh-nah voh-zov-neets-ah, zah Lyub-lyah-noh, v eh-noh smer.",
+      "category": "Travel",
+      "generated_at": "2026-07-11T14:54:45.230051"
+    },
+    {
+      "english": "Is there a bus to the city center?",
+      "slovenian": "Vozi avtobus v center?",
+      "transliteration": "Voh-zee ow-toh-boos v tsen-ter?",
+      "category": "Travel",
+      "generated_at": "2026-07-11T14:54:45.230052"
     }
   ],
-  "last_updated": "2026-07-11T13:28:24.843725"
+  "last_updated": "2026-07-11T14:54:45.230054"
 }
