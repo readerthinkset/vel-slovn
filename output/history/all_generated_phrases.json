@@ -1854,7 +1854,42 @@
       "transliteration": "Ra-do-ve-den, ho-chem vetch raz-ee-sko-va-ti.",
       "category": "Feelings",
       "generated_at": "2026-07-10T21:09:26.343033"
+    },
+    {
+      "english": "Green leaves whisper secrets.",
+      "slovenian": "Zeleni listi šepetajo skrivnosti.",
+      "transliteration": "Zeh-leh-nee lees-tee sheh-peh-tah-yo skreev-nost-ee.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T03:29:35.895423"
+    },
+    {
+      "english": "Sunlight warms the forest floor.",
+      "slovenian": "Sončna svetloba ogreva gozdna tla.",
+      "transliteration": "Son-ch-nah svet-loh-bah oh-greh-vah gozd-nah tluh.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T03:29:35.895433"
+    },
+    {
+      "english": "A gentle breeze, through the trees.",
+      "slovenian": "Nežen vetrič, skozi drevesa.",
+      "transliteration": "Neh-zhen veh-treetch, skoh-zee dreh-veh-sah.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T03:29:35.895435"
+    },
+    {
+      "english": "Mountains touch the sky.",
+      "slovenian": "Gore se dotikajo neba.",
+      "transliteration": "Goh-reh seh doh-tee-kah-yo neh-bah.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T03:29:35.895437"
+    },
+    {
+      "english": "Rivers flow, ever onward.",
+      "slovenian": "Reke tečejo, vedno naprej.",
+      "transliteration": "Reh-keh teh-choh-yo, vehd-noh nah-preh-y.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T03:29:35.895438"
     }
   ],
-  "last_updated": "2026-07-10T21:09:26.343035"
+  "last_updated": "2026-07-11T03:29:35.895440"
 }
