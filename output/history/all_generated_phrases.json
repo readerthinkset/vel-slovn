@@ -2029,7 +2029,42 @@
       "transliteration": "Zheh-lim, da bi ved-el bol-yeh.",
       "category": "Forgiveness",
       "generated_at": "2026-07-12T03:42:04.207181"
+    },
+    {
+      "english": "My phone, is dead. Can I borrow yours?",
+      "slovenian": "Moj telefon, je mrtev. Lahko posodim vašega?",
+      "transliteration": "Moy tel-eh-fon, yeh mrtev. Lah-ko po-so-deem vah-she-gah?",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T13:37:39.613596"
+    },
+    {
+      "english": "I need to find, a quiet place.",
+      "slovenian": "Potrebujem najti, miren prostor.",
+      "transliteration": "Po-tre-bu-yem nay-tee, mee-ren pro-stor.",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T13:37:39.613605"
+    },
+    {
+      "english": "Is this the correct, way to the station?",
+      "slovenian": "Je to pravilen, način do postaje?",
+      "transliteration": "Yeh toh prah-vee-len, nah-cheen doh po-stah-yeh?",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T13:37:39.613607"
+    },
+    {
+      "english": "I have a severe, allergic reaction.",
+      "slovenian": "Imam hudo, alergijsko reakcijo.",
+      "transliteration": "Ee-mahm hoo-doh, ah-ler-gees-ko re-ak-tsee-yoh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T13:37:39.613608"
+    },
+    {
+      "english": "My wallet, has been stolen.",
+      "slovenian": "Moja denarnica, je bila ukradena.",
+      "transliteration": "Moy-ah deh-nar-nee-tsah, yeh bee-lah oo-krah-deh-nah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T13:37:39.613609"
     }
   ],
-  "last_updated": "2026-07-12T03:42:04.207183"
+  "last_updated": "2026-07-12T13:37:39.613611"
 }
