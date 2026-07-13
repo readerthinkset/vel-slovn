@@ -2239,7 +2239,42 @@
       "transliteration": "Gradite mostove, s svojim glasom.",
       "category": "Purpose",
       "generated_at": "2026-07-13T14:44:05.532257"
+    },
+    {
+      "english": "The small bird, sings sweetly.",
+      "slovenian": "Mala ptica, poje sladko.",
+      "transliteration": "Mala ptitsa, poyeh sladko.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T16:33:45.524533"
+    },
+    {
+      "english": "A busy bee, collects nectar.",
+      "slovenian": "Zaposlena čebela, nabira nektar.",
+      "transliteration": "Zaposlena chebela, nabira nektar.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T16:33:45.524540"
+    },
+    {
+      "english": "The playful puppy, chases its tail.",
+      "slovenian": "Igračen kuža, lovi svoj rep.",
+      "transliteration": "Igrachen kooza, lovi svoy rep.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T16:33:45.524541"
+    },
+    {
+      "english": "A wise old owl, watches quietly.",
+      "slovenian": "Modra stara sova, opazuje tiho.",
+      "transliteration": "Modra stara sova, opazuje teeho.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T16:33:45.524543"
+    },
+    {
+      "english": "The curious cat, explores the garden.",
+      "slovenian": "Radovedna mačka, raziskuje vrt.",
+      "transliteration": "Radovedna machka, raziskuje vrt.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T16:33:45.524544"
     }
   ],
-  "last_updated": "2026-07-13T14:44:05.532259"
+  "last_updated": "2026-07-13T16:33:45.524545"
 }
