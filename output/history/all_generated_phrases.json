@@ -2309,7 +2309,42 @@
       "transliteration": "Glas-ba na-pol-ni zrak, le-po.",
       "category": "Music",
       "generated_at": "2026-07-13T18:26:15.842198"
+    },
+    {
+      "english": "Morning mist, hangs low now.",
+      "slovenian": "Jutranja megla, se vleče zdaj.",
+      "transliteration": "Yoo-tran-ya meh-gla, seh vle-tseh zdai.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T21:00:07.201629"
+    },
+    {
+      "english": "Sky is turning, a deep blue.",
+      "slovenian": "Nebo postaja, temno modro.",
+      "transliteration": "Neh-bo po-sta-ya, tem-no mod-ro.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T21:00:07.201638"
+    },
+    {
+      "english": "Wind picks up, feels brisk.",
+      "slovenian": "Veter se dvigne, je oster.",
+      "transliteration": "Veh-ter seh dve-gneh, yeh o-ster.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T21:00:07.201640"
+    },
+    {
+      "english": "Sunbeams break through, warming earth.",
+      "slovenian": "Sončni žarki, grejejo zemljo.",
+      "transliteration": "Son-chee zhahr-kee, greh-yeh-yoo zem-lyo.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T21:00:07.201641"
+    },
+    {
+      "english": "A sudden shower, quite unexpected.",
+      "slovenian": "Nenaden naliv, kar nepričakovan.",
+      "transliteration": "Neh-na-den na-leev, kahr neh-pree-cha-kee-van.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T21:00:07.201642"
     }
   ],
-  "last_updated": "2026-07-13T18:26:15.842200"
+  "last_updated": "2026-07-13T21:00:07.201644"
 }
