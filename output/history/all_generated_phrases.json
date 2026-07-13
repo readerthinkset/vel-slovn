@@ -2274,7 +2274,42 @@
       "transliteration": "Radovedna machka, raziskuje vrt.",
       "category": "Animals",
       "generated_at": "2026-07-13T16:33:45.524544"
+    },
+    {
+      "english": "Listen closely, hear the melody.",
+      "slovenian": "Poslušaj pozorno, sliši melodijo.",
+      "transliteration": "Po-loo-shai po-zor-no, sli-shi me-lo-di-yo.",
+      "category": "Music",
+      "generated_at": "2026-07-13T18:26:15.842185"
+    },
+    {
+      "english": "Sing out loud, with all your heart.",
+      "slovenian": "Zapoj na glas, z vsem srcem.",
+      "transliteration": "Za-poy na glas, z vsem sr-tsem.",
+      "category": "Music",
+      "generated_at": "2026-07-13T18:26:15.842194"
+    },
+    {
+      "english": "Feel the rhythm, move your feet.",
+      "slovenian": "Občuti ritem, premakni noge.",
+      "transliteration": "Ob-choo-ti ri-tem, pre-mah-kni no-ge.",
+      "category": "Music",
+      "generated_at": "2026-07-13T18:26:15.842196"
+    },
+    {
+      "english": "Play a song, for everyone.",
+      "slovenian": "Zaigraj pesem, za vse.",
+      "transliteration": "Zai-grai pe-sem, za vse.",
+      "category": "Music",
+      "generated_at": "2026-07-13T18:26:15.842197"
+    },
+    {
+      "english": "Music fills the air, beautifully.",
+      "slovenian": "Glasba napolni zrak, lepo.",
+      "transliteration": "Glas-ba na-pol-ni zrak, le-po.",
+      "category": "Music",
+      "generated_at": "2026-07-13T18:26:15.842198"
     }
   ],
-  "last_updated": "2026-07-13T16:33:45.524545"
+  "last_updated": "2026-07-13T18:26:15.842200"
 }
