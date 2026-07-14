@@ -2414,7 +2414,42 @@
       "transliteration": "Radovednost odpre mnoga vrata.",
       "category": "Wisdom",
       "generated_at": "2026-07-14T13:53:42.576924"
+    },
+    {
+      "english": "This is, a beautiful day.",
+      "slovenian": "Kakšen, lep dan.",
+      "transliteration": "Kah-shen, lep dan.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T15:24:42.826053"
+    },
+    {
+      "english": "Let's go, for a walk.",
+      "slovenian": "Gremo, na sprehod.",
+      "transliteration": "Greh-moh, nah spreh-hod.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T15:24:42.826065"
+    },
+    {
+      "english": "I love, this coffee.",
+      "slovenian": "Obožujem, to kavo.",
+      "transliteration": "Oh-boh-zhoo-yem, toh kah-voh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T15:24:42.826066"
+    },
+    {
+      "english": "Can you help, me please?",
+      "slovenian": "Mi lahko, pomagate?",
+      "transliteration": "Mee lah-koh, poh-mah-gah-teh?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T15:24:42.826066"
+    },
+    {
+      "english": "It's a bit, cold today.",
+      "slovenian": "Danes je, malo hladno.",
+      "transliteration": "Dah-nes yeh, mah-loh hlahd-noh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T15:24:42.826067"
     }
   ],
-  "last_updated": "2026-07-14T13:53:42.576926"
+  "last_updated": "2026-07-14T15:24:42.826068"
 }
