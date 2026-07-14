@@ -2344,7 +2344,42 @@
       "transliteration": "Neh-na-den na-leev, kahr neh-pree-cha-kee-van.",
       "category": "Weather",
       "generated_at": "2026-07-13T21:00:07.201642"
+    },
+    {
+      "english": "A bright day, indeed.",
+      "slovenian": "Lep dan, zares.",
+      "transliteration": "Lep dan, zares.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:18:04.976462"
+    },
+    {
+      "english": "Joyful to see you.",
+      "slovenian": "Veseli, da te vidim.",
+      "transliteration": "Veseli, da te vidim.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:18:04.976470"
+    },
+    {
+      "english": "Greetings, sunshine!",
+      "slovenian": "Pozdravljena, sonček!",
+      "transliteration": "Pozdravljena, sonček!",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:18:04.976472"
+    },
+    {
+      "english": "May your day bloom.",
+      "slovenian": "Naj ti dan zacveti.",
+      "transliteration": "Naj ti dan zacveti.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:18:04.976473"
+    },
+    {
+      "english": "A warm hello, friend.",
+      "slovenian": "Lep pozdrav, prijatelj.",
+      "transliteration": "Lep pozdrav, prijatelj.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:18:04.976474"
     }
   ],
-  "last_updated": "2026-07-13T21:00:07.201644"
+  "last_updated": "2026-07-14T03:18:04.976476"
 }
