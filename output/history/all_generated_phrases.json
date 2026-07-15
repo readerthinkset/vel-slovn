@@ -2554,7 +2554,42 @@
       "transliteration": "Od zdah-ee nah-preh-ee, nah-preh-ee.",
       "category": "Time",
       "generated_at": "2026-07-15T03:17:44.806697"
+    },
+    {
+      "english": "Morning light, gentle start.",
+      "slovenian": "Jutranja svetloba, nežen začetek.",
+      "transliteration": "Yoo-trahn-yah svet-loh-bee-ah, neh-zhen za-cheh-tek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-15T13:51:17.818026"
+    },
+    {
+      "english": "Coffee brewing, thoughts flowing.",
+      "slovenian": "Kava se kuha, misli tečejo.",
+      "transliteration": "Kah-vah seh koo-hah, mees-lee teh-chay-oh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-15T13:51:17.818038"
+    },
+    {
+      "english": "Birds singing, a new day.",
+      "slovenian": "Ptice pojejo, nov dan.",
+      "transliteration": "Ptee-tseh poh-yay-oh, nov dahn.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-15T13:51:17.818040"
+    },
+    {
+      "english": "Stretch your arms, wake up.",
+      "slovenian": "Raztegni roke, zbudi se.",
+      "transliteration": "Rahz-tehg-nee roh-keh, zboh-dee seh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-15T13:51:17.818041"
+    },
+    {
+      "english": "Fresh air, deep breath.",
+      "slovenian": "Svež zrak, globok vdih.",
+      "transliteration": "Svehzh zrahk, gloh-bok vdih.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-15T13:51:17.818045"
     }
   ],
-  "last_updated": "2026-07-15T03:17:44.806699"
+  "last_updated": "2026-07-15T13:51:17.818047"
 }
