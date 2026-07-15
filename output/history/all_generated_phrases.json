@@ -2519,7 +2519,42 @@
       "transliteration": "Gee-bai seh nezh-noh, rahz-teh-goo-yee poh-goh-stoh.",
       "category": "Health",
       "generated_at": "2026-07-14T21:03:51.957297"
+    },
+    {
+      "english": "Just a moment, please.",
+      "slovenian": "Samo trenutek, prosim.",
+      "transliteration": "Samo treh-netek, pro-sim.",
+      "category": "Time",
+      "generated_at": "2026-07-15T03:17:44.806684"
+    },
+    {
+      "english": "In a little while, we'll go.",
+      "slovenian": "Čez malo, gremo.",
+      "transliteration": "Chehz mah-lo, greh-moh.",
+      "category": "Time",
+      "generated_at": "2026-07-15T03:17:44.806693"
+    },
+    {
+      "english": "The time is right, now.",
+      "slovenian": "Zdaj je pravi čas.",
+      "transliteration": "Zdah-ee yeh prah-vee chahs.",
+      "category": "Time",
+      "generated_at": "2026-07-15T03:17:44.806695"
+    },
+    {
+      "english": "After a bit, maybe.",
+      "slovenian": "Po malem, morda.",
+      "transliteration": "Poh mah-lem, mor-dah.",
+      "category": "Time",
+      "generated_at": "2026-07-15T03:17:44.806696"
+    },
+    {
+      "english": "From this point on, forward.",
+      "slovenian": "Od zdaj naprej, naprej.",
+      "transliteration": "Od zdah-ee nah-preh-ee, nah-preh-ee.",
+      "category": "Time",
+      "generated_at": "2026-07-15T03:17:44.806697"
     }
   ],
-  "last_updated": "2026-07-14T21:03:51.957299"
+  "last_updated": "2026-07-15T03:17:44.806699"
 }
