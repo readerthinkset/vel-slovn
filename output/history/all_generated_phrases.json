@@ -2834,7 +2834,42 @@
       "transliteration": "Ne boy-te se na-pak, u-či-te se iz nji-h.",
       "category": "Strength",
       "generated_at": "2026-07-16T17:58:50.108785"
+    },
+    {
+      "english": "Merry Christmas, everyone.",
+      "slovenian": "Vesele božične praznike, vsi.",
+      "transliteration": "Ve-se-le bo-ži-ne pra-zni-ke, vsi.",
+      "category": "Holidays",
+      "generated_at": "2026-07-16T21:04:32.100966"
+    },
+    {
+      "english": "Happy New Year, friends.",
+      "slovenian": "Srečno novo leto, prijatelji.",
+      "transliteration": "Sre-čno no-vo le-to, pri-ja-telj-i.",
+      "category": "Holidays",
+      "generated_at": "2026-07-16T21:04:32.100977"
+    },
+    {
+      "english": "Enjoy the holidays.",
+      "slovenian": "Uživajte praznike.",
+      "transliteration": "U-ži-va-jte pra-zni-ke.",
+      "category": "Holidays",
+      "generated_at": "2026-07-16T21:04:32.100979"
+    },
+    {
+      "english": "Warm wishes to you.",
+      "slovenian": "Tople želje vam.",
+      "transliteration": "Top-le že-lje vam.",
+      "category": "Holidays",
+      "generated_at": "2026-07-16T21:04:32.100980"
+    },
+    {
+      "english": "Peace and joy.",
+      "slovenian": "Mir in veselje.",
+      "transliteration": "Mir in ve-selj-e.",
+      "category": "Holidays",
+      "generated_at": "2026-07-16T21:04:32.100981"
     }
   ],
-  "last_updated": "2026-07-16T17:58:50.108787"
+  "last_updated": "2026-07-16T21:04:32.100983"
 }
