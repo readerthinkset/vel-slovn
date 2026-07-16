@@ -2764,7 +2764,42 @@
       "transliteration": "Po-se-ya-no se-me, bo za-go-to-vo zra-slo.",
       "category": "Hope",
       "generated_at": "2026-07-16T14:03:51.938458"
+    },
+    {
+      "english": "Good morning, sunshine.",
+      "slovenian": "Dobro jutro, sonček.",
+      "transliteration": "Doh-broh yoo-troh, sohn-chehk.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T15:39:02.651844"
+    },
+    {
+      "english": "You're welcome, always.",
+      "slovenian": "Ni za kaj, zmeraj.",
+      "transliteration": "Nee zah kah-ee, zmeh-rah-ee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T15:39:02.651854"
+    },
+    {
+      "english": "No, not really.",
+      "slovenian": "Ne, glih ne.",
+      "transliteration": "Neh, gleeeh neh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T15:39:02.651856"
+    },
+    {
+      "english": "How much is this?",
+      "slovenian": "Koliko je to?",
+      "transliteration": "Koh-lee-koh yeh toh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T15:39:02.651858"
+    },
+    {
+      "english": "I need help, please.",
+      "slovenian": "Rabim pomoč, prosim.",
+      "transliteration": "Rah-beem poh-moch, proh-seem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T15:39:02.651859"
     }
   ],
-  "last_updated": "2026-07-16T14:03:51.938461"
+  "last_updated": "2026-07-16T15:39:02.651861"
 }
