@@ -2974,7 +2974,42 @@
       "transliteration": "Razumeish me, kot nihche drug.",
       "category": "Friendship",
       "generated_at": "2026-07-17T17:56:04.275377"
+    },
+    {
+      "english": "This one, is beautiful.",
+      "slovenian": "Ta, je čudovit.",
+      "transliteration": "Tah, yeh choo-doh-veet.",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T21:00:20.549494"
+    },
+    {
+      "english": "Just browsing, thank you.",
+      "slovenian": "Samo gledam, hvala.",
+      "transliteration": "Sah-moh gleh-dahm, hvah-lah.",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T21:00:20.549505"
+    },
+    {
+      "english": "Do you recommend, this one?",
+      "slovenian": "Priporočate, tega?",
+      "transliteration": "Pree-poh-roh-chah-teh, teh-gah?",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T21:00:20.549507"
+    },
+    {
+      "english": "I need, something warm.",
+      "slovenian": "Potrebujem, nekaj toplega.",
+      "transliteration": "Poh-treh-boo-yem, ney-kay toh-pleh-gah.",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T21:00:20.549509"
+    },
+    {
+      "english": "Where can I, pay?",
+      "slovenian": "Kje lahko, plačam?",
+      "transliteration": "Kyeh lah-koh, plah-chahm?",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T21:00:20.549510"
     }
   ],
-  "last_updated": "2026-07-17T17:56:04.275379"
+  "last_updated": "2026-07-17T21:00:20.549511"
 }
