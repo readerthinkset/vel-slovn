@@ -3289,7 +3289,42 @@
       "transliteration": "Po-no-sen, na ta ma-yhen ko-rak.",
       "category": "Feelings",
       "generated_at": "2026-07-19T14:56:12.766169"
+    },
+    {
+      "english": "What's new, with you?",
+      "slovenian": "Kaj novega, pri tebi?",
+      "transliteration": "Kai nove-go, pri te-bi?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-19T17:46:29.946380"
+    },
+    {
+      "english": "This is, quite interesting.",
+      "slovenian": "To je, precej zanimivo.",
+      "transliteration": "To ye, pre-tsai za-ni-mi-vo.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-19T17:46:29.946390"
+    },
+    {
+      "english": "I need, a moment.",
+      "slovenian": "Potrebujem, trenutek.",
+      "transliteration": "Po-tre-bu-yem, tre-nu-tek.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-19T17:46:29.946391"
+    },
+    {
+      "english": "How was your, weekend?",
+      "slovenian": "Kako je bil, vikend?",
+      "transliteration": "Ka-ko ye bil, vik-end?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-19T17:46:29.946392"
+    },
+    {
+      "english": "Let's grab, a bite.",
+      "slovenian": "Gremo, kaj pojest.",
+      "transliteration": "Gre-mo, kai po-yest.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-19T17:46:29.946394"
     }
   ],
-  "last_updated": "2026-07-19T14:56:12.766171"
+  "last_updated": "2026-07-19T17:46:29.946396"
 }
