@@ -3324,7 +3324,42 @@
       "transliteration": "Gre-mo, kai po-yest.",
       "category": "Common Expressions",
       "generated_at": "2026-07-19T17:46:29.946394"
+    },
+    {
+      "english": "Sunlight streams, golden and warm.",
+      "slovenian": "Sončni žarki sijejo, zlato in toplo.",
+      "transliteration": "SON-chnee ZHAR-kee SEE-yeh-yoh, ZLOH-toh ee TOH-ploh.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T20:55:11.281807"
+    },
+    {
+      "english": "Air feels crisp, perfect for walks.",
+      "slovenian": "Zrak je oster, odličen za sprehode.",
+      "transliteration": "ZRAHK yeh OH-ster, OD-lee-chen zah spreh-HOH-deh.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T20:55:11.281816"
+    },
+    {
+      "english": "Sky is clear, not a cloud.",
+      "slovenian": "Nebo je jasno, niti oblačka.",
+      "transliteration": "NEH-boh yeh YAH-sno, NEE-tee OH-blahch-kah.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T20:55:11.281818"
+    },
+    {
+      "english": "Dewdrops glisten, on the grass.",
+      "slovenian": "Rosi žarijo, na travi.",
+      "transliteration": "ROH-see ZHAH-ree-yoh, nah TRAH-vee.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T20:55:11.281819"
+    },
+    {
+      "english": "Wind rustles, through the trees.",
+      "slovenian": "Veter šepeta, skozi drevesa.",
+      "transliteration": "VEH-ter SHEH-peh-tah, SKOH-zee dreh-VEH-sah.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T20:55:11.281820"
     }
   ],
-  "last_updated": "2026-07-19T17:46:29.946396"
+  "last_updated": "2026-07-19T20:55:11.281822"
 }
