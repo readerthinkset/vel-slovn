@@ -3359,7 +3359,42 @@
       "transliteration": "VEH-ter SHEH-peh-tah, SKOH-zee dreh-VEH-sah.",
       "category": "Weather",
       "generated_at": "2026-07-19T20:55:11.281820"
+    },
+    {
+      "english": "My leg, it hurts badly.",
+      "slovenian": "Noga me, močno boli.",
+      "transliteration": "Noga me, moh-cho bo-lee.",
+      "category": "Emergency",
+      "generated_at": "2026-07-20T03:51:24.072680"
+    },
+    {
+      "english": "I can't breathe, properly.",
+      "slovenian": "Ne morem, dihati pravilno.",
+      "transliteration": "Ne mo-rem, dee-ha-tee pra-veel-no.",
+      "category": "Emergency",
+      "generated_at": "2026-07-20T03:51:24.072689"
+    },
+    {
+      "english": "Is anyone, there to assist?",
+      "slovenian": "Je kdo, tam za pomoč?",
+      "transliteration": "Ye kdo, tam za po-moch?",
+      "category": "Emergency",
+      "generated_at": "2026-07-20T03:51:24.072690"
+    },
+    {
+      "english": "I feel dizzy, very unwell.",
+      "slovenian": "Počutim se, omotično, slabo.",
+      "transliteration": "Po-choo-teem se, o-mo-tee-chno, sla-bo.",
+      "category": "Emergency",
+      "generated_at": "2026-07-20T03:51:24.072692"
+    },
+    {
+      "english": "There's been, a terrible accident.",
+      "slovenian": "Zgodila se je, huda nesreča.",
+      "transliteration": "Zgo-dee-la se ye, hoo-da ne-sre-cha.",
+      "category": "Emergency",
+      "generated_at": "2026-07-20T03:51:24.072693"
     }
   ],
-  "last_updated": "2026-07-19T20:55:11.281822"
+  "last_updated": "2026-07-20T03:51:24.072695"
 }
