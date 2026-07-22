@@ -3779,7 +3779,42 @@
       "transliteration": "Ne-žna spod-bu-da, ve-li-ko po-me-ni.",
       "category": "Kindness",
       "generated_at": "2026-07-22T14:07:01.517640"
+    },
+    {
+      "english": "New project, let's begin.",
+      "slovenian": "Nov projekt, začnimo.",
+      "transliteration": "Nov pro-yekt, za-chnee-mo.",
+      "category": "Work",
+      "generated_at": "2026-07-22T15:42:31.635739"
+    },
+    {
+      "english": "Team meeting, today.",
+      "slovenian": "Sestanek ekipe, danes.",
+      "transliteration": "Ses-ta-nek eh-kee-peh, da-nes.",
+      "category": "Work",
+      "generated_at": "2026-07-22T15:42:31.635751"
+    },
+    {
+      "english": "Deadline approaching, focus now.",
+      "slovenian": "Rok se bliža, osredotoči se.",
+      "transliteration": "Rok se blee-zha, oh-sreh-doh-toh-chee seh.",
+      "category": "Work",
+      "generated_at": "2026-07-22T15:42:31.635753"
+    },
+    {
+      "english": "Coffee break, needed.",
+      "slovenian": "Odmor za kavo, potreben.",
+      "transliteration": "Od-mor za ka-vo, poh-treh-ben.",
+      "category": "Work",
+      "generated_at": "2026-07-22T15:42:31.635754"
+    },
+    {
+      "english": "Client call, incoming.",
+      "slovenian": "Klic stranke, prihaja.",
+      "transliteration": "K-lits stran-keh, pree-ha-ya.",
+      "category": "Work",
+      "generated_at": "2026-07-22T15:42:31.635755"
     }
   ],
-  "last_updated": "2026-07-22T14:07:01.517642"
+  "last_updated": "2026-07-22T15:42:31.635757"
 }
