@@ -3919,7 +3919,42 @@
       "transliteration": "Ta trenutek, šteje.",
       "category": "Time",
       "generated_at": "2026-07-23T03:34:55.022116"
+    },
+    {
+      "english": "A pleasant day, I hope.",
+      "slovenian": "Lep dan, upam.",
+      "transliteration": "Lep dan, upam.",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T14:12:37.912793"
+    },
+    {
+      "english": "Greetings, newcomer.",
+      "slovenian": "Pozdravljen, novinec.",
+      "transliteration": "Pozdravljen, novinec.",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T14:12:37.912803"
+    },
+    {
+      "english": "A good start to the week.",
+      "slovenian": "Dober začetek tedna.",
+      "transliteration": "Dober začetek tedna.",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T14:12:37.912805"
+    },
+    {
+      "english": "Glad you could make it.",
+      "slovenian": "Sem vesel, da si prišel.",
+      "transliteration": "Sem vesel, da si prišel.",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T14:12:37.912806"
+    },
+    {
+      "english": "How are things progressing?",
+      "slovenian": "Kako stvari napredujejo?",
+      "transliteration": "Kako stvari napredujejo?",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T14:12:37.912806"
     }
   ],
-  "last_updated": "2026-07-23T03:34:55.022120"
+  "last_updated": "2026-07-23T14:12:37.912808"
 }
