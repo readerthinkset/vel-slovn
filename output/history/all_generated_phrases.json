@@ -3884,7 +3884,42 @@
       "transliteration": "Go-vo-ree-teh nah glahs. Choo-tee-teh beh-seh-deh.",
       "category": "Confidence",
       "generated_at": "2026-07-22T21:13:15.963045"
+    },
+    {
+      "english": "A moment, suspended.",
+      "slovenian": "Trenutek, v zraku.",
+      "transliteration": "Trenutek, v zraku.",
+      "category": "Time",
+      "generated_at": "2026-07-23T03:34:55.022098"
+    },
+    {
+      "english": "Time, flows onward.",
+      "slovenian": "Čas, teče naprej.",
+      "transliteration": "Chas, teche naprej.",
+      "category": "Time",
+      "generated_at": "2026-07-23T03:34:55.022111"
+    },
+    {
+      "english": "When, will it be?",
+      "slovenian": "Kdaj, bo to?",
+      "transliteration": "Kdai, bo to?",
+      "category": "Time",
+      "generated_at": "2026-07-23T03:34:55.022113"
+    },
+    {
+      "english": "Past, present, future.",
+      "slovenian": "Preteklost, sedanjost, prihodnost.",
+      "transliteration": "Preteklost, sedanjost, prihodnost.",
+      "category": "Time",
+      "generated_at": "2026-07-23T03:34:55.022114"
+    },
+    {
+      "english": "This instant, matters.",
+      "slovenian": "Ta trenutek, šteje.",
+      "transliteration": "Ta trenutek, šteje.",
+      "category": "Time",
+      "generated_at": "2026-07-23T03:34:55.022116"
     }
   ],
-  "last_updated": "2026-07-22T21:13:15.963047"
+  "last_updated": "2026-07-23T03:34:55.022120"
 }
