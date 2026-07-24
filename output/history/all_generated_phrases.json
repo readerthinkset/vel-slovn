@@ -4059,7 +4059,42 @@
       "transliteration": "Tah oo-lee-tsah, yeh tah-koh oh-char-lyee-vah.",
       "category": "Travel",
       "generated_at": "2026-07-23T21:09:33.933070"
+    },
+    {
+      "english": "Listen closely, then repeat.",
+      "slovenian": "Poslušajte pozorno, nato ponovite.",
+      "transliteration": "Poslushayte pozorno, nato ponovite.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T03:31:34.631614"
+    },
+    {
+      "english": "Try again, a little slower.",
+      "slovenian": "Poskusite znova, malo počasneje.",
+      "transliteration": "Poskusite znova, malo pocasneje.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T03:31:34.631625"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "slovenian": "Ne bodite sramežljivi, govorite.",
+      "transliteration": "Ne bodite sramezljivi, govorite.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T03:31:34.631626"
+    },
+    {
+      "english": "Read this sentence, please.",
+      "slovenian": "Preberite to poved, prosim.",
+      "transliteration": "Preberite to poved, prosim.",
+      "category": "Directions",
+      "generated_at": "2026-07-24T03:31:34.631628"
+    },
+    {
+      "english": "What does that mean?",
+      "slovenian": "Kaj to pomeni?",
+      "transliteration": "Kaj to pomeni?",
+      "category": "Directions",
+      "generated_at": "2026-07-24T03:31:34.631629"
     }
   ],
-  "last_updated": "2026-07-23T21:09:33.933071"
+  "last_updated": "2026-07-24T03:31:34.631630"
 }
