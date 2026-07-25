@@ -4234,7 +4234,42 @@
       "transliteration": "Odk-leh-nee vech, oo-chee seh vech.",
       "category": "Perseverance",
       "generated_at": "2026-07-24T18:09:39.937117"
+    },
+    {
+      "english": "My head, spins sometimes.",
+      "slovenian": "Moja glava, se včasih vrti.",
+      "transliteration": "Moy-a gla-va, se vcha-see vrti.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T13:43:19.272945"
+    },
+    {
+      "english": "Touch your nose, gently.",
+      "slovenian": "Dotakni se nosu, nežno.",
+      "transliteration": "Do-tak-nee se no-soo, nezh-no.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T13:43:19.272954"
+    },
+    {
+      "english": "Blink your eyes, slowly.",
+      "slovenian": "Žmigi z očmi, počasi.",
+      "transliteration": "Zhmi-gi z och-mee, po-cha-see.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T13:43:19.272956"
+    },
+    {
+      "english": "Open your mouth, wide.",
+      "slovenian": "Odprti usta, na široko.",
+      "transliteration": "Od-prti oo-sta, na shi-ro-ko.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T13:43:19.272957"
+    },
+    {
+      "english": "Wiggle your ears, a bit.",
+      "slovenian": "Mrdaj z ušesi, malo.",
+      "transliteration": "Mrd-ay z oo-sheh-see, ma-lo.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T13:43:19.272958"
     }
   ],
-  "last_updated": "2026-07-24T18:09:39.937119"
+  "last_updated": "2026-07-25T13:43:19.272960"
 }
