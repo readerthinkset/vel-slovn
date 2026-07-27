@@ -4619,7 +4619,42 @@
       "transliteration": "Sprey-mi potovah-nye, naydi svoy glas.",
       "category": "Strength",
       "generated_at": "2026-07-27T04:28:40.434663"
+    },
+    {
+      "english": "My day, it's just begun.",
+      "slovenian": "Moj dan, šele začenja.",
+      "transliteration": "Moy dahn, sheleh zah-CHAH-nyah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-27T14:48:41.410290"
+    },
+    {
+      "english": "This coffee, it's perfect.",
+      "slovenian": "Ta kava, je popolna.",
+      "transliteration": "Tah KAH-vah, yeh poh-POHL-nah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-27T14:48:41.410299"
+    },
+    {
+      "english": "Where is the train, please?",
+      "slovenian": "Kje je vlak, prosim?",
+      "transliteration": "Kyeh yeh vlahk, PROH-seem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-27T14:48:41.410301"
+    },
+    {
+      "english": "I love this city.",
+      "slovenian": "Obožujem to mesto.",
+      "transliteration": "Oh-boh-ZHOO-yem toh MES-toh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-27T14:48:41.410302"
+    },
+    {
+      "english": "What time is it?",
+      "slovenian": "Kakšen je čas?",
+      "transliteration": "KAHK-shen yeh chahs?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-27T14:48:41.410303"
     }
   ],
-  "last_updated": "2026-07-27T04:28:40.434668"
+  "last_updated": "2026-07-27T14:48:41.410305"
 }
