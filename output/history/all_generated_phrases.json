@@ -5039,7 +5039,42 @@
       "transliteration": "Tah yed, yeh zeh-loh nah-seet-nah.",
       "category": "Restaurant",
       "generated_at": "2026-07-31T16:04:07.381082"
+    },
+    {
+      "english": "Alarm rings, a gentle nudge.",
+      "slovenian": "Budilka zazvoni, nežen opomnik.",
+      "transliteration": "Boo-dee-lka za-zvo-nee, neh-zhen op-o-mneek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-31T18:14:56.290093"
+    },
+    {
+      "english": "Eyes flutter open, day awaits.",
+      "slovenian": "Oči se odprejo, dan čaka.",
+      "transliteration": "O-chee seh od-preh-yo, dahn chah-kah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-31T18:14:56.290104"
+    },
+    {
+      "english": "Warm blanket, a cozy farewell.",
+      "slovenian": "Topla odeja, prijeten sloves.",
+      "transliteration": "Top-lah o-deh-yah, pree-yet-en slo-ves.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-31T18:14:56.290106"
+    },
+    {
+      "english": "Water glass, a refreshing sip.",
+      "slovenian": "Kozarec vode, osvežilen požirek.",
+      "transliteration": "Ko-zah-rets vo-deh, os-veh-zhee-len po-zhee-rek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-31T18:14:56.290107"
+    },
+    {
+      "english": "Dressing slowly, planning the hours.",
+      "slovenian": "Oblačim se počasi, načrtujem ure.",
+      "transliteration": "Ob-la-chim seh po-cha-see, na-cher-too-yem oo-reh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-31T18:14:56.290108"
     }
   ],
-  "last_updated": "2026-07-31T16:04:07.381083"
+  "last_updated": "2026-07-31T18:14:56.290110"
 }
