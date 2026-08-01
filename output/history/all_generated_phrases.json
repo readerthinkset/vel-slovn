@@ -5249,7 +5249,42 @@
       "transliteration": "Naročite kavo, z nasmehom.",
       "category": "Purpose",
       "generated_at": "2026-08-01T17:50:10.022259"
+    },
+    {
+      "english": "Sky's painted, with sunset hues.",
+      "slovenian": "Nebo je poslikano, z barvami sončnega zahoda.",
+      "transliteration": "Neb-o yeh poh-slee-kah-noh, z bah-r-vah-mee sohn-ch-neh-goh zah-ho-dah.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T20:57:39.620736"
+    },
+    {
+      "english": "Air hums, with summer warmth.",
+      "slovenian": "Zrak utripa, s poletno toplino.",
+      "transliteration": "Zrahk oo-tree-pah, s poh-leh-t-noh toh-plee-noh.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T20:57:39.620745"
+    },
+    {
+      "english": "Frost sparkles, on window panes.",
+      "slovenian": "Zmrzal se iskri, na okenskih steklih.",
+      "transliteration": "Zmrz-ahl seh ees-kree, nah oh-ken-s-keeh steh-kleeh.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T20:57:39.620747"
+    },
+    {
+      "english": "Fog rolls in, a soft blanket.",
+      "slovenian": "Megla se valovi, kot mehka odeja.",
+      "transliteration": "Meh-glah seh vah-loh-vee, kot meh-khah oh-deh-yah.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T20:57:39.620748"
+    },
+    {
+      "english": "Drizzle starts, a gentle touch.",
+      "slovenian": "Rosinjenje se začne, nežen dotik.",
+      "transliteration": "Roh-see-n-yeh-n-yeh seh zah-ch-neh, neh-zhen doh-teek.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T20:57:39.620750"
     }
   ],
-  "last_updated": "2026-08-01T17:50:10.022260"
+  "last_updated": "2026-08-01T20:57:39.620751"
 }
