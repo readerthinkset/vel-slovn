@@ -5144,7 +5144,42 @@
       "transliteration": "Druga pesem, začne igrati.",
       "category": "Hope",
       "generated_at": "2026-08-01T03:39:08.931237"
+    },
+    {
+      "english": "The lion roars, a mighty sound.",
+      "slovenian": "Lev zavpije, mogočen zvok.",
+      "transliteration": "Lev zav-PEE-yeh, mo-GO-chen ZVOK.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T13:36:09.239765"
+    },
+    {
+      "english": "Dolphins leap, ocean's joy.",
+      "slovenian": "Delfini skočijo, veselje morja.",
+      "transliteration": "Del-FEE-nee SKO-chee-yo, ves-EL-yeh MOR-ya.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T13:36:09.239777"
+    },
+    {
+      "english": "Elephants trumpet, earth trembles.",
+      "slovenian": "Sloni trobijo, zemlja se trese.",
+      "transliteration": "SLO-nee TRO-bee-yo, zem-LYA seh TREH-seh.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T13:36:09.239779"
+    },
+    {
+      "english": "Penguins waddle, icy grace.",
+      "slovenian": "Pingvini hodijo, ledena milost.",
+      "transliteration": "Ping-VEE-nee HO-dee-yo, leh-DEH-na MEE-lost.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T13:36:09.239780"
+    },
+    {
+      "english": "Kangaroos hop, boundless energy.",
+      "slovenian": "Kenguruji poskočijo, neomejena energija.",
+      "transliteration": "Ken-GOO-roo-yee pos-KO-chee-yo, ne-OH-meh-yeh-na eh-ner-GEE-ya.",
+      "category": "Animals",
+      "generated_at": "2026-08-01T13:36:09.239781"
     }
   ],
-  "last_updated": "2026-08-01T03:39:08.931239"
+  "last_updated": "2026-08-01T13:36:09.239783"
 }
