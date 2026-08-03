@@ -5494,7 +5494,42 @@
       "transliteration": "Pohs-loo-shai, poh-men yeh yah-sen.",
       "category": "Success",
       "generated_at": "2026-08-03T03:41:35.878466"
+    },
+    {
+      "english": "Hello there, friend.",
+      "slovenian": "Živjo, prijatelj.",
+      "transliteration": "Zhiv-yo, p-ree-ah-tel.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-03T10:13:52.510364"
+    },
+    {
+      "english": "This is lovely, yes.",
+      "slovenian": "To je lepo, da.",
+      "transliteration": "To yeh leh-po, dah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-03T10:13:52.510373"
+    },
+    {
+      "english": "Let's explore, shall we?",
+      "slovenian": "Raziskujmo, a ne?",
+      "transliteration": "Rah-zih-skoo-y-moh, ah neh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-03T10:13:52.510374"
+    },
+    {
+      "english": "What a surprise, wow.",
+      "slovenian": "Kakšno presenečenje, joj.",
+      "transliteration": "Kah-ksh-no preh-seh-neh-cheh-nyeh, yoy.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-03T10:13:52.510376"
+    },
+    {
+      "english": "Can I have this, please?",
+      "slovenian": "Lahko imam to, prosim?",
+      "transliteration": "Lah-koh ee-mahm toh, proh-seem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-03T10:13:52.510377"
     }
   ],
-  "last_updated": "2026-08-03T03:41:35.878470"
+  "last_updated": "2026-08-03T10:13:52.510379"
 }
