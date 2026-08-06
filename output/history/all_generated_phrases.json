@@ -6054,7 +6054,42 @@
       "transliteration": "SLED-ee MOH-yeh-moo ZGLEH-doo.",
       "category": "Directions",
       "generated_at": "2026-08-06T14:21:50.266194"
+    },
+    {
+      "english": "One, bright spark.",
+      "slovenian": "Ena, iskrica.",
+      "transliteration": "En-ah, iss-kri-tsah.",
+      "category": "Numbers",
+      "generated_at": "2026-08-06T22:35:23.440333"
+    },
+    {
+      "english": "Two, blue skies.",
+      "slovenian": "Dva, modra neba.",
+      "transliteration": "Dva, mod-rah neb-ah.",
+      "category": "Numbers",
+      "generated_at": "2026-08-06T22:35:23.440346"
+    },
+    {
+      "english": "Three, tiny seeds.",
+      "slovenian": "Tri, majhna semena.",
+      "transliteration": "Tri, mai-h-nah sem-eh-nah.",
+      "category": "Numbers",
+      "generated_at": "2026-08-06T22:35:23.440347"
+    },
+    {
+      "english": "Four, fresh flowers.",
+      "slovenian": "Štiri, sveže rože.",
+      "transliteration": "Shtee-ri, sveh-zheh roh-zheh.",
+      "category": "Numbers",
+      "generated_at": "2026-08-06T22:35:23.440349"
+    },
+    {
+      "english": "Five, fast feet.",
+      "slovenian": "Pet, hitrih nog.",
+      "transliteration": "Pet, hi-trih nog.",
+      "category": "Numbers",
+      "generated_at": "2026-08-06T22:35:23.440350"
     }
   ],
-  "last_updated": "2026-08-06T14:21:50.266198"
+  "last_updated": "2026-08-06T22:35:23.440352"
 }
