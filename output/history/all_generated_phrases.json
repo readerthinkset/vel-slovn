@@ -6264,7 +6264,42 @@
       "transliteration": "Lah-koh, sheh treh-noo-tek, proh-seem?",
       "category": "Restaurant",
       "generated_at": "2026-08-07T17:39:01.964112"
+    },
+    {
+      "english": "Morning coffee, a quiet moment.",
+      "slovenian": "Jutranja kava, miren trenutek.",
+      "transliteration": "YOO-tran-yah KAH-vah, MEE-ren TREE-noo-tek.",
+      "category": "Food",
+      "generated_at": "2026-08-07T20:45:10.944208"
+    },
+    {
+      "english": "Warm bread, melting butter.",
+      "slovenian": "Topel kruh, topljeno maslo.",
+      "transliteration": "TO-pel KROOH, TO-plie-no MOSS-loh.",
+      "category": "Food",
+      "generated_at": "2026-08-07T20:45:10.944221"
+    },
+    {
+      "english": "Spicy stew, slow cooking.",
+      "slovenian": "Začinjena enolončnica, počasno kuhanje.",
+      "transliteration": "ZAH-chin-ie-nah EH-no-lonch-nee-tsah, poh-CHAH-so KOO-han-ie.",
+      "category": "Food",
+      "generated_at": "2026-08-07T20:45:10.944223"
+    },
+    {
+      "english": "Fresh berries, summer delight.",
+      "slovenian": "Sveže jagode, poletni užitek.",
+      "transliteration": "SVEH-zheh YAH-go-deh, poh-LIE-tnee OO-zhee-tek.",
+      "category": "Food",
+      "generated_at": "2026-08-07T20:45:10.944225"
+    },
+    {
+      "english": "Savory soup, comforting warmth.",
+      "slovenian": "Okusna juha, prijetna toplina.",
+      "transliteration": "OH-koos-nah YOO-hah, pree-YET-nah TOH-plee-nah.",
+      "category": "Food",
+      "generated_at": "2026-08-07T20:45:10.944226"
     }
   ],
-  "last_updated": "2026-08-07T17:39:01.964114"
+  "last_updated": "2026-08-07T20:45:10.944228"
 }
