@@ -6229,7 +6229,42 @@
       "transliteration": "Strani knjige, zgodbe se pišejo.",
       "category": "Daily Routine",
       "generated_at": "2026-08-07T14:52:48.561168"
+    },
+    {
+      "english": "This spot, looks inviting.",
+      "slovenian": "Ta prostor, se zdi prijeten.",
+      "transliteration": "Tah proh-stor, seh zdee pree-yet-en.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-07T17:39:01.964093"
+    },
+    {
+      "english": "Do you have, outdoor seating?",
+      "slovenian": "Imate, zunanjo teraso?",
+      "transliteration": "Ee-mah-teh, zoo-nah-n'yo teh-rah-soh?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-07T17:39:01.964106"
+    },
+    {
+      "english": "My compliments, on the presentation.",
+      "slovenian": "Pohvale, za postrežbo.",
+      "transliteration": "Poh-vah-leh, zah pos-trezh-boh.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-07T17:39:01.964108"
+    },
+    {
+      "english": "Is this, a local specialty?",
+      "slovenian": "Je to, domača specialiteta?",
+      "transliteration": "Yeh toh, doh-mah-chah speh-tsee-ah-lee-teh-tah?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-07T17:39:01.964110"
+    },
+    {
+      "english": "Could I, have a moment, please?",
+      "slovenian": "Lahko, še trenutek, prosim?",
+      "transliteration": "Lah-koh, sheh treh-noo-tek, proh-seem?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-07T17:39:01.964112"
     }
   ],
-  "last_updated": "2026-08-07T14:52:48.561170"
+  "last_updated": "2026-08-07T17:39:01.964114"
 }
