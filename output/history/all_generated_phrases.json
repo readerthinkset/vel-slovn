@@ -6089,7 +6089,42 @@
       "transliteration": "Pet, hi-trih nog.",
       "category": "Numbers",
       "generated_at": "2026-08-06T22:35:23.440350"
+    },
+    {
+      "english": "My hotel, is just around the corner.",
+      "slovenian": "Moj hotel, je takoj za vogalom.",
+      "transliteration": "Moy ho-tel, yeh tak-oy za vo-ga-lom.",
+      "category": "Travel",
+      "generated_at": "2026-08-07T00:54:08.556309"
+    },
+    {
+      "english": "This coffee, is absolutely delicious.",
+      "slovenian": "Ta kava, je naravnost božanska.",
+      "transliteration": "Tah kah-vah, yeh nah-rahv-nost bo-zhahn-skah.",
+      "category": "Travel",
+      "generated_at": "2026-08-07T00:54:08.556320"
+    },
+    {
+      "english": "Could you recommend, a good walk?",
+      "slovenian": "Ali priporočate, dober sprehod?",
+      "transliteration": "Ah-lee pre-po-roo-chah-teh, doh-ber spre-hod?",
+      "category": "Travel",
+      "generated_at": "2026-08-07T00:54:08.556322"
+    },
+    {
+      "english": "I'd love, to see the lake.",
+      "slovenian": "Rad bi videl, jezero.",
+      "transliteration": "Rahd bee vee-del, yeh-zeh-ro.",
+      "category": "Travel",
+      "generated_at": "2026-08-07T00:54:08.556324"
+    },
+    {
+      "english": "Where can I find, a pharmacy?",
+      "slovenian": "Kje najdem, lekarno?",
+      "transliteration": "Kyeh nay-dem, leh-kar-no?",
+      "category": "Travel",
+      "generated_at": "2026-08-07T00:54:08.556325"
     }
   ],
-  "last_updated": "2026-08-06T22:35:23.440352"
+  "last_updated": "2026-08-07T00:54:08.556327"
 }
