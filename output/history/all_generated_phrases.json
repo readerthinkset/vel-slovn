@@ -6334,7 +6334,42 @@
       "transliteration": "Svo-boh-dno pleh-shem, po-choo-teem seh doh-broh.",
       "category": "Happiness",
       "generated_at": "2026-08-08T02:07:14.516398"
+    },
+    {
+      "english": "This button, is loose.",
+      "slovenian": "Ta gumb, se maje.",
+      "transliteration": "Tah goomb, seh mah-yeh.",
+      "category": "Clothes",
+      "generated_at": "2026-08-08T12:55:42.365710"
+    },
+    {
+      "english": "My belt, is too short.",
+      "slovenian": "Moj pas, je prekratek.",
+      "transliteration": "Mohy pahs, yeh preh-krah-tehk.",
+      "category": "Clothes",
+      "generated_at": "2026-08-08T12:55:42.365718"
+    },
+    {
+      "english": "That fabric, has a sheen.",
+      "slovenian": "Tista tkanina, se lesketa.",
+      "transliteration": "Tees-tah tkah-nee-nah, seh les-keh-tah.",
+      "category": "Clothes",
+      "generated_at": "2026-08-08T12:55:42.365720"
+    },
+    {
+      "english": "The collar, needs ironing.",
+      "slovenian": "Ovratnik, potrebuje likanje.",
+      "transliteration": "Ohv-rah-tneek, poh-treh-boo-yeh lee-kah-nyeh.",
+      "category": "Clothes",
+      "generated_at": "2026-08-08T12:55:42.365721"
+    },
+    {
+      "english": "These shoes, are worn out.",
+      "slovenian": "Te čevlji, so obrabljeni.",
+      "transliteration": "Teh chehv-lyee, soh ohb-rah-blyeh-nee.",
+      "category": "Clothes",
+      "generated_at": "2026-08-08T12:55:42.365722"
     }
   ],
-  "last_updated": "2026-08-08T02:07:14.516400"
+  "last_updated": "2026-08-08T12:55:42.365724"
 }
