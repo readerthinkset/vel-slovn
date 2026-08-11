@@ -6824,7 +6824,42 @@
       "transliteration": "Na-pa-ke od-prah-vi, pot-r-pezh-li-vo.",
       "category": "Technology",
       "generated_at": "2026-08-11T02:16:57.260558"
+    },
+    {
+      "english": "Oh no, something's wrong.",
+      "slovenian": "O, ne, nekaj je narobe.",
+      "transliteration": "Oh, neh, nekhayeh yeh narobeh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T13:14:40.789070"
+    },
+    {
+      "english": "I need to sit down, quickly.",
+      "slovenian": "Moram, takoj sesti.",
+      "transliteration": "Moram, takoy sehty.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T13:14:40.789081"
+    },
+    {
+      "english": "Is someone, a doctor here?",
+      "slovenian": "Je tukaj, kakšen zdravnik?",
+      "transliteration": "Yeh tookay, kakhshen zdravneek?",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T13:14:40.789083"
+    },
+    {
+      "english": "I'm feeling, very faint.",
+      "slovenian": "Počutim se, zelo omotično.",
+      "transliteration": "Pochootim seh, zelo omoteechono.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T13:14:40.789084"
+    },
+    {
+      "english": "My vision, is blurring.",
+      "slovenian": "Moj vid, se meša.",
+      "transliteration": "Moy veed, seh meyshah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T13:14:40.789086"
     }
   ],
-  "last_updated": "2026-08-11T02:16:57.260559"
+  "last_updated": "2026-08-11T13:14:40.789087"
 }
