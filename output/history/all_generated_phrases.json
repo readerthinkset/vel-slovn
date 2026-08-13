@@ -7034,7 +7034,42 @@
       "transliteration": "Jezik, se odpira.",
       "category": "Success",
       "generated_at": "2026-08-12T17:48:50.006964"
+    },
+    {
+      "english": "Keys in hand, out the door.",
+      "slovenian": "Ključi v roki, ven iz hiše.",
+      "transliteration": "Klyoo-chee v roh-kee, ven eez hees-eh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-13T02:33:49.596651"
+    },
+    {
+      "english": "Lock clicks, off we go.",
+      "slovenian": "Ključavnica cvakne, gremo.",
+      "transliteration": "Klyoo-chaav-neetsa tsvaak-neh, greh-moh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-13T02:33:49.596659"
+    },
+    {
+      "english": "Bag packed, ready now.",
+      "slovenian": "Torba pripravljena, zdaj smo pripravljeni.",
+      "transliteration": "Tor-bah pree-prahv-lyeh-nah, zdzai smoh pree-prahv-lyeh-nee.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-13T02:33:49.596661"
+    },
+    {
+      "english": "Briefcase snaps shut, work calls.",
+      "slovenian": "Aktovka se zapre, delo kliče.",
+      "transliteration": "Ak-toh-vka seh zah-preh, deh-loh klee-cheh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-13T02:33:49.596662"
+    },
+    {
+      "english": "Shoes laced, a brisk walk.",
+      "slovenian": "Čevlji zavezani, hiter sprehod.",
+      "transliteration": "Chehv-lyee zah-veh-zah-nee, hee-ter spreh-hohd.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-13T02:33:49.596664"
     }
   ],
-  "last_updated": "2026-08-12T17:48:50.006966"
+  "last_updated": "2026-08-13T02:33:49.596665"
 }
