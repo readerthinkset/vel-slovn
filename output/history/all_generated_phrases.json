@@ -7349,7 +7349,42 @@
       "transliteration": "Nah-ree-shee chrr-koh, v zrah-koo.",
       "category": "Directions",
       "generated_at": "2026-08-14T17:43:27.877795"
+    },
+    {
+      "english": "My elbow, hit the table.",
+      "slovenian": "Moj komolec, je zadel mizo.",
+      "transliteration": "Moy komolets, yeh za-del mee-zo.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:34:38.215613"
+    },
+    {
+      "english": "Her knee, is quite sore.",
+      "slovenian": "Njeno koleno, je precej boleče.",
+      "transliteration": "Nye-no ko-le-no, yeh preh-tsay bo-le-che.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:34:38.215624"
+    },
+    {
+      "english": "His chin, touched his chest.",
+      "slovenian": "Njegova brada, se je dotaknila prsi.",
+      "transliteration": "Nye-go-va bra-da, seh yeh do-ta-knee-la prih-si.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:34:38.215626"
+    },
+    {
+      "english": "These fingers, are very cold.",
+      "slovenian": "Ti prsti, so zelo hladni.",
+      "transliteration": "Tee prih-sti, so zeh-lo hla-dnee.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:34:38.215627"
+    },
+    {
+      "english": "My shoulder, feels stiff today.",
+      "slovenian": "Moje rame, je danes zategnjena.",
+      "transliteration": "Mo-yeh ra-meh, yeh da-nes za-teg-nyeh-na.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:34:38.215628"
     }
   ],
-  "last_updated": "2026-08-14T17:43:27.877796"
+  "last_updated": "2026-08-14T20:34:38.215630"
 }
