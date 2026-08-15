@@ -7454,7 +7454,42 @@
       "transliteration": "Mala sprememba, velik vpliv.",
       "category": "Finance",
       "generated_at": "2026-08-15T12:44:18.548517"
+    },
+    {
+      "english": "Sky's weeping, softly now.",
+      "slovenian": "Nebo joče, tiho zdaj.",
+      "transliteration": "Nebo yocheh, teeho zdai.",
+      "category": "Weather",
+      "generated_at": "2026-08-15T14:21:52.092768"
+    },
+    {
+      "english": "Warmth embraces, the whole day.",
+      "slovenian": "Toplina objema, ves dan.",
+      "transliteration": "Topleena ob-yeh-mah, ves dan.",
+      "category": "Weather",
+      "generated_at": "2026-08-15T14:21:52.092779"
+    },
+    {
+      "english": "A chilly bite, in the air.",
+      "slovenian": "Hladen ugriz, v zraku.",
+      "transliteration": "Hlah-den oo-greez, v zrah-koo.",
+      "category": "Weather",
+      "generated_at": "2026-08-15T14:21:52.092781"
+    },
+    {
+      "english": "Sun peeks out, shyly today.",
+      "slovenian": "Sonček pokuka, sramežljivo danes.",
+      "transliteration": "Son-chek poh-koo-kah, srah-meh-zhee-voh dah-nes.",
+      "category": "Weather",
+      "generated_at": "2026-08-15T14:21:52.092782"
+    },
+    {
+      "english": "Wind plays tunes, on branches.",
+      "slovenian": "Veter igra pesmi, na vejah.",
+      "transliteration": "Veh-ter eeg-rah pes-mee, nah veh-yah.",
+      "category": "Weather",
+      "generated_at": "2026-08-15T14:21:52.092783"
     }
   ],
-  "last_updated": "2026-08-15T12:44:18.548519"
+  "last_updated": "2026-08-15T14:21:52.092785"
 }
