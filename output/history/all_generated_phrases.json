@@ -7594,7 +7594,42 @@
       "transliteration": "Okusi vetrich, svobode.",
       "category": "Positive Life",
       "generated_at": "2026-08-16T12:47:11.122407"
+    },
+    {
+      "english": "My car, has broken down.",
+      "slovenian": "Moj avto, ne deluje več.",
+      "transliteration": "Moy av-to, ne del-u-ye vech.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:22:20.399304"
+    },
+    {
+      "english": "I need, a tow truck.",
+      "slovenian": "Potrebujem, vlečno vozilo.",
+      "transliteration": "Po-tre-bu-yem, vlech-no vo-zi-lo.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:22:20.399315"
+    },
+    {
+      "english": "Is there, a police officer, nearby?",
+      "slovenian": "Je tukaj, policist, blizu?",
+      "transliteration": "Ye tu-kay, po-li-tsist, bli-zu?",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:22:20.399316"
+    },
+    {
+      "english": "I've lost, my keys.",
+      "slovenian": "Izgubil sem, ključe.",
+      "transliteration": "Iz-gu-bil sem, klju-che.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:22:20.399317"
+    },
+    {
+      "english": "Can you, call for help?",
+      "slovenian": "Lahko pokličete, na pomoč?",
+      "transliteration": "Lah-ko po-kli-che-te, na po-moch?",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:22:20.399318"
     }
   ],
-  "last_updated": "2026-08-16T12:47:11.122409"
+  "last_updated": "2026-08-16T14:22:20.399320"
 }
