@@ -7769,7 +7769,42 @@
       "transliteration": "Preh-veh-ree-moh tse-noh, mor-dah?",
       "category": "Basic Phrases",
       "generated_at": "2026-08-17T14:27:45.077625"
+    },
+    {
+      "english": "The clock, ticks softly.",
+      "slovenian": "Ura, tiho teče.",
+      "transliteration": "OO-rah, TEE-ho TEH-cheh.",
+      "category": "Time",
+      "generated_at": "2026-08-17T17:16:06.155534"
+    },
+    {
+      "english": "Minutes, slip away.",
+      "slovenian": "Minute, uidejo.",
+      "transliteration": "Mee-NOO-teh, OO-ee-dehyo.",
+      "category": "Time",
+      "generated_at": "2026-08-17T17:16:06.155545"
+    },
+    {
+      "english": "A season, turning.",
+      "slovenian": "Letni čas, se obrača.",
+      "transliteration": "LET-nee TCHAHS, seh OH-brah-chah.",
+      "category": "Time",
+      "generated_at": "2026-08-17T17:16:06.155547"
+    },
+    {
+      "english": "Dawn, breaks gently.",
+      "slovenian": "Dan, se nežno svani.",
+      "transliteration": "DAHN, seh NEHZH-no SVAH-nee.",
+      "category": "Time",
+      "generated_at": "2026-08-17T17:16:06.155548"
+    },
+    {
+      "english": "Dusk, falls quiet.",
+      "slovenian": "Večer, postane tih.",
+      "transliteration": "VEH-cher, poh-STAH-neh TEEM.",
+      "category": "Time",
+      "generated_at": "2026-08-17T17:16:06.155549"
     }
   ],
-  "last_updated": "2026-08-17T14:27:45.077626"
+  "last_updated": "2026-08-17T17:16:06.155551"
 }
