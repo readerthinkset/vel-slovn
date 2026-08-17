@@ -7734,7 +7734,42 @@
       "transliteration": "Peht, pleh-sho-cheeh lees-tohv.",
       "category": "Numbers",
       "generated_at": "2026-08-17T01:47:09.371724"
+    },
+    {
+      "english": "Sun shines, day brightens.",
+      "slovenian": "Sončno sije, dan se blešči.",
+      "transliteration": "Sohn-ch-noh see-yeh, dahn seh blesh-chee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-17T14:27:45.077612"
+    },
+    {
+      "english": "Listen closely, what's that?",
+      "slovenian": "Poslušaj pozorno, kaj je to?",
+      "transliteration": "Pos-loo-shai poz-or-noh, kai yeh toh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-17T14:27:45.077621"
+    },
+    {
+      "english": "My pleasure, truly.",
+      "slovenian": "Z veseljem, resnično.",
+      "transliteration": "Z veh-seh-lyem, reh-snee-ch-noh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-17T14:27:45.077623"
+    },
+    {
+      "english": "Not at all, friend.",
+      "slovenian": "Nikakor, prijatelj.",
+      "transliteration": "Nee-kah-kor, pree-yah-tel.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-17T14:27:45.077624"
+    },
+    {
+      "english": "Price check, perhaps?",
+      "slovenian": "Preverimo ceno, morda?",
+      "transliteration": "Preh-veh-ree-moh tse-noh, mor-dah?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-17T14:27:45.077625"
     }
   ],
-  "last_updated": "2026-08-17T01:47:09.371726"
+  "last_updated": "2026-08-17T14:27:45.077626"
 }
