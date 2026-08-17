@@ -7699,7 +7699,42 @@
       "transliteration": "Sprej-mi vir-tu-al-no res-nič-nost, po-top-no.",
       "category": "Technology",
       "generated_at": "2026-08-16T20:26:44.903498"
+    },
+    {
+      "english": "One, quiet moment.",
+      "slovenian": "Eno, tiho trenutek.",
+      "transliteration": "Eh-no, tee-ho treh-noo-tek.",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T01:47:09.371711"
+    },
+    {
+      "english": "Two, shining stars.",
+      "slovenian": "Dve, sijoči zvezdi.",
+      "transliteration": "Dveh, see-yo-chee zve-zdi.",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T01:47:09.371719"
+    },
+    {
+      "english": "Three, gentle waves.",
+      "slovenian": "Tri, nežni valovi.",
+      "transliteration": "Trih, neh-zhni vah-loh-vee.",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T01:47:09.371721"
+    },
+    {
+      "english": "Four, playful puppies.",
+      "slovenian": "Štiri, igrivi kužki.",
+      "transliteration": "Shih-tree, ee-gree-vee koo-zhkee.",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T01:47:09.371723"
+    },
+    {
+      "english": "Five, dancing leaves.",
+      "slovenian": "Pet, plešočih listov.",
+      "transliteration": "Peht, pleh-sho-cheeh lees-tohv.",
+      "category": "Numbers",
+      "generated_at": "2026-08-17T01:47:09.371724"
     }
   ],
-  "last_updated": "2026-08-16T20:26:44.903500"
+  "last_updated": "2026-08-17T01:47:09.371726"
 }
