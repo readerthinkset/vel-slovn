@@ -8294,7 +8294,42 @@
       "transliteration": "Mo-ya no-va pi-zha-ma, ta-ko u-dob-na.",
       "category": "Clothes",
       "generated_at": "2026-08-20T17:18:12.045684"
+    },
+    {
+      "english": "Dawn paints the sky, soft hues.",
+      "slovenian": "Zora slika nebo, nežni odtenki.",
+      "transliteration": "Zoh-rah Slik-ah Neh-boh, Neh-zhnee Ot-den-kee.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-20T20:32:14.938334"
+    },
+    {
+      "english": "Kitchen hums, a quiet song.",
+      "slovenian": "Kuhinja brnči, tiha pesem.",
+      "transliteration": "Koo-heen-yah Brn-chee, Tee-hah Peh-sem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-20T20:32:14.938341"
+    },
+    {
+      "english": "Porridge bubbles, sweet aroma.",
+      "slovenian": "Kaša vre, sladka dišava.",
+      "transliteration": "Kah-shah Vre, Slaht-kah Deesh-ah-vah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-20T20:32:14.938343"
+    },
+    {
+      "english": "Journal waits, stories within.",
+      "slovenian": "Dnevnik čaka, zgodbe notri.",
+      "transliteration": "Dveh-neek Chah-kah, Zgo-dbeh Not-ree.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-20T20:32:14.938344"
+    },
+    {
+      "english": "Sunrise warms, gentle touch.",
+      "slovenian": "Sončni vzhod greje, nežen dotik.",
+      "transliteration": "Son-chnee Vzh-hod Greh-yeh, Neh-zhen Doh-teek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-20T20:32:14.938345"
     }
   ],
-  "last_updated": "2026-08-20T17:18:12.045686"
+  "last_updated": "2026-08-20T20:32:14.938347"
 }
