@@ -8434,7 +8434,42 @@
       "transliteration": "Tchaas zah hee-troh poh-soh-dee-tehv, vsee.",
       "category": "Work",
       "generated_at": "2026-08-21T14:37:59.183453"
+    },
+    {
+      "english": "My child, is unwell, immediately.",
+      "slovenian": "Moj otrok, je bolan, takoj.",
+      "transliteration": "Moy otrok, yeh boh-lan, tah-koy.",
+      "category": "Emergency",
+      "generated_at": "2026-08-21T17:18:30.120969"
+    },
+    {
+      "english": "I need, a safe space, urgently.",
+      "slovenian": "Potrebujem, varen prostor, nujno.",
+      "transliteration": "Po-tre-bu-yem, vah-ren proh-stor, noo-zno.",
+      "category": "Emergency",
+      "generated_at": "2026-08-21T17:18:30.120978"
+    },
+    {
+      "english": "Someone fell, need aid, please.",
+      "slovenian": "Nekdo je padel, potrebujem pomoč, prosim.",
+      "transliteration": "Nek-doh yeh pah-del, po-tre-bu-yem poh-moch, proh-seem.",
+      "category": "Emergency",
+      "generated_at": "2026-08-21T17:18:30.120980"
+    },
+    {
+      "english": "Fire! Evacuate, this building, now.",
+      "slovenian": "Ogenj! Evakuirajte, to stavbo, zdaj.",
+      "transliteration": "Oh-ghen, Ev-ah-koo-ee-rah-yeh-teh, toh stahv-boh, zday.",
+      "category": "Emergency",
+      "generated_at": "2026-08-21T17:18:30.120981"
+    },
+    {
+      "english": "I am choking, I cannot speak.",
+      "slovenian": "Dušim se, ne morem govoriti.",
+      "transliteration": "Doo-sheem seh, neh moh-rem goh-voh-ree-tee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-21T17:18:30.120982"
     }
   ],
-  "last_updated": "2026-08-21T14:37:59.183455"
+  "last_updated": "2026-08-21T17:18:30.120984"
 }
