@@ -8749,7 +8749,42 @@
       "transliteration": "Tvoje razumevanje, se poglablja.",
       "category": "Growth",
       "generated_at": "2026-08-23T17:11:27.768639"
+    },
+    {
+      "english": "Sky's a canvas, painted with dawn.",
+      "slovenian": "Nebo je platno, poslikano z zoro.",
+      "transliteration": "Ne-bo ye plaht-no, po-sli-ka-no z zo-ro.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T20:27:15.368990"
+    },
+    {
+      "english": "Sun's a gold coin, dropped from above.",
+      "slovenian": "Sonca kovanec, zlat, padel z neba.",
+      "transliteration": "Son-tsa ko-va-nets, zlat, pa-del z ne-ba.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T20:27:15.368999"
+    },
+    {
+      "english": "Clouds drift by, like fluffy sheep.",
+      "slovenian": "Oblaki plujejo, kot puhaste ovce.",
+      "transliteration": "Ob-la-ki plu-ye-jo, kot pu-has-te ov-tse.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T20:27:15.369001"
+    },
+    {
+      "english": "Raindrops tap dance, on the roof.",
+      "slovenian": "Kapljice plešejo, na strehi.",
+      "transliteration": "Kap-li-tse ple-she-jo, na stre-hi.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T20:27:15.369002"
+    },
+    {
+      "english": "Wind hums a tune, through the pines.",
+      "slovenian": "Veter poje pesem, med borovci.",
+      "transliteration": "Ve-ter po-ye pe-sem, med bo-rov-tsi.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T20:27:15.369003"
     }
   ],
-  "last_updated": "2026-08-23T17:11:27.768641"
+  "last_updated": "2026-08-23T20:27:15.369005"
 }
