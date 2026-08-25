@@ -9029,7 +9029,42 @@
       "transliteration": "Občutite dih, z besedo.",
       "category": "Directions",
       "generated_at": "2026-08-25T12:53:41.494019"
+    },
+    {
+      "english": "Crimson tide, a daring splash.",
+      "slovenian": "Vijolična plima, drzen pljusk.",
+      "transliteration": "Vee-oleetch-nah plee-mah, drah-zen plyoosk.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T14:44:17.824922"
+    },
+    {
+      "english": "Aqua bright, refreshing cool.",
+      "slovenian": "Akva svetla, osvežujoče hladna.",
+      "transliteration": "Ak-vah svet-lah, os-veh-zhoo-yoh-cheh khlahd-nah.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T14:44:17.824933"
+    },
+    {
+      "english": "Olive drab, a quiet shade.",
+      "slovenian": "Olivno rjava, tiho senco.",
+      "transliteration": "Oh-liv-noh r-yah-vah, tee-ho sen-tsou.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T14:44:17.824935"
+    },
+    {
+      "english": "Marigold pop, cheerful sun.",
+      "slovenian": "Ognjičev izbruh, veselo sonce.",
+      "transliteration": "Ohg-nyee-chets-ev eez-broohk, veh-seh-loh son-tseh.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T14:44:17.824937"
+    },
+    {
+      "english": "Burgundy wine, rich and deep.",
+      "slovenian": "Bordojska kapljica, bogata in globoka.",
+      "transliteration": "Bor-doy-skah kahp-lyee-tsah, boh-gah-tah een gloh-boh-kah.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T14:44:17.824939"
     }
   ],
-  "last_updated": "2026-08-25T12:53:41.494021"
+  "last_updated": "2026-08-25T14:44:17.824940"
 }
