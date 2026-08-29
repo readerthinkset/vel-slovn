@@ -9659,7 +9659,42 @@
       "transliteration": "Tvoja tekočnost, je potovanje.",
       "category": "Growth",
       "generated_at": "2026-08-29T16:28:12.166923"
+    },
+    {
+      "english": "Sky blushes, at dawn's first light.",
+      "slovenian": "Nebo žari, ob prvi zarji.",
+      "transliteration": "Nebo zhari, ob prvi zarji.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T19:33:30.531081"
+    },
+    {
+      "english": "Sun dips low, paints the west.",
+      "slovenian": "Soncu zahaja, zahod slika.",
+      "transliteration": "Soncu zahaja, zahod slika.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T19:33:30.531093"
+    },
+    {
+      "english": "Air grows heavy, with summer heat.",
+      "slovenian": "Zrak postaja težek, poletne vročine.",
+      "transliteration": "Zrak postaja teh-zhek, po-let-ne vro-chi-ne.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T19:33:30.531095"
+    },
+    {
+      "english": "Frost bites hard, on winter mornings.",
+      "slovenian": "Zmrzal grize ostro, zimska jutra.",
+      "transliteration": "Zmrzal grize ostro, zim-ska jutra.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T19:33:30.531096"
+    },
+    {
+      "english": "Wind howls fiercely, through empty fields.",
+      "slovenian": "Veter tuli močno, čez polja prazna.",
+      "transliteration": "Veter tuli mo-cho-no, chez pol-ya praz-na.",
+      "category": "Weather",
+      "generated_at": "2026-08-29T19:33:30.531097"
     }
   ],
-  "last_updated": "2026-08-29T16:28:12.166925"
+  "last_updated": "2026-08-29T19:33:30.531099"
 }
