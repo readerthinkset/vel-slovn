@@ -9869,7 +9869,42 @@
       "transliteration": "Smeh ohd-meh-vah, glah-sen een svoh-boh-den.",
       "category": "Health",
       "generated_at": "2026-08-30T19:33:01.763694"
+    },
+    {
+      "english": "Listen, to the whole sentence.",
+      "slovenian": "Poslušajte, cel stavek.",
+      "transliteration": "PO-shloo-shai-te, tsel STAH-vek.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:31:38.856038"
+    },
+    {
+      "english": "Say it, like a native.",
+      "slovenian": "Recite, kot domačin.",
+      "transliteration": "RE-tsee-te, kot do-MAH-chin.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:31:38.856048"
+    },
+    {
+      "english": "Picture this, word's meaning.",
+      "slovenian": "Predstavljajte si, pomen besede.",
+      "transliteration": "pred-STAHV-lyai-ye ste, PO-men be-SEH-de.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:31:38.856050"
+    },
+    {
+      "english": "Breathe in, then speak.",
+      "slovenian": "Vdihnite, nato recite.",
+      "transliteration": "VDICH-nee-te, NAH-toh RE-tsee-te.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:31:38.856051"
+    },
+    {
+      "english": "Let's shape, this new sound.",
+      "slovenian": "Oblikujmo, ta nov zvok.",
+      "transliteration": "ob-LEE-koo-y-mo, tah nov ZVOK.",
+      "category": "Directions",
+      "generated_at": "2026-08-30T22:31:38.856053"
     }
   ],
-  "last_updated": "2026-08-30T19:33:01.763695"
+  "last_updated": "2026-08-30T22:31:38.856054"
 }
