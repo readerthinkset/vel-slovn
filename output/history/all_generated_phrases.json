@@ -10009,7 +10009,42 @@
       "transliteration": "Ees-krah poh-goo-mah, zah-sveh-tee.",
       "category": "Hope",
       "generated_at": "2026-08-31T21:42:23.580541"
+    },
+    {
+      "english": "A good day, to you.",
+      "slovenian": "Lep dan, tebi.",
+      "transliteration": "Lep dan, tebi.",
+      "category": "Greetings",
+      "generated_at": "2026-08-31T23:40:20.086198"
+    },
+    {
+      "english": "Glad you're here.",
+      "slovenian": "Vesel sem, da si tu.",
+      "transliteration": "Vesel sem, da si tu.",
+      "category": "Greetings",
+      "generated_at": "2026-08-31T23:40:20.086209"
+    },
+    {
+      "english": "Hoping all is well.",
+      "slovenian": "Upam, da je vse v redu.",
+      "transliteration": "Upam, da je vse v redu.",
+      "category": "Greetings",
+      "generated_at": "2026-08-31T23:40:20.086211"
+    },
+    {
+      "english": "A kind word, today.",
+      "slovenian": "Lepa beseda, danes.",
+      "transliteration": "Lepa beseda, danes.",
+      "category": "Greetings",
+      "generated_at": "2026-08-31T23:40:20.086212"
+    },
+    {
+      "english": "Welcome, wanderer.",
+      "slovenian": "Dobrodošel, popotnik.",
+      "transliteration": "Dobrodošel, popotnik.",
+      "category": "Greetings",
+      "generated_at": "2026-08-31T23:40:20.086214"
     }
   ],
-  "last_updated": "2026-08-31T21:42:23.580542"
+  "last_updated": "2026-08-31T23:40:20.086216"
 }
