@@ -10044,7 +10044,42 @@
       "transliteration": "Dobrodošel, popotnik.",
       "category": "Greetings",
       "generated_at": "2026-08-31T23:40:20.086214"
+    },
+    {
+      "english": "Excuse me, where are the local specialties?",
+      "slovenian": "Oprostite, kje so domače specialitete?",
+      "transliteration": "Oh-pro-stee-teh, k-yeh soh doh-mah-cheh speh-tzee-ah-lee-teh?",
+      "category": "Shopping",
+      "generated_at": "2026-09-01T04:50:08.182422"
+    },
+    {
+      "english": "This wine, looks interesting.",
+      "slovenian": "To vino, se mi zdi zanimivo.",
+      "transliteration": "Toh vee-noh, seh mee zd-ee zah-nee-mee-voh.",
+      "category": "Shopping",
+      "generated_at": "2026-09-01T04:50:08.182433"
+    },
+    {
+      "english": "Could you write down, the price, please?",
+      "slovenian": "Ali mi lahko napišete, ceno, prosim?",
+      "transliteration": "Ah-lee mee lah-koh nah-pee-sheh-teh, tseh-noh, pro-seem?",
+      "category": "Shopping",
+      "generated_at": "2026-09-01T04:50:08.182435"
+    },
+    {
+      "english": "I'm looking, for a small souvenir.",
+      "slovenian": "Iščem, majhen spominek.",
+      "transliteration": "Eesh-chem, mah-yhen spo-mee-nek.",
+      "category": "Shopping",
+      "generated_at": "2026-09-01T04:50:08.182436"
+    },
+    {
+      "english": "Do you have, any handmade soaps?",
+      "slovenian": "Imate, kakšne ročno izdelane milnice?",
+      "transliteration": "Ee-mah-teh, kahk-shneh roch-noh eez-deh-lah-neh mil-nee-tseh?",
+      "category": "Shopping",
+      "generated_at": "2026-09-01T04:50:08.182438"
     }
   ],
-  "last_updated": "2026-08-31T23:40:20.086216"
+  "last_updated": "2026-09-01T04:50:08.182439"
 }
