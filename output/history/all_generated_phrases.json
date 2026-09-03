@@ -10429,7 +10429,42 @@
       "transliteration": "Dro-bce-na mrav-lya, no-si drobti-no.",
       "category": "Animals",
       "generated_at": "2026-09-03T04:08:45.497621"
+    },
+    {
+      "english": "This sweater, feels like a hug.",
+      "slovenian": "Ta pulover, se kot objem počuti.",
+      "transliteration": "Tah poo-loh-ver, se kot ob-yem poh-choo-tee.",
+      "category": "Clothes",
+      "generated_at": "2026-09-03T16:06:09.496289"
+    },
+    {
+      "english": "My new socks, are fluffy.",
+      "slovenian": "Moji novi copati, so puhasti.",
+      "transliteration": "Moh-yee noh-vee tsoh-pah-tee, soh poo-hah-stee.",
+      "category": "Clothes",
+      "generated_at": "2026-09-03T16:06:09.496301"
+    },
+    {
+      "english": "These jeans, are perfectly faded.",
+      "slovenian": "Te kavbojke, so lepo obledenele.",
+      "transliteration": "Teh kahv-boy-keh, soh leh-poh ob-leh-deh-neh-leh.",
+      "category": "Clothes",
+      "generated_at": "2026-09-03T16:06:09.496303"
+    },
+    {
+      "english": "Her skirt, twirls when she moves.",
+      "slovenian": "Njena krilo, se vrti, ko se premakne.",
+      "transliteration": "Nyeh-nah kree-loh, se vhr-tee, koh se preh-mah-kne.",
+      "category": "Clothes",
+      "generated_at": "2026-09-03T16:06:09.496304"
+    },
+    {
+      "english": "I need, a warm hat.",
+      "slovenian": "Potrebujem, toplo kapo.",
+      "transliteration": "Poh-treh-boo-yem, toh-ploh kah-poh.",
+      "category": "Clothes",
+      "generated_at": "2026-09-03T16:06:09.496305"
     }
   ],
-  "last_updated": "2026-09-03T04:08:45.497623"
+  "last_updated": "2026-09-03T16:06:09.496307"
 }
