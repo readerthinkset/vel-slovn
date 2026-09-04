@@ -10604,7 +10604,42 @@
       "transliteration": "Zeh-loh tseh-neem, toh-leh.",
       "category": "Gratitude",
       "generated_at": "2026-09-04T16:01:52.804754"
+    },
+    {
+      "english": "Slate gray, a thoughtful pause.",
+      "slovenian": "Skrilasta sivka, premišljen premor.",
+      "transliteration": "Skrilasta sivka, premishljen premor.",
+      "category": "Colors",
+      "generated_at": "2026-09-04T17:23:38.309770"
+    },
+    {
+      "english": "Peach blush, shy delight.",
+      "slovenian": "Breskvina rdečica, sramežljiv užitek.",
+      "transliteration": "Breskvina rdechica, sramezhiv uzitek.",
+      "category": "Colors",
+      "generated_at": "2026-09-04T17:23:38.309780"
+    },
+    {
+      "english": "Teal shimmer, a hidden gleam.",
+      "slovenian": "Turkizni lesk, skriti sijaj.",
+      "transliteration": "Turkizni lesk, skriveti sijaj.",
+      "category": "Colors",
+      "generated_at": "2026-09-04T17:23:38.309782"
+    },
+    {
+      "english": "Coral bright, a happy wave.",
+      "slovenian": "Koralno živo, vesel val.",
+      "transliteration": "Koralno zhivo, vesel val.",
+      "category": "Colors",
+      "generated_at": "2026-09-04T17:23:38.309784"
+    },
+    {
+      "english": "Rust deep, ancient memory.",
+      "slovenian": "Rjasto globoko, star spomin.",
+      "transliteration": "Rjasto globoko, star spomin.",
+      "category": "Colors",
+      "generated_at": "2026-09-04T17:23:38.309785"
     }
   ],
-  "last_updated": "2026-09-04T16:01:52.804756"
+  "last_updated": "2026-09-04T17:23:38.309787"
 }
