@@ -11444,7 +11444,42 @@
       "transliteration": "Pet, mod-rih sta-rih sov.",
       "category": "Numbers",
       "generated_at": "2026-09-09T16:15:04.142894"
+    },
+    {
+      "english": "This ancient castle, holds many secrets.",
+      "slovenian": "Ta starodavni grad, skriva mnogo skrivnosti.",
+      "transliteration": "Tah stah-roh-DAHV-nee grahd, SKREE-vah MNO-go skree-VOSS-tee.",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:33:02.067944"
+    },
+    {
+      "english": "Let's wander, through this vibrant market.",
+      "slovenian": "Potepajmo se, skozi ta živahen trg.",
+      "transliteration": "Poh-TEH-pai-moh seh, SKOH-zee tah ZHEE-vah-hen turrg.",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:33:02.067955"
+    },
+    {
+      "english": "The local wine, is surprisingly good.",
+      "slovenian": "Lokalno vino, je presenetljivo dobro.",
+      "transliteration": "Loh-KAH-lno VEE-noh, yeh preh-seh-NAHT-lee-voh DOH-broh.",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:33:02.067957"
+    },
+    {
+      "english": "Can we find, a quiet spot to rest?",
+      "slovenian": "Najdeva miren kotiček, za počitek?",
+      "transliteration": "NAI-deh-vah MEE-ren KOH-tee-chek, zah poh-CHEE-tek?",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:33:02.067958"
+    },
+    {
+      "english": "This waterfall, is truly majestic.",
+      "slovenian": "Ta slap, je resnično veličasten.",
+      "transliteration": "Tah slahp, yeh reh-SNEE-shnoh vee-lee-CHAH-sten.",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:33:02.067968"
     }
   ],
-  "last_updated": "2026-09-09T16:15:04.142896"
+  "last_updated": "2026-09-09T19:33:02.067970"
 }
