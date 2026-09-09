@@ -11409,7 +11409,42 @@
       "transliteration": "Mai-hne be-se-de, gra-di-yo most-o-ve.",
       "category": "Education",
       "generated_at": "2026-09-09T04:23:30.068534"
+    },
+    {
+      "english": "One, true north.",
+      "slovenian": "Ena, prava smer.",
+      "transliteration": "Enah, prah-va smer.",
+      "category": "Numbers",
+      "generated_at": "2026-09-09T16:15:04.142877"
+    },
+    {
+      "english": "Two, deep breaths.",
+      "slovenian": "Dva, globoka vdihova.",
+      "transliteration": "Dvah, globok-ah vdi-ho-vah.",
+      "category": "Numbers",
+      "generated_at": "2026-09-09T16:15:04.142888"
+    },
+    {
+      "english": "Three, silent whispers.",
+      "slovenian": "Tri, tihi šepeti.",
+      "transliteration": "Tri, ti-hi she-peh-ti.",
+      "category": "Numbers",
+      "generated_at": "2026-09-09T16:15:04.142891"
+    },
+    {
+      "english": "Four, sturdy roots.",
+      "slovenian": "Štiri, trdne korenine.",
+      "transliteration": "Shtiri, trd-neh ko-reh-ni-neh.",
+      "category": "Numbers",
+      "generated_at": "2026-09-09T16:15:04.142893"
+    },
+    {
+      "english": "Five, wise old owls.",
+      "slovenian": "Pet, modrih starih sov.",
+      "transliteration": "Pet, mod-rih sta-rih sov.",
+      "category": "Numbers",
+      "generated_at": "2026-09-09T16:15:04.142894"
     }
   ],
-  "last_updated": "2026-09-09T04:23:30.068536"
+  "last_updated": "2026-09-09T16:15:04.142896"
 }
