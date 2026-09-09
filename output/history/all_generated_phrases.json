@@ -11479,7 +11479,42 @@
       "transliteration": "Tah slahp, yeh reh-SNEE-shnoh vee-lee-CHAH-sten.",
       "category": "Travel",
       "generated_at": "2026-09-09T19:33:02.067968"
+    },
+    {
+      "english": "This pastry, a true delight.",
+      "slovenian": "Ta pecivo, resnično užitek.",
+      "transliteration": "Tah peh-chee-vo, reh-shnee-ch'no oo-zhee-tek.",
+      "category": "Food",
+      "generated_at": "2026-09-09T22:22:33.178012"
+    },
+    {
+      "english": "Juicy apple, crisp skin.",
+      "slovenian": "Sočno jabolko, hrustljava lupina.",
+      "transliteration": "So-ch'no yah-bool-ko, hroos-tlah-vah loo-pee-nah.",
+      "category": "Food",
+      "generated_at": "2026-09-09T22:22:33.178022"
+    },
+    {
+      "english": "Aromatic coffee, waking senses.",
+      "slovenian": "Aromatična kava, zbudi čute.",
+      "transliteration": "Ah-ro-mah-tee-ch'nah kah-vah, zboo-dee choo-teh.",
+      "category": "Food",
+      "generated_at": "2026-09-09T22:22:33.178024"
+    },
+    {
+      "english": "Hearty dinner, shared often.",
+      "slovenian": "Zmožna večerja, pogosto deljena.",
+      "transliteration": "Zm-z'nah veh-cheh-ree-yah, po-goh-sto de-leh-nah.",
+      "category": "Food",
+      "generated_at": "2026-09-09T22:22:33.178025"
+    },
+    {
+      "english": "Golden crust, savory filling.",
+      "slovenian": "Zlata skorja, slana polnitev.",
+      "transliteration": "Zl-tah skor-yah, slah-nah pol-nee-tev.",
+      "category": "Food",
+      "generated_at": "2026-09-09T22:22:33.178026"
     }
   ],
-  "last_updated": "2026-09-09T19:33:02.067970"
+  "last_updated": "2026-09-09T22:22:33.178028"
 }
