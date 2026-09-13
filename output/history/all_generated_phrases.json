@@ -12109,7 +12109,42 @@
       "transliteration": "Naj misli tečejo, v slovenščini.",
       "category": "Purpose",
       "generated_at": "2026-09-13T15:53:36.012003"
+    },
+    {
+      "english": "Unfold your wings, fly.",
+      "slovenian": "Razširi svoja krila, leti.",
+      "transliteration": "Raz-shiri svo-ya kri-la, le-ti.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T17:18:34.799816"
+    },
+    {
+      "english": "Bloom where planted, boldly.",
+      "slovenian": "Cveti kjer si, drzneje.",
+      "transliteration": "Cve-ti kjehr si, drzne-je.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T17:18:34.799826"
+    },
+    {
+      "english": "A whisper, becomes a roar.",
+      "slovenian": "Šepet, postane rjovenje.",
+      "transliteration": "She-pet, pos-ta-ne ryo-ve-nje.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T17:18:34.799827"
+    },
+    {
+      "english": "Trust the journey, forward.",
+      "slovenian": "Zaupaj poti, naprej.",
+      "transliteration": "Zau-paj po-ti, na-prej.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T17:18:34.799828"
+    },
+    {
+      "english": "Sow seeds, of daring.",
+      "slovenian": "Sej seme, drznosti.",
+      "transliteration": "Sej se-me, drz-nos-ti.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T17:18:34.799829"
     }
   ],
-  "last_updated": "2026-09-13T15:53:36.012005"
+  "last_updated": "2026-09-13T17:18:34.799830"
 }
