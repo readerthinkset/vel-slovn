@@ -12144,7 +12144,42 @@
       "transliteration": "Sej se-me, drz-nos-ti.",
       "category": "Courage",
       "generated_at": "2026-09-13T17:18:34.799829"
+    },
+    {
+      "english": "Suddenly, I can't see, clearly.",
+      "slovenian": "Nenadoma, vidim, nejasno.",
+      "transliteration": "Nenadoma, vidim, nejasno.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T19:03:18.983779"
+    },
+    {
+      "english": "My ears are ringing, loudly.",
+      "slovenian": "Moji ušesi, donita, močno.",
+      "transliteration": "Moji ušesi, donita, močno.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T19:03:18.983789"
+    },
+    {
+      "english": "I feel a sharp pain, here.",
+      "slovenian": "Čutim ostro bolečino, tukaj.",
+      "transliteration": "Čutim ostro bolečino, tukaj.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T19:03:18.983790"
+    },
+    {
+      "english": "I need to lie down, now.",
+      "slovenian": "Potrebujem, leči, zdaj.",
+      "transliteration": "Potrebujem, leči, zdaj.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T19:03:18.983792"
+    },
+    {
+      "english": "My head is spinning, round.",
+      "slovenian": "Moja glava, se vrti, naokoli.",
+      "transliteration": "Moja glava, se vrti, naokoli.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T19:03:18.983793"
     }
   ],
-  "last_updated": "2026-09-13T17:18:34.799830"
+  "last_updated": "2026-09-13T19:03:18.983794"
 }
