@@ -12319,7 +12319,42 @@
       "transliteration": "Drohb-neh frah-zeh, grah-dee-yo poh-veh-zah-voh.",
       "category": "Education",
       "generated_at": "2026-09-14T19:03:24.915840"
+    },
+    {
+      "english": "The right time, is now.",
+      "slovenian": "Pravi čas, je zdaj.",
+      "transliteration": "Prah-vee chahs, yeh z-dye.",
+      "category": "Time",
+      "generated_at": "2026-09-14T20:40:41.196872"
+    },
+    {
+      "english": "In a heartbeat, we're there.",
+      "slovenian": "V hipu, smo tam.",
+      "transliteration": "V hee-poo, smoh tahm.",
+      "category": "Time",
+      "generated_at": "2026-09-14T20:40:41.196881"
+    },
+    {
+      "english": "Wait a little, then decide.",
+      "slovenian": "Počakaj malo, potem se odloči.",
+      "transliteration": "Po-chah-kai mah-loh, po-tem seh od-lo-chee.",
+      "category": "Time",
+      "generated_at": "2026-09-14T20:40:41.196882"
+    },
+    {
+      "english": "This very second, counts.",
+      "slovenian": "Ta trenutek, je pomemben.",
+      "transliteration": "Tah tren-oo-tek, yeh po-mem-ben.",
+      "category": "Time",
+      "generated_at": "2026-09-14T20:40:41.196884"
+    },
+    {
+      "english": "We have all the time.",
+      "slovenian": "Imamo ves čas.",
+      "transliteration": "Ee-mah-moh ves chahs.",
+      "category": "Time",
+      "generated_at": "2026-09-14T20:40:41.196885"
     }
   ],
-  "last_updated": "2026-09-14T19:03:24.915841"
+  "last_updated": "2026-09-14T20:40:41.196889"
 }
