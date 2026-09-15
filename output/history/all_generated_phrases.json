@@ -12389,7 +12389,42 @@
       "transliteration": "O-pa-zi lep-o-to, pov-sod o-ko-li.",
       "category": "Happiness",
       "generated_at": "2026-09-15T16:37:03.427008"
+    },
+    {
+      "english": "Gray clouds gather, heavy, low.",
+      "slovenian": "Sivi oblaki se, zbirajo, težki.",
+      "transliteration": "See-vee ob-la-kee se, zbee-ra-yo, tezh-kee.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T17:57:45.532686"
+    },
+    {
+      "english": "A sudden gust, shakes the leaves.",
+      "slovenian": "Silen sunek, zatrese listje.",
+      "transliteration": "See-len soo-nek, za-treh-seh leest-yeh.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T17:57:45.532697"
+    },
+    {
+      "english": "Sunlight filters, through the branches.",
+      "slovenian": "Sončna svetloba, se filtrira, skozi veje.",
+      "transliteration": "Sohn-ch-na svet-lo-ba, se fil-tree-ra, skoh-zee veh-yeh.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T17:57:45.532699"
+    },
+    {
+      "english": "The air is thick, smells like rain.",
+      "slovenian": "Zrak je gost, diši po dežju.",
+      "transliteration": "Zrak yeh gohst, dee-shee poh dezh-yoo.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T17:57:45.532701"
+    },
+    {
+      "english": "A gentle breeze, whispers secrets.",
+      "slovenian": "Nežen vetrič, šepeta skrivnosti.",
+      "transliteration": "Neh-zhen ve-treech, sheh-peh-ta skreev-noh-stee.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T17:57:45.532702"
     }
   ],
-  "last_updated": "2026-09-15T16:37:03.427010"
+  "last_updated": "2026-09-15T17:57:45.532704"
 }
