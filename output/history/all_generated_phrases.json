@@ -12704,7 +12704,42 @@
       "transliteration": "Me-de-na zla-ta, si-ya slad-ke-ga nek-tar-ja.",
       "category": "Colors",
       "generated_at": "2026-09-17T16:36:07.868787"
+    },
+    {
+      "english": "This bread, smells wonderful.",
+      "slovenian": "Ta kruh, diši čudovito.",
+      "transliteration": "Tah krooh, deeshee choo-doh-vee-toh.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-17T17:57:27.098948"
+    },
+    {
+      "english": "May I, have a doggy bag?",
+      "slovenian": "Lahko, dobim vrečko za ostanke?",
+      "transliteration": "Lah-koh, doh-beem vrehch-koh zah ohs-tahn-keh?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-17T17:57:27.098957"
+    },
+    {
+      "english": "Is this, spicy, a little?",
+      "slovenian": "Je to, malo, pikantno?",
+      "transliteration": "Yeh toh, mah-loh, pee-kahn-toh?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-17T17:57:27.098958"
+    },
+    {
+      "english": "We need, a high chair, please.",
+      "slovenian": "Potrebujemo, stolček za malčke, prosim.",
+      "transliteration": "Poh-treh-boo-yeh-moh, stohl-chehk zah mahlch-keh, proh-seem.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-17T17:57:27.098960"
+    },
+    {
+      "english": "Just water, with ice.",
+      "slovenian": "Navadno vodo, z ledom.",
+      "transliteration": "Nah-vahd-noh voh-doh, zd le-dom.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-17T17:57:27.098961"
     }
   ],
-  "last_updated": "2026-09-17T16:36:07.868789"
+  "last_updated": "2026-09-17T17:57:27.098963"
 }
