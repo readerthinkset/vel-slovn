@@ -13124,7 +13124,42 @@
       "transliteration": "Tah doh-mah-chah glahz-bah, yeh zhee-vahkh-nah.",
       "category": "Travel",
       "generated_at": "2026-09-19T19:01:45.306751"
+    },
+    {
+      "english": "Tap the screen, gently.",
+      "slovenian": "Nežno, potegni zaslon.",
+      "transliteration": "Nezhno, potegni zaslon.",
+      "category": "Technology",
+      "generated_at": "2026-09-19T22:14:59.410370"
+    },
+    {
+      "english": "Swipe right, for more.",
+      "slovenian": "Potegni desno, za več.",
+      "transliteration": "Potegni deshno, za vech.",
+      "category": "Technology",
+      "generated_at": "2026-09-19T22:14:59.410382"
+    },
+    {
+      "english": "Zoom in, closely.",
+      "slovenian": "Povečaj, natančno.",
+      "transliteration": "Povechay, natanchno.",
+      "category": "Technology",
+      "generated_at": "2026-09-19T22:14:59.410384"
+    },
+    {
+      "english": "Scroll down, slowly.",
+      "slovenian": "Pomakni navzdol, počasi.",
+      "transliteration": "Pomakni navzdol, pochasi.",
+      "category": "Technology",
+      "generated_at": "2026-09-19T22:14:59.410386"
+    },
+    {
+      "english": "Pin this message, always.",
+      "slovenian": "Pripni sporočilo, vedno.",
+      "transliteration": "Pripni sporochilo, vedno.",
+      "category": "Technology",
+      "generated_at": "2026-09-19T22:14:59.410387"
     }
   ],
-  "last_updated": "2026-09-19T19:01:45.306753"
+  "last_updated": "2026-09-19T22:14:59.410389"
 }
