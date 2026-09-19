@@ -13019,7 +13019,42 @@
       "transliteration": "Odkleni misli, z govorom.",
       "category": "Strength",
       "generated_at": "2026-09-19T04:21:55.864687"
+    },
+    {
+      "english": "The striped tiger, stalks its prey.",
+      "slovenian": "Tigrovi prugi, tiho plen lovi.",
+      "transliteration": "Tee-gro-vee proo-gee, tee-ho plen loh-vee.",
+      "category": "Animals",
+      "generated_at": "2026-09-19T15:39:12.619781"
+    },
+    {
+      "english": "A buzzing fly, annoys everyone.",
+      "slovenian": "Brenčeča muha, vse draži.",
+      "transliteration": "Bren-cheh-cha moo-ha, vseh drah-zhee.",
+      "category": "Animals",
+      "generated_at": "2026-09-19T15:39:12.619790"
+    },
+    {
+      "english": "The tiny frog, croaks in pond.",
+      "slovenian": "Drobna žaba, v ribniku kvase.",
+      "transliteration": "Drohb-na zha-ba, v reeb-nee-koo kvah-seh.",
+      "category": "Animals",
+      "generated_at": "2026-09-19T15:39:12.619792"
+    },
+    {
+      "english": "A chirping cricket, sings at night.",
+      "slovenian": "Cvrčeči čriček, ponoči poje.",
+      "transliteration": "Tsver-cheh-chee chree-chek, poh-noh-chee poh-yeh.",
+      "category": "Animals",
+      "generated_at": "2026-09-19T15:39:12.619793"
+    },
+    {
+      "english": "The mighty whale, surfaces slowly.",
+      "slovenian": "Močen kit, počasi priplava.",
+      "transliteration": "Moh-chen keet, poh-chah-see pree-plah-vah.",
+      "category": "Animals",
+      "generated_at": "2026-09-19T15:39:12.619795"
     }
   ],
-  "last_updated": "2026-09-19T04:21:55.864689"
+  "last_updated": "2026-09-19T15:39:12.619796"
 }
