@@ -13544,7 +13544,42 @@
       "transliteration": "Vah-dee-teh dnehv-noh, grah-dee-teh svoh-yeh znaa-nyeh.",
       "category": "Self Improvement",
       "generated_at": "2026-09-22T16:36:48.209871"
+    },
+    {
+      "english": "The road, is blocked ahead.",
+      "slovenian": "Cesta, je zaprta naprej.",
+      "transliteration": "Tse-ta, ye zapr-ta na-prey.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T17:58:50.383515"
+    },
+    {
+      "english": "I need, to make a call.",
+      "slovenian": "Moram, poklicati.",
+      "transliteration": "Mo-ram, po-kli-ca-ti.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T17:58:50.383527"
+    },
+    {
+      "english": "Where is, the nearest hospital?",
+      "slovenian": "Kje je, najbližja bolnišnica?",
+      "transliteration": "K-dye ye, naj-bli-zhya bol-nish-ni-tsa?",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T17:58:50.383528"
+    },
+    {
+      "english": "I've lost, my bearings.",
+      "slovenian": "Izgubil sem, se.",
+      "transliteration": "Iz-gu-bil sem, se.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T17:58:50.383530"
+    },
+    {
+      "english": "Can you, point me, that way?",
+      "slovenian": "Mi lahko, pokažeš, tja?",
+      "transliteration": "Mi lah-ko, po-ka-zhesh, tya?",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T17:58:50.383531"
     }
   ],
-  "last_updated": "2026-09-22T16:36:48.209872"
+  "last_updated": "2026-09-22T17:58:50.383533"
 }
