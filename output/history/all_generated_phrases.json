@@ -13789,7 +13789,42 @@
       "transliteration": "Vdi-hni mir, iz-di-hni na-pe-tost.",
       "category": "Mindfulness",
       "generated_at": "2026-09-23T19:54:52.916042"
+    },
+    {
+      "english": "Unleash your Slovenian, freely.",
+      "slovenian": "Svoj slovenščini, svobodno izrazi.",
+      "transliteration": "Svoy sloven-shchi-ni, svobodno iz-ra-zi.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:49:41.248291"
+    },
+    {
+      "english": "Each word, a new connection.",
+      "slovenian": "Vsaka beseda, nova povezava.",
+      "transliteration": "Vsaka beseda, nova pove-za-va.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:49:41.248300"
+    },
+    {
+      "english": "Your accent, has its charm.",
+      "slovenian": "Tvoj naglas, ima svoj čar.",
+      "transliteration": "Tvoy naglas, i-ma svoy char.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:49:41.248302"
+    },
+    {
+      "english": "Let your voice, bloom.",
+      "slovenian": "Naj tvoj glas, zacveti.",
+      "transliteration": "Nai tvoy glas, za-cve-ti.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:49:41.248303"
+    },
+    {
+      "english": "You're building, a bridge of words.",
+      "slovenian": "Zidaš, most besed.",
+      "transliteration": "Zi-dash, most be-sed.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:49:41.248304"
     }
   ],
-  "last_updated": "2026-09-23T19:54:52.916043"
+  "last_updated": "2026-09-23T22:49:41.248306"
 }
