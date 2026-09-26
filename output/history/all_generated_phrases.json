@@ -14139,7 +14139,42 @@
       "transliteration": "POH-shloo-shy, ohd-DAH-lyeh-neh ZVOH-noh-veh.",
       "category": "Common Expressions",
       "generated_at": "2026-09-26T04:42:25.648888"
+    },
+    {
+      "english": "Morning mist, still clings.",
+      "slovenian": "Jutranja megla, še vztraja.",
+      "transliteration": "YOO-tran-yah MEHG-lah, shyeh VZTRAY-ah.",
+      "category": "Weather",
+      "generated_at": "2026-09-26T16:05:14.657126"
+    },
+    {
+      "english": "Sunbeams dance, on water.",
+      "slovenian": "Sončni žarki, plešejo po vodi.",
+      "transliteration": "SON-chnee ZHAR-kee, PLEH-sheh-yoh poh VOH-dee.",
+      "category": "Weather",
+      "generated_at": "2026-09-26T16:05:14.657135"
+    },
+    {
+      "english": "Sky's a whisper, of blue.",
+      "slovenian": "Nebo je šepet, modrine.",
+      "transliteration": "NEH-boh yeh SHEH-pet, moh-DREE-neh.",
+      "category": "Weather",
+      "generated_at": "2026-09-26T16:05:14.657137"
+    },
+    {
+      "english": "A sudden shower, surprises.",
+      "slovenian": "Nenaden ploh, preseneti.",
+      "transliteration": "NEH-nah-den PLOH, preh-SEH-neh-tee.",
+      "category": "Weather",
+      "generated_at": "2026-09-26T16:05:14.657138"
+    },
+    {
+      "english": "Clouds drift lazily, overhead.",
+      "slovenian": "Oblaki lenobno, plujejo nad nami.",
+      "transliteration": "OH-blah-kee LEH-nohb-noh, PLOO-yeh-yoh nahd NAH-mee.",
+      "category": "Weather",
+      "generated_at": "2026-09-26T16:05:14.657139"
     }
   ],
-  "last_updated": "2026-09-26T04:42:25.648890"
+  "last_updated": "2026-09-26T16:05:14.657141"
 }
