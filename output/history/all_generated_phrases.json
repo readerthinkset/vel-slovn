@@ -14874,7 +14874,42 @@
       "transliteration": "Nah-oo-chee pohz-drahf, spohz-nai pree-yah-teh-lyah.",
       "category": "Purpose",
       "generated_at": "2026-09-30T17:49:16.651863"
+    },
+    {
+      "english": "A fluffy owl, blinks slowly.",
+      "slovenian": "Puhasta sova, mežika počasi.",
+      "transliteration": "Poo-ha-sta so-va, me-zhi-ka po-cha-si.",
+      "category": "Animals",
+      "generated_at": "2026-09-30T20:28:42.362796"
+    },
+    {
+      "english": "The curious cat, stalks shadows.",
+      "slovenian": "Radovedna mačka, opazuje sence.",
+      "transliteration": "Ra-do-ved-na mach-ka, o-pa-zu-ye sen-tse.",
+      "category": "Animals",
+      "generated_at": "2026-09-30T20:28:42.362806"
+    },
+    {
+      "english": "A busy bee, gathers nectar.",
+      "slovenian": "Zaposlena čebela, nabira nektar.",
+      "transliteration": "Za-po-sle-na che-be-la, na-bi-ra nek-tar.",
+      "category": "Animals",
+      "generated_at": "2026-09-30T20:28:42.362808"
+    },
+    {
+      "english": "The playful pup, chases tail.",
+      "slovenian": "Igrači kuža, lovi rep.",
+      "transliteration": "I-gra-chi koo-zha, lo-vi rep.",
+      "category": "Animals",
+      "generated_at": "2026-09-30T20:28:42.362810"
+    },
+    {
+      "english": "A shy hedgehog, rolls up.",
+      "slovenian": "Sramotlji in jež, se zvije.",
+      "transliteration": "Sra-mot-lyee in yezh, se zvee-yeh.",
+      "category": "Animals",
+      "generated_at": "2026-09-30T20:28:42.362811"
     }
   ],
-  "last_updated": "2026-09-30T17:49:16.651865"
+  "last_updated": "2026-09-30T20:28:42.362812"
 }
