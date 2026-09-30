@@ -14944,7 +14944,42 @@
       "transliteration": "Po-ve-zhee se gloh-boh-ko, skoh-zee ye-zeek.",
       "category": "Strength",
       "generated_at": "2026-09-30T22:06:42.703997"
+    },
+    {
+      "english": "My arm, it's broken.",
+      "slovenian": "Roka, je zlomljena.",
+      "transliteration": "Roh-kah, yeh zloh-men-ah.",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T23:34:51.813253"
+    },
+    {
+      "english": "I'm bleeding, heavily.",
+      "slovenian": "Krvavim, močno.",
+      "transliteration": "Krvah-veem, moh-ch-no.",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T23:34:51.813264"
+    },
+    {
+      "english": "Danger, close by.",
+      "slovenian": "Nevarnost, blizu.",
+      "transliteration": "Neh-var-nost, blah-zoo.",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T23:34:51.813266"
+    },
+    {
+      "english": "I need water, fast.",
+      "slovenian": "Potrebujem vodo, hitro.",
+      "transliteration": "Pot-reh-boo-yem voh-doh, hee-troh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T23:34:51.813267"
+    },
+    {
+      "english": "Someone, is trapped.",
+      "slovenian": "Nekdo, je ujet.",
+      "transliteration": "Nehk-doh, yeh oo-yet.",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T23:34:51.813269"
     }
   ],
-  "last_updated": "2026-09-30T22:06:42.703999"
+  "last_updated": "2026-09-30T23:34:51.813271"
 }
