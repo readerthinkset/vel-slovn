@@ -15014,7 +15014,42 @@
       "transliteration": "Ta zvok, ye nov.",
       "category": "Directions",
       "generated_at": "2026-10-01T05:32:57.570083"
+    },
+    {
+      "english": "Next week, adventure awaits.",
+      "slovenian": "Naslednji teden, čaka pustolovščina.",
+      "transliteration": "Naslednji teden, čaka pustolovščina.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:17:51.072024"
+    },
+    {
+      "english": "Before the sun sets, we leave.",
+      "slovenian": "Preden sonce zaide, odrinemo.",
+      "transliteration": "Preden sonce zaide, odrinemo.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:17:51.072039"
+    },
+    {
+      "english": "One day, dreams come true.",
+      "slovenian": "Nekega dne, se sanje uresničijo.",
+      "transliteration": "Nekega dne, se sanje uresničijo.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:17:51.072041"
+    },
+    {
+      "english": "Now is the time, for action.",
+      "slovenian": "Zdaj je čas, za dejanje.",
+      "transliteration": "Zdaj je čas, za dejanje.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:17:51.072042"
+    },
+    {
+      "english": "In the evening, we will meet.",
+      "slovenian": "Zvečer, se srečamo.",
+      "transliteration": "Zvečer, se srečamo.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:17:51.072044"
     }
   ],
-  "last_updated": "2026-10-01T05:32:57.570085"
+  "last_updated": "2026-10-01T18:17:51.072045"
 }
