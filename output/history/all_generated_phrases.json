@@ -15854,7 +15854,42 @@
       "transliteration": "Slo-ven-ske be-se-de, pri-ja-zen poz-drav.",
       "category": "Education",
       "generated_at": "2026-10-06T06:03:08.925889"
+    },
+    {
+      "english": "Help, I've tripped, badly.",
+      "slovenian": "Pomoč, spotaknil sem se, močno.",
+      "transliteration": "Pomoch, spotaknil sem se, moch'no.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T18:07:55.040459"
+    },
+    {
+      "english": "My breathing, is difficult.",
+      "slovenian": "Dihanje, mi je oteženo.",
+      "transliteration": "De-han-ye, mee yeh ote-zhe-no.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T18:07:55.040471"
+    },
+    {
+      "english": "I think, I'm allergic.",
+      "slovenian": "Mislim, da sem alergičen.",
+      "transliteration": "Mee-slim, dah sem a-ler-gich-en.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T18:07:55.040473"
+    },
+    {
+      "english": "Suddenly, dizzy, very.",
+      "slovenian": "Naenkrat, omotičen, zelo.",
+      "transliteration": "Na-en-krat, o-mo-ti-chen, ze-lo.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T18:07:55.040474"
+    },
+    {
+      "english": "My leg, it hurts, a lot.",
+      "slovenian": "Noga, me boli, zelo.",
+      "transliteration": "No-ga, meh bo-lee, ze-lo.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T18:07:55.040475"
     }
   ],
-  "last_updated": "2026-10-06T06:03:08.925891"
+  "last_updated": "2026-10-06T18:07:55.040477"
 }
