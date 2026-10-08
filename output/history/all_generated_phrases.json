@@ -16239,7 +16239,42 @@
       "transliteration": "O-koo-see kool-too-roh, beh-seh-doh zah beh-seh-doh.",
       "category": "Purpose",
       "generated_at": "2026-10-08T18:39:43.465539"
+    },
+    {
+      "english": "The hour, approaches.",
+      "slovenian": "Ura, se bliža.",
+      "transliteration": "OO-rah, seh Blee-zhah.",
+      "category": "Time",
+      "generated_at": "2026-10-08T19:41:33.353252"
+    },
+    {
+      "english": "Time, a gentle river.",
+      "slovenian": "Čas, nežna reka.",
+      "transliteration": "Chahs, NEZH-nah REH-kah.",
+      "category": "Time",
+      "generated_at": "2026-10-08T19:41:33.353265"
+    },
+    {
+      "english": "A quiet interval, passes.",
+      "slovenian": "Tiho obdobje, mine.",
+      "transliteration": "Tee-ho OB-doh-bjeh, MEE-neh.",
+      "category": "Time",
+      "generated_at": "2026-10-08T19:41:33.353267"
+    },
+    {
+      "english": "Soon, a new chapter.",
+      "slovenian": "Kmalu, novo poglavje.",
+      "transliteration": "KMAH-loo, NOH-voh poh-GLAH-vyeh.",
+      "category": "Time",
+      "generated_at": "2026-10-08T19:41:33.353269"
+    },
+    {
+      "english": "The moment, unfolds.",
+      "slovenian": "Trenutek, se razgrne.",
+      "transliteration": "TREH-noo-tek, seh raz-GUR-neh.",
+      "category": "Time",
+      "generated_at": "2026-10-08T19:41:33.353270"
     }
   ],
-  "last_updated": "2026-10-08T18:39:43.465540"
+  "last_updated": "2026-10-08T19:41:33.353272"
 }
