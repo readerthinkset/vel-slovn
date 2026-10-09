@@ -16379,7 +16379,42 @@
       "transliteration": "Na-smeh, lah-ko spre-me-ni, vse.",
       "category": "Common Expressions",
       "generated_at": "2026-10-09T05:50:54.467748"
+    },
+    {
+      "english": "Observe the world, with open eyes.",
+      "slovenian": "Opazuj svet, z odprtimi očmi.",
+      "transliteration": "Opazuj svet, z odprtimi ochmi.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T18:10:55.146493"
+    },
+    {
+      "english": "Unravel the threads, one by one.",
+      "slovenian": "Razpleti niti, eno za drugo.",
+      "transliteration": "Razpleti niti, eno za drugo.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T18:10:55.146502"
+    },
+    {
+      "english": "Hear the silence, it speaks volumes.",
+      "slovenian": "Slišite tišino, govori veliko.",
+      "transliteration": "Slišite tišino, govori veliko.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T18:10:55.146504"
+    },
+    {
+      "english": "Trust the process, it knows the way.",
+      "slovenian": "Zaupaj procesu, pozna pot.",
+      "transliteration": "Zaupaj procesu, pozna pot.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T18:10:55.146505"
+    },
+    {
+      "english": "Let understanding, gently settle in.",
+      "slovenian": "Naj razumevanje, nežno sede.",
+      "transliteration": "Naj razumevanje, nežno sede.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T18:10:55.146506"
     }
   ],
-  "last_updated": "2026-10-09T05:50:54.467750"
+  "last_updated": "2026-10-09T18:10:55.146508"
 }
