@@ -16729,7 +16729,42 @@
       "transliteration": "Najdi mir, sredi hrupa.",
       "category": "Health",
       "generated_at": "2026-10-11T18:37:53.183924"
+    },
+    {
+      "english": "Whispering breeze, through tall grass.",
+      "slovenian": "Šepetajoč veter, skozi visoko travo.",
+      "transliteration": "Sheh-peh-tah-yo-ch ve-ter, skoh-zee vee-soh-koh trah-voh.",
+      "category": "Nature",
+      "generated_at": "2026-10-11T20:40:16.323073"
+    },
+    {
+      "english": "Sunlit path, winding deeper.",
+      "slovenian": "Sončna pot, ovinkasto globlje.",
+      "transliteration": "Son-ch-nah pot, oh-veen-kah-stoh glo-bl-yeh.",
+      "category": "Nature",
+      "generated_at": "2026-10-11T20:40:16.323080"
+    },
+    {
+      "english": "Quiet pond, mirroring sky.",
+      "slovenian": "Mirno jezero, zrcali nebo.",
+      "transliteration": "Meer-noh yeh-zeh-roh, zr-tah-lee neh-boh.",
+      "category": "Nature",
+      "generated_at": "2026-10-11T20:40:16.323082"
+    },
+    {
+      "english": "Crunching leaves, underfoot sound.",
+      "slovenian": "Drobljenje listja, zvok pod nogami.",
+      "transliteration": "Droh-bl-yeh-nyeh leest-yah, zvohk pohd noh-gah-mee.",
+      "category": "Nature",
+      "generated_at": "2026-10-11T20:40:16.323083"
+    },
+    {
+      "english": "Rocky outcrop, views unfold.",
+      "slovenian": "Kamnit izstop, razgledi se odprejo.",
+      "transliteration": "Kahm-neeth ee-z-tohp, rahz-gleh-dee seh ohd-preh-yoh.",
+      "category": "Nature",
+      "generated_at": "2026-10-11T20:40:16.323085"
     }
   ],
-  "last_updated": "2026-10-11T18:37:53.183925"
+  "last_updated": "2026-10-11T20:40:16.323086"
 }
