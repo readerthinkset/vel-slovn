@@ -17184,7 +17184,42 @@
       "transliteration": "Slep kot, sem im-el.",
       "category": "Forgiveness",
       "generated_at": "2026-10-14T04:37:40.931722"
+    },
+    {
+      "english": "Whispering willow, softest green.",
+      "slovenian": "Šepetajoča vrba, najmehkejša zelena.",
+      "transliteration": "Sheh-peh-tah-yoo-cha vr-ba, nai-meh-keh-sheh-hah zeh-leh-nah.",
+      "category": "Colors",
+      "generated_at": "2026-10-14T16:51:14.991743"
+    },
+    {
+      "english": "Midnight velvet, deepest black.",
+      "slovenian": "Polnočna žamet, najgloblja črna.",
+      "transliteration": "Pol-noch-nah zha-met, nai-glo-b-ya cherna.",
+      "category": "Colors",
+      "generated_at": "2026-10-14T16:51:14.991757"
+    },
+    {
+      "english": "Sunrise blush, a gentle pink.",
+      "slovenian": "Sončni vzhod rdečilo, nežno rožnato.",
+      "transliteration": "Son-chee vzhod r-deh-chee-lo, neh-zhoh roh-zh-nah-toh.",
+      "category": "Colors",
+      "generated_at": "2026-10-14T16:51:14.991758"
+    },
+    {
+      "english": "Stormy cloud, a moody grey.",
+      "slovenian": "Nevihtni oblak, mračna siva.",
+      "transliteration": "Neh-veeh-tnee ob-lak, mra-chnah see-vah.",
+      "category": "Colors",
+      "generated_at": "2026-10-14T16:51:14.991760"
+    },
+    {
+      "english": "Ocean floor, a murky brown.",
+      "slovenian": "Oceansko dno, motno rjava.",
+      "transliteration": "O-eh-an-sko dno, mot-no r-yah-vah.",
+      "category": "Colors",
+      "generated_at": "2026-10-14T16:51:14.991761"
     }
   ],
-  "last_updated": "2026-10-14T04:37:40.931724"
+  "last_updated": "2026-10-14T16:51:14.991764"
 }
