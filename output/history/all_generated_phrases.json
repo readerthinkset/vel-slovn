@@ -17324,7 +17324,42 @@
       "transliteration": "Tpreh-noo-tek, zah pohz-drahv.",
       "category": "Greetings",
       "generated_at": "2026-10-14T23:04:04.294560"
+    },
+    {
+      "english": "This waistcoat, is quite charming.",
+      "slovenian": "Ta telovnik, je kar očarljiv.",
+      "transliteration": "Tah teh-lo-veek, yeh kahr oh-char-leev.",
+      "category": "Clothes",
+      "generated_at": "2026-10-15T04:19:54.474190"
+    },
+    {
+      "english": "My apron, is very practical.",
+      "slovenian": "Moj predpasnik, je zelo praktičen.",
+      "transliteration": "Moy prehd-pas-neek, yeh zeh-loh prak-teech-en.",
+      "category": "Clothes",
+      "generated_at": "2026-10-15T04:19:54.474198"
+    },
+    {
+      "english": "Her blouse, has delicate embroidery.",
+      "slovenian": "Njena bluza, ima nežno vezenje.",
+      "transliteration": "Nyen-ah bloo-zah, ee-mah nezh-noh veh-zen-yeh.",
+      "category": "Clothes",
+      "generated_at": "2026-10-15T04:19:54.474200"
+    },
+    {
+      "english": "These overalls, are for tough jobs.",
+      "slovenian": "Te delovne hlače, so za trda dela.",
+      "transliteration": "Teh dehl-ohv-neh hla-cheh, soh zah tur-dah deh-lah.",
+      "category": "Clothes",
+      "generated_at": "2026-10-15T04:19:54.474201"
+    },
+    {
+      "english": "My waistcoat, has many pockets.",
+      "slovenian": "Moj telovnik, ima veliko žepov.",
+      "transliteration": "Moy teh-lo-veek, ee-mah vee-lee-koh zheh-pohv.",
+      "category": "Clothes",
+      "generated_at": "2026-10-15T04:19:54.474202"
     }
   ],
-  "last_updated": "2026-10-14T23:04:04.294561"
+  "last_updated": "2026-10-15T04:19:54.474204"
 }
