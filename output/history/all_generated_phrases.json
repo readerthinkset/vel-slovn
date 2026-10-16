@@ -17639,7 +17639,42 @@
       "transliteration": "Nov ritem, nas prevzame.",
       "category": "Music",
       "generated_at": "2026-10-16T19:45:28.562361"
+    },
+    {
+      "english": "This meal, is quite a treat.",
+      "slovenian": "Ta jed, je res poslastica.",
+      "transliteration": "Tah yed, yeh rehs poh-slah-steet-sah.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T22:41:00.564386"
+    },
+    {
+      "english": "Could we, see the wine list?",
+      "slovenian": "Bi lahko, videli vinsko karto?",
+      "transliteration": "Bee lah-koh, vee-deh-lee veen-skoh kahr-toh?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T22:41:00.564396"
+    },
+    {
+      "english": "I'll have, that one, please.",
+      "slovenian": "Vzel bom, kar tistega, prosim.",
+      "transliteration": "Vzel bohm, kahr tees-teh-gah, proh-seem.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T22:41:00.564398"
+    },
+    {
+      "english": "Is this, very popular?",
+      "slovenian": "Je tole, zelo priljubljeno?",
+      "transliteration": "Yeh toh-leh, zeh-loh pree-lyoo-bleh-noh?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T22:41:00.564399"
+    },
+    {
+      "english": "My stomach, is rumbling.",
+      "slovenian": "Moj želodec, kruli.",
+      "transliteration": "Moy zheh-loh-dehts, kroo-lee.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T22:41:00.564401"
     }
   ],
-  "last_updated": "2026-10-16T19:45:28.562362"
+  "last_updated": "2026-10-16T22:41:00.564402"
 }
