@@ -18129,7 +18129,42 @@
       "transliteration": "Taka velikodushnost, res greye.",
       "category": "Gratitude",
       "generated_at": "2026-10-19T21:43:51.629294"
+    },
+    {
+      "english": "My wallet, it's gone.",
+      "slovenian": "Moja denarnica, je izginila.",
+      "transliteration": "Moy-ah deh-nar-nee-tsah, yeh ee-zee-ghee-nah-lah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T23:54:48.492354"
+    },
+    {
+      "english": "I feel faint, please.",
+      "slovenian": "Počutim se, omahujem, prosim.",
+      "transliteration": "Poh-choo-teem seh, oh-mah-hoo-yem, pro-seem.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T23:54:48.492362"
+    },
+    {
+      "english": "This is, an emergency.",
+      "slovenian": "To je, nujni primer.",
+      "transliteration": "Toh yeh, noo-ynee pree-mer.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T23:54:48.492364"
+    },
+    {
+      "english": "I've been, pickpocketed.",
+      "slovenian": "Ukradli, so mi žepek.",
+      "transliteration": "Oo-krahd-lee, soh mee zheh-pek.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T23:54:48.492366"
+    },
+    {
+      "english": "My phone, is dead.",
+      "slovenian": "Moj telefon, je mrtev.",
+      "transliteration": "Moy teh-leh-fohn, yeh mr-tehv.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T23:54:48.492367"
     }
   ],
-  "last_updated": "2026-10-19T21:43:51.629296"
+  "last_updated": "2026-10-19T23:54:48.492368"
 }
