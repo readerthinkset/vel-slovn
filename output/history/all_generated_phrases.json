@@ -18059,7 +18059,42 @@
       "transliteration": "Deh-lee nah-smeh, svoh-bohd-no.",
       "category": "Common Expressions",
       "generated_at": "2026-10-19T18:50:41.472776"
+    },
+    {
+      "english": "Follow my lead, carefully.",
+      "slovenian": "Sledi mi, previdno.",
+      "transliteration": "Sle-di mi, pre-vid-no.",
+      "category": "Directions",
+      "generated_at": "2026-10-19T20:07:10.082715"
+    },
+    {
+      "english": "Let's try, this rhythm.",
+      "slovenian": "Poskusimo, ta ritem.",
+      "transliteration": "Po-sku-si-mo, ta ri-tem.",
+      "category": "Directions",
+      "generated_at": "2026-10-19T20:07:10.082722"
+    },
+    {
+      "english": "Feel the stress, here.",
+      "slovenian": "Občuti poudarek, tukaj.",
+      "transliteration": "Ob-ču-ti po-u-da-rek, tu-kaj.",
+      "category": "Directions",
+      "generated_at": "2026-10-19T20:07:10.082724"
+    },
+    {
+      "english": "Softly, then louder.",
+      "slovenian": "Tiho, potem glasneje.",
+      "transliteration": "Ti-ho, po-tem glas-ne-je.",
+      "category": "Directions",
+      "generated_at": "2026-10-19T20:07:10.082726"
+    },
+    {
+      "english": "Hear the connection, in speech.",
+      "slovenian": "Sliši povezavo, v govoru.",
+      "transliteration": "Sli-ši po-ve-za-vo, v go-vo-ru.",
+      "category": "Directions",
+      "generated_at": "2026-10-19T20:07:10.082727"
     }
   ],
-  "last_updated": "2026-10-19T18:50:41.472778"
+  "last_updated": "2026-10-19T20:07:10.082729"
 }
