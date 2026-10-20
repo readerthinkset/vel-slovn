@@ -18304,7 +18304,42 @@
       "transliteration": "Vahr-choo-y dah-nehs, oos-peh-vah-y yoo-tree.",
       "category": "Finance",
       "generated_at": "2026-10-20T20:49:40.044872"
+    },
+    {
+      "english": "Bright sun, warms the skin.",
+      "slovenian": "Sončen žar, greje kožo.",
+      "transliteration": "Son-chen zhaar, grey-eh koh-zho.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:20:41.159455"
+    },
+    {
+      "english": "Storm clouds, gather speed.",
+      "slovenian": "Nevidni oblaki, nabirajo moč.",
+      "transliteration": "Neh-vid-nee ob-la-kee, na-bee-raa-yo moch.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:20:41.159466"
+    },
+    {
+      "english": "Soft drizzle, wets the path.",
+      "slovenian": "Nežna prha, moči pot.",
+      "transliteration": "Neh-zhna pr-ha, mo-chee pot.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:20:41.159468"
+    },
+    {
+      "english": "Crisp air, smells so clean.",
+      "slovenian": "Oster zrak, diši sveže.",
+      "transliteration": "Os-ter zrak, dee-shee sveh-zheh.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:20:41.159469"
+    },
+    {
+      "english": "Golden light, paints the hills.",
+      "slovenian": "Zlata svetloba, poslika hribe.",
+      "transliteration": "Zla-ta svet-lo-ba, po-slee-ka hree-beh.",
+      "category": "Weather",
+      "generated_at": "2026-10-20T23:20:41.159470"
     }
   ],
-  "last_updated": "2026-10-20T20:49:40.044874"
+  "last_updated": "2026-10-20T23:20:41.159472"
 }
