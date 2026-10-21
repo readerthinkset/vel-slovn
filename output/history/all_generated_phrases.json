@@ -18374,7 +18374,42 @@
       "transliteration": "SH-tee-ree, EH-na-ko-meh-ren REE-tem, OO-tree-pa.",
       "category": "Numbers",
       "generated_at": "2026-10-21T05:12:19.523198"
+    },
+    {
+      "english": "Sunlight, paints the morning.",
+      "slovenian": "Sončni žarki, barvajo jutro.",
+      "transliteration": "SON-chnee ZHARS-kee, BAR-vow-yoh YOO-troh.",
+      "category": "Time",
+      "generated_at": "2026-10-21T17:36:52.171001"
+    },
+    {
+      "english": "Shadows, stretch and yawn.",
+      "slovenian": "Sence, se raztegnejo in zazehajo.",
+      "transliteration": "SEN-tseh, seh RAZ-teh-gneh-yoh een ZA-zeh-haw-yoh.",
+      "category": "Time",
+      "generated_at": "2026-10-21T17:36:52.171012"
+    },
+    {
+      "english": "A quiet moment, breathes.",
+      "slovenian": "Tihi trenutek, diha.",
+      "transliteration": "TEE-hee tren-OO-tek, DEE-haw.",
+      "category": "Time",
+      "generated_at": "2026-10-21T17:36:52.171014"
+    },
+    {
+      "english": "Raindrops, tap a rhythm.",
+      "slovenian": "Dežne kaplje, trkajo ritem.",
+      "transliteration": "DEZH-neh KAP-lyeh, TRK-ow-yoh REE-tem.",
+      "category": "Time",
+      "generated_at": "2026-10-21T17:36:52.171015"
+    },
+    {
+      "english": "Stars, begin to glimmer.",
+      "slovenian": "Zvezde, pričnejo utripati.",
+      "transliteration": "ZVEZ-deh, PREE-chneh-yoh OO-tree-PA-tee.",
+      "category": "Time",
+      "generated_at": "2026-10-21T17:36:52.171016"
     }
   ],
-  "last_updated": "2026-10-21T05:12:19.523199"
+  "last_updated": "2026-10-21T17:36:52.171017"
 }
