@@ -18479,7 +18479,42 @@
       "transliteration": "Po-ve-zhi se z zvo-kom, na-to spo-me-nom.",
       "category": "Strength",
       "generated_at": "2026-10-21T20:51:49.922421"
+    },
+    {
+      "english": "Just a little, hello.",
+      "slovenian": "Samo malo, pozdrav.",
+      "transliteration": "Samo malo, pozdrav.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-21T23:34:36.097551"
+    },
+    {
+      "english": "This way, perhaps?",
+      "slovenian": "Ta pot, morda?",
+      "transliteration": "Ta pot, morda?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-21T23:34:36.097567"
+    },
+    {
+      "english": "A bit slower, please.",
+      "slovenian": "Malo počasneje, prosim.",
+      "transliteration": "Malo počasneje, prosim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-21T23:34:36.097569"
+    },
+    {
+      "english": "Here is your, coffee.",
+      "slovenian": "Tukaj vaša, kava.",
+      "transliteration": "Tukaj vaša, kava.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-21T23:34:36.097570"
+    },
+    {
+      "english": "Is this, occupied?",
+      "slovenian": "Je to, zasedeno?",
+      "transliteration": "Je to, zasedeno?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-21T23:34:36.097571"
     }
   ],
-  "last_updated": "2026-10-21T20:51:49.922422"
+  "last_updated": "2026-10-21T23:34:36.097572"
 }
