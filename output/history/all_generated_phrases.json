@@ -18339,7 +18339,42 @@
       "transliteration": "Zla-ta svet-lo-ba, po-slee-ka hree-beh.",
       "category": "Weather",
       "generated_at": "2026-10-20T23:20:41.159470"
+    },
+    {
+      "english": "Zero, starting point, fresh.",
+      "slovenian": "Nič, začetna točka, sveže.",
+      "transliteration": "Neech, za-CHEE-tna TOCH-ka, SVEH-zheh.",
+      "category": "Numbers",
+      "generated_at": "2026-10-21T05:12:19.523181"
+    },
+    {
+      "english": "One, guiding light, shines.",
+      "slovenian": "Ena, vodilna luč, sije.",
+      "transliteration": "EH-na, vo-DEEL-na LOOCH, SEE-yeh.",
+      "category": "Numbers",
+      "generated_at": "2026-10-21T05:12:19.523193"
+    },
+    {
+      "english": "Two, echoing laughter, happy.",
+      "slovenian": "Dve, odmevajoč smeh, veselo.",
+      "transliteration": "DVEH, od-MEH-va-yoo-ch SMEH, veh-SEH-lo.",
+      "category": "Numbers",
+      "generated_at": "2026-10-21T05:12:19.523195"
+    },
+    {
+      "english": "Three, turning pages, story.",
+      "slovenian": "Tri, obračajoče strani, zgodba.",
+      "transliteration": "TREE, o-BRA-cha-yo-cheh STRAH-nee, ZGO-dba.",
+      "category": "Numbers",
+      "generated_at": "2026-10-21T05:12:19.523196"
+    },
+    {
+      "english": "Four, steady rhythm, beating.",
+      "slovenian": "Štiri, enakomeren ritem, utripa.",
+      "transliteration": "SH-tee-ree, EH-na-ko-meh-ren REE-tem, OO-tree-pa.",
+      "category": "Numbers",
+      "generated_at": "2026-10-21T05:12:19.523198"
     }
   ],
-  "last_updated": "2026-10-20T23:20:41.159472"
+  "last_updated": "2026-10-21T05:12:19.523199"
 }
