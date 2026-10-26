@@ -19144,7 +19144,42 @@
       "transliteration": "Raztegni se lahkotno, zbudi čute.",
       "category": "Health",
       "generated_at": "2026-10-26T05:11:36.557160"
+    },
+    {
+      "english": "Hello there, new friend.",
+      "slovenian": "Živjo, novi prijatelj.",
+      "transliteration": "Zhee-vyo, no-vee freend-yeel.",
+      "category": "Greetings",
+      "generated_at": "2026-10-26T18:50:59.460440"
+    },
+    {
+      "english": "A warm hello, to you.",
+      "slovenian": "Lep pozdrav, tebi.",
+      "transliteration": "Lep po-zdraav, te-bee.",
+      "category": "Greetings",
+      "generated_at": "2026-10-26T18:50:59.460453"
+    },
+    {
+      "english": "Come in, make yourself comfortable.",
+      "slovenian": "Vstopi, počuti se domače.",
+      "transliteration": "Vsto-pee, po-choo-tee se do-ma-che.",
+      "category": "Greetings",
+      "generated_at": "2026-10-26T18:50:59.460455"
+    },
+    {
+      "english": "Good to see you, truly.",
+      "slovenian": "Dobro te videti, res.",
+      "transliteration": "Do-bro te vee-de-tee, res.",
+      "category": "Greetings",
+      "generated_at": "2026-10-26T18:50:59.460456"
+    },
+    {
+      "english": "A bright morning, perhaps?",
+      "slovenian": "Lepo jutro, kajne?",
+      "transliteration": "Leh-po yoo-tro, kai-neh?",
+      "category": "Greetings",
+      "generated_at": "2026-10-26T18:50:59.460457"
     }
   ],
-  "last_updated": "2026-10-26T05:11:36.557162"
+  "last_updated": "2026-10-26T18:50:59.460459"
 }
