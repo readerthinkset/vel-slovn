@@ -19319,7 +19319,42 @@
       "transliteration": "Z-gra-di mos-to-ve, z no-vi-mi be-se-da-mi.",
       "category": "Growth",
       "generated_at": "2026-10-27T05:28:59.413285"
+    },
+    {
+      "english": "My medicine, is missing, quickly.",
+      "slovenian": "Moja, zdravila, manjkajo, hitro.",
+      "transliteration": "Moy-ah, zdrah-vee-lah, mahn-kah-yoh, hee-troh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T19:34:29.648182"
+    },
+    {
+      "english": "I can't, find my key, now.",
+      "slovenian": "Ne najdem, ključa, zdaj.",
+      "transliteration": "Ne nai-dem, kloo-cha, zdai.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T19:34:29.648195"
+    },
+    {
+      "english": "Someone's, lost their way, help.",
+      "slovenian": "Nekdo, se je izgubil, pomoč.",
+      "transliteration": "Nek-doh, se yeh ig-zoo-beel, poh-moch.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T19:34:29.648197"
+    },
+    {
+      "english": "The path, has disappeared, here.",
+      "slovenian": "Pot, je izginila, tukaj.",
+      "transliteration": "Pot, yeh ig-zee-nee-lah, too-kai.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T19:34:29.648198"
+    },
+    {
+      "english": "My vision, is blurry, suddenly.",
+      "slovenian": "Moj vid, je meglen, nenadoma.",
+      "transliteration": "Moy veed, yeh meg-len, neh-nah-doh-mah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T19:34:29.648200"
     }
   ],
-  "last_updated": "2026-10-27T05:28:59.413287"
+  "last_updated": "2026-10-27T19:34:29.648202"
 }
