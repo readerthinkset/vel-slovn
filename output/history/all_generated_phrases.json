@@ -19599,7 +19599,42 @@
       "transliteration": "Ta zvok, nash-lee ste ga.",
       "category": "Success",
       "generated_at": "2026-10-29T00:18:42.409169"
+    },
+    {
+      "english": "Sunrise, paints the sky.",
+      "slovenian": "Sončni vzhod, poslika nebo.",
+      "transliteration": "SON-chni VZH-od, pos-LEE-ka NE-bo.",
+      "category": "Time",
+      "generated_at": "2026-10-29T06:18:49.877311"
+    },
+    {
+      "english": "Minutes, melt away.",
+      "slovenian": "Minute, se stopijo.",
+      "transliteration": "mi-NOO-te, se sto-PEE-yo.",
+      "category": "Time",
+      "generated_at": "2026-10-29T06:18:49.877323"
+    },
+    {
+      "english": "A fleeting glance, then gone.",
+      "slovenian": "Kratek pogled, potem izgine.",
+      "transliteration": "KRA-tek PO-gled, PO-tem iz-GEE-ne.",
+      "category": "Time",
+      "generated_at": "2026-10-29T06:18:49.877325"
+    },
+    {
+      "english": "The clock, keeps ticking.",
+      "slovenian": "Ura, še naprej teče.",
+      "transliteration": "OO-ra, SHE na-PREY TE-che.",
+      "category": "Time",
+      "generated_at": "2026-10-29T06:18:49.877326"
+    },
+    {
+      "english": "Seasons, gently turn.",
+      "slovenian": "Letni časi, se nežno obrnejo.",
+      "transliteration": "LET-nee TSA-see, se NEZH-no ob-RNE-yo.",
+      "category": "Time",
+      "generated_at": "2026-10-29T06:18:49.877328"
     }
   ],
-  "last_updated": "2026-10-29T00:18:42.409171"
+  "last_updated": "2026-10-29T06:18:49.877330"
 }
