@@ -19634,7 +19634,42 @@
       "transliteration": "LET-nee TSA-see, se NEZH-no ob-RNE-yo.",
       "category": "Time",
       "generated_at": "2026-10-29T06:18:49.877328"
+    },
+    {
+      "english": "Sun-kissed tomato, garden fresh.",
+      "slovenian": "Sončno paradižnik, vrt svež.",
+      "transliteration": "Son-cho pah-rah-dee-zhneek, vahrt svesh.",
+      "category": "Food",
+      "generated_at": "2026-10-29T18:38:43.586711"
+    },
+    {
+      "english": "Creamy yogurt, morning start.",
+      "slovenian": "Kremni jogurt, jutro začetek.",
+      "transliteration": "Krem-nee yo-goort, yoo-troh zah-chet-ek.",
+      "category": "Food",
+      "generated_at": "2026-10-29T18:38:43.586723"
+    },
+    {
+      "english": "Toasted bread, spread thinly.",
+      "slovenian": "Pražen kruh, tanko namazano.",
+      "transliteration": "Prah-zhen krooh, tahn-koh nah-mah-zah-noh.",
+      "category": "Food",
+      "generated_at": "2026-10-29T18:38:43.586724"
+    },
+    {
+      "english": "Velvet soup, rich aroma.",
+      "slovenian": "Žametna juha, bogata dišava.",
+      "transliteration": "Zhah-met-nah yoo-hah, boh-gah-tah dee-shah-vah.",
+      "category": "Food",
+      "generated_at": "2026-10-29T18:38:43.586726"
+    },
+    {
+      "english": "Crispy wafer, sweet filling.",
+      "slovenian": "Hrustljava vaflja, sladko polnilo.",
+      "transliteration": "Hroos-tlyah-vah vaf-lyah, slahd-koh poln-ee-loh.",
+      "category": "Food",
+      "generated_at": "2026-10-29T18:38:43.586727"
     }
   ],
-  "last_updated": "2026-10-29T06:18:49.877330"
+  "last_updated": "2026-10-29T18:38:43.586728"
 }
