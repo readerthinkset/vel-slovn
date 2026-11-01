@@ -20089,7 +20089,42 @@
       "transliteration": "Od-haj-aj ta, slad-ko ti-ši-no.",
       "category": "Common Expressions",
       "generated_at": "2026-10-31T23:38:56.296467"
+    },
+    {
+      "english": "Sun warms stones, gently.",
+      "slovenian": "Sonce greje kamenčke, nežno.",
+      "transliteration": "Sonce gre-eh-yeh kah-men-chkeh, nehzh-no.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:42:02.034285"
+    },
+    {
+      "english": "Sky's a whisper, blue.",
+      "slovenian": "Nebo tiho šepeta, modro.",
+      "transliteration": "Neh-bo tee-ho sheh-peh-tah, mod-ro.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:42:02.034298"
+    },
+    {
+      "english": "Wind plays chase, through trees.",
+      "slovenian": "Veter se igra skrivalnice, med drevesi.",
+      "transliteration": "Veh-ter seh ee-grah skree-vah-lnee-tseh, med dreh-veh-see.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:42:02.034300"
+    },
+    {
+      "english": "Rain's a soft drum, beat.",
+      "slovenian": "Dež je mehka boben, ritma.",
+      "transliteration": "Dezh yeh meh-khah boh-ben, reet-mah.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:42:02.034302"
+    },
+    {
+      "english": "Fog lifts slow, revealing.",
+      "slovenian": "Megla se dviga počasi, razkriva.",
+      "transliteration": "Mehg-lah seh dvee-gah poh-chah-see, raz-kree-vah.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:42:02.034304"
     }
   ],
-  "last_updated": "2026-10-31T23:38:56.296469"
+  "last_updated": "2026-11-01T06:42:02.034305"
 }
