@@ -20299,7 +20299,42 @@
       "transliteration": "Hi-dra-tsi-ya ye klyuch, pij.",
       "category": "Health",
       "generated_at": "2026-11-02T06:41:10.462474"
+    },
+    {
+      "english": "Imagine, the feeling, of these words.",
+      "slovenian": "Predstavljaj, si občutek, teh besed.",
+      "transliteration": "Predstavljaj si občutek, teh besed.",
+      "category": "Directions",
+      "generated_at": "2026-11-02T21:54:02.157937"
+    },
+    {
+      "english": "Let the sounds, dance on your tongue.",
+      "slovenian": "Naj se zvoki, igrajo na tvojem jeziku.",
+      "transliteration": "Naj se zvoki, igrajo na tvojem jeziku.",
+      "category": "Directions",
+      "generated_at": "2026-11-02T21:54:02.157950"
+    },
+    {
+      "english": "Whisper this, very gently.",
+      "slovenian": "Šepni to, zelo nežno.",
+      "transliteration": "Šepni to, zelo nežno.",
+      "category": "Directions",
+      "generated_at": "2026-11-02T21:54:02.157952"
+    },
+    {
+      "english": "Hear the story, in the sentence.",
+      "slovenian": "Slišimo zgodbo, v stavku.",
+      "transliteration": "Slišimo zgodbo, v stavku.",
+      "category": "Directions",
+      "generated_at": "2026-11-02T21:54:02.157953"
+    },
+    {
+      "english": "Taste the flavour, of Slovenia.",
+      "slovenian": "Okusi okus, Slovenije.",
+      "transliteration": "Okusi okus, Slovenije.",
+      "category": "Directions",
+      "generated_at": "2026-11-02T21:54:02.157955"
     }
   ],
-  "last_updated": "2026-11-02T06:41:10.462476"
+  "last_updated": "2026-11-02T21:54:02.157956"
 }
