@@ -20474,7 +20474,42 @@
       "transliteration": "Moje prsi so tesne, prosim pomagajte.",
       "category": "Emergency",
       "generated_at": "2026-11-03T07:10:12.103104"
+    },
+    {
+      "english": "I was wrong, I hear you, truly.",
+      "slovenian": "Bil sem v zmoti, slišim te, res.",
+      "transliteration": "Bil sem v zmoti, slišim te, res.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-03T19:45:20.733448"
+    },
+    {
+      "english": "I hear your pain, I take responsibility.",
+      "slovenian": "Slišim tvojo bolečino, prevzamem odgovornost.",
+      "transliteration": "Slišim tvojo bolečino, prevzamem odgovornost.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-03T19:45:20.733462"
+    },
+    {
+      "english": "My actions hurt you, I'm sorry.",
+      "slovenian": "Moja dejanja so te ranila, žal mi je.",
+      "transliteration": "Moja dejanja so te ranila, žal mi je.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-03T19:45:20.733463"
+    },
+    {
+      "english": "I won’t repeat it, I promise you.",
+      "slovenian": "Ne bom ponovil, obljubim ti.",
+      "transliteration": "Ne bom ponovil, obljubim ti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-03T19:45:20.733465"
+    },
+    {
+      "english": "I respect your feelings, please forgive me.",
+      "slovenian": "Spoštujem tvoje občutke, prosim, odpusti mi.",
+      "transliteration": "Spoštujem tvoje občutke, prosim, odpusti mi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-03T19:45:20.733466"
     }
   ],
-  "last_updated": "2026-11-03T07:10:12.103105"
+  "last_updated": "2026-11-03T19:45:20.733467"
 }
