@@ -20439,7 +20439,42 @@
       "transliteration": "Ob-chu-ti ri-tem, iz-go-vo-ri ga.",
       "category": "Education",
       "generated_at": "2026-11-03T02:35:59.945085"
+    },
+    {
+      "english": "Stop the car, please, now.",
+      "slovenian": "Ustavite avto, prosim, zdaj.",
+      "transliteration": "Ustavite avto, prosim, zdaj.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T07:10:12.103090"
+    },
+    {
+      "english": "Call the emergency number, quickly, please.",
+      "slovenian": "Pokličite nujno številko, hitro, prosim.",
+      "transliteration": "Pokličite nujno številko, hitro, prosim.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T07:10:12.103099"
+    },
+    {
+      "english": "I think I swallowed something, help.",
+      "slovenian": "Mislim, da sem nekaj pogoltnil, pomagajte.",
+      "transliteration": "Mislim, da sem nekaj pogoltnil, pomagajte.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T07:10:12.103101"
+    },
+    {
+      "english": "I can't breathe well, please stay.",
+      "slovenian": "Ne morem dobro dihati, prosim ostanite.",
+      "transliteration": "Ne morem dobro dihati, prosim ostanite.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T07:10:12.103102"
+    },
+    {
+      "english": "My chest feels tight, please help.",
+      "slovenian": "Moje prsi so tesne, prosim pomagajte.",
+      "transliteration": "Moje prsi so tesne, prosim pomagajte.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T07:10:12.103104"
     }
   ],
-  "last_updated": "2026-11-03T02:35:59.945086"
+  "last_updated": "2026-11-03T07:10:12.103105"
 }
