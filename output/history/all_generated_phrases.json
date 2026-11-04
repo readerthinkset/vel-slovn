@@ -20614,7 +20614,42 @@
       "transliteration": "Imate to v manjšem številu?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-04T00:50:08.807342"
+    },
+    {
+      "english": "Hi, glad you stopped by, say hello.",
+      "slovenian": "Živjo, razveseli me, da si prišel.",
+      "transliteration": "Zivjo, razveseli me, da si prisel.",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T06:55:19.627393"
+    },
+    {
+      "english": "Good morning, let's make it easy today.",
+      "slovenian": "Dobro jutro, naj bo danes preprosto.",
+      "transliteration": "Dobro jutro, naj bo danes preprosto.",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T06:55:19.627410"
+    },
+    {
+      "english": "Hey there, welcome in, take a breath.",
+      "slovenian": "Hej, dobrodošel, vzemi si trenutek.",
+      "transliteration": "Hej, dobrodosel, vzemi si trenutek.",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T06:55:19.627412"
+    },
+    {
+      "english": "Hello, your presence is appreciated, truly.",
+      "slovenian": "Pozdravljen, tvoja prisotnost je dobrodošla.",
+      "transliteration": "Pozdravljen, tvoja prisotnost je dobrodosla.",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T06:55:19.627413"
+    },
+    {
+      "english": "Hi, how are you holding up, today?",
+      "slovenian": "Živjo, kako si, kako ti gre danes?",
+      "transliteration": "Zivjo, kako si, kako ti gre danes?",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T06:55:19.627414"
     }
   ],
-  "last_updated": "2026-11-04T00:50:08.807344"
+  "last_updated": "2026-11-04T06:55:19.627416"
 }
