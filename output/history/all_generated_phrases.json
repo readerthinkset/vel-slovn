@@ -20579,7 +20579,42 @@
       "transliteration": "Praznuj prijazno, poslušaj pozorno, smej se pogosto",
       "category": "Holidays",
       "generated_at": "2026-11-03T22:31:02.296823"
+    },
+    {
+      "english": "Hello, I'm new here, please help me.",
+      "slovenian": "Pozdrav, nov sem tukaj, prosim, pomagajte mi.",
+      "transliteration": "Pozdrav, nov sem tukaj, prosim, pomagajte mi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-04T00:50:08.807327"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "slovenian": "Kje je avtobusna postaja, prosim?",
+      "transliteration": "Kje je avtobusna postaja, prosim?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-04T00:50:08.807339"
+    },
+    {
+      "english": "I would like a ticket, please.",
+      "slovenian": "Rad bi vozovnico, prosim.",
+      "transliteration": "Rad bi vozovnico, prosim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-04T00:50:08.807340"
+    },
+    {
+      "english": "How much is it, in euros?",
+      "slovenian": "Koliko stane, v evrih?",
+      "transliteration": "Koliko stane, v evrih?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-04T00:50:08.807341"
+    },
+    {
+      "english": "Do you have this in smaller size?",
+      "slovenian": "Imate to v manjšem številu?",
+      "transliteration": "Imate to v manjšem številu?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-04T00:50:08.807342"
     }
   ],
-  "last_updated": "2026-11-03T22:31:02.296825"
+  "last_updated": "2026-11-04T00:50:08.807344"
 }
