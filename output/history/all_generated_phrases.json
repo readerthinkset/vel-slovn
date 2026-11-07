@@ -21209,7 +21209,42 @@
       "transliteration": "Pocakaj na jasnost, ne na popolnost.",
       "category": "Patience",
       "generated_at": "2026-11-07T17:51:00.933137"
+    },
+    {
+      "english": "Open your mouth, gently, then relax.",
+      "slovenian": "Odpri usta, nežno, potem se sprosti.",
+      "transliteration": "Odpri usta, nezno, potem se sprosti.",
+      "category": "Directions",
+      "generated_at": "2026-11-07T19:00:09.913395"
+    },
+    {
+      "english": "Start slow, keep the rhythm steady.",
+      "slovenian": "Začni počasi, obdrži enakomeren ritem.",
+      "transliteration": "Začni pocas i, obdrži enakomeren ritem.",
+      "category": "Directions",
+      "generated_at": "2026-11-07T19:00:09.913404"
+    },
+    {
+      "english": "Say it once, then repeat with care.",
+      "slovenian": "Izgovori enkrat, nato ponovi previdno.",
+      "transliteration": "Izgovori enkrat, nato ponovi previdno.",
+      "category": "Directions",
+      "generated_at": "2026-11-07T19:00:09.913406"
+    },
+    {
+      "english": "Pause after the first word, listen.",
+      "slovenian": "Pavza po prvni besedi, poslušaj.",
+      "transliteration": "Pavza po prvi besedi, poslušaj.",
+      "category": "Directions",
+      "generated_at": "2026-11-07T19:00:09.913409"
+    },
+    {
+      "english": "Lift the ending, make it clear.",
+      "slovenian": "Dviguj končnico, naredi jo jasno.",
+      "transliteration": "Dviguj končnico, naredi jo jasno.",
+      "category": "Directions",
+      "generated_at": "2026-11-07T19:00:09.913410"
     }
   ],
-  "last_updated": "2026-11-07T17:51:00.933139"
+  "last_updated": "2026-11-07T19:00:09.913412"
 }
