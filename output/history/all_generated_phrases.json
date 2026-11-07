@@ -21244,7 +21244,42 @@
       "transliteration": "Dviguj končnico, naredi jo jasno.",
       "category": "Directions",
       "generated_at": "2026-11-07T19:00:09.913410"
+    },
+    {
+      "english": "Dawn arrives softly, birds start singing",
+      "slovenian": "Jutro pride tiho, ptice začnejo peti",
+      "transliteration": "jutro pride tiho, ptice zace\"nejo peti",
+      "category": "Weather",
+      "generated_at": "2026-11-07T21:04:40.088854"
+    },
+    {
+      "english": "Morning dew sparkles, grass looks jeweled",
+      "slovenian": "Jutranja rosa se blešči, trava sveti",
+      "transliteration": "jutranja rosa se blesci, trava sveti",
+      "category": "Weather",
+      "generated_at": "2026-11-07T21:04:40.088869"
+    },
+    {
+      "english": "The sun climbs higher, shadows shorten fast",
+      "slovenian": "Sonce raste, sence se hitro krajšajo",
+      "transliteration": "sonce raste, sence se hitro krajsajo",
+      "category": "Weather",
+      "generated_at": "2026-11-07T21:04:40.088871"
+    },
+    {
+      "english": "Warm clouds drift by, no rain yet",
+      "slovenian": "Mehki oblaki drsijo mimo, dežja še ni",
+      "transliteration": "mehki oblaki drsijo mimo, dezja se ni",
+      "category": "Weather",
+      "generated_at": "2026-11-07T21:04:40.088872"
+    },
+    {
+      "english": "A cool breeze arrives, sleeves feel lighter",
+      "slovenian": "Hladen vetrič zapihlja, rokavi so lažji",
+      "transliteration": "hladen vetr“ic zapihlja, rokavi so lazji",
+      "category": "Weather",
+      "generated_at": "2026-11-07T21:04:40.088873"
     }
   ],
-  "last_updated": "2026-11-07T19:00:09.913412"
+  "last_updated": "2026-11-07T21:04:40.088875"
 }
