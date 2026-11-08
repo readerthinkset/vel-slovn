@@ -21454,7 +21454,42 @@
       "transliteration": "Dedek, piščal je na vrtu, vsako jutro",
       "category": "Family Terms",
       "generated_at": "2026-11-08T21:20:59.149862"
+    },
+    {
+      "english": "Stop right now, it's unsafe ahead.",
+      "slovenian": "Ustavite zdaj, pred vami je nevarno.",
+      "transliteration": "Ustavite zdaj, pred vami je nevarno.",
+      "category": "Emergency",
+      "generated_at": "2026-11-08T23:58:03.475058"
+    },
+    {
+      "english": "Call for help, there is a fire.",
+      "slovenian": "Pokličite pomoč, gori.",
+      "transliteration": "Poklicite pomoč, gori.",
+      "category": "Emergency",
+      "generated_at": "2026-11-08T23:58:03.475070"
+    },
+    {
+      "english": "I can't move, my back hurts badly.",
+      "slovenian": "Ne morem se premakniti, hrbet me boli.",
+      "transliteration": "Ne morem se premakniti, hrbet me boli.",
+      "category": "Emergency",
+      "generated_at": "2026-11-08T23:58:03.475071"
+    },
+    {
+      "english": "Please help me sit down, I'm shaking.",
+      "slovenian": "Prosim, pomagajte mi sedeti, tresem se.",
+      "transliteration": "Prosim, pomagajte mi sedeti, tresem se.",
+      "category": "Emergency",
+      "generated_at": "2026-11-08T23:58:03.475072"
+    },
+    {
+      "english": "Someone fell, is anyone there?",
+      "slovenian": "Nekdo je padel, je kdo tukaj?",
+      "transliteration": "Nekdo je padel, je kdo tukaj?",
+      "category": "Emergency",
+      "generated_at": "2026-11-08T23:58:03.475073"
     }
   ],
-  "last_updated": "2026-11-08T21:20:59.149864"
+  "last_updated": "2026-11-08T23:58:03.475074"
 }
