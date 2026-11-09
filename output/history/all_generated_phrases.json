@@ -21489,7 +21489,42 @@
       "transliteration": "Nekdo je padel, je kdo tukaj?",
       "category": "Emergency",
       "generated_at": "2026-11-08T23:58:03.475073"
+    },
+    {
+      "english": "How spicy is it, really?",
+      "slovenian": "Kako pekoce je, res?",
+      "transliteration": "Kako pekoce je, res?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-09T07:04:30.192610"
+    },
+    {
+      "english": "What ingredients, does this sauce include?",
+      "slovenian": "Katere sestavine, ima ta omaka?",
+      "transliteration": "Katere sestavine, ima ta omaka?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-09T07:04:30.192623"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "slovenian": "Lahko dobim jedilnik, prosim?",
+      "transliteration": "Lahko dobim jedilnik, prosim?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-09T07:04:30.192625"
+    },
+    {
+      "english": "Do you have gluten-free options, today?",
+      "slovenian": "Imate danes brezglutenske moznosti?",
+      "transliteration": "Imate danes brezglutenske moznosti?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-09T07:04:30.192626"
+    },
+    {
+      "english": "Is this dish, served hot or lukewarm?",
+      "slovenian": "Ali je jed postrezena, topla ali mlačna?",
+      "transliteration": "Ali je jed postrezena, topla ali mlačna?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-09T07:04:30.192627"
     }
   ],
-  "last_updated": "2026-11-08T23:58:03.475074"
+  "last_updated": "2026-11-09T07:04:30.192629"
 }
