@@ -21734,7 +21734,42 @@
       "transliteration": "zjutraj sem pojedel pet jagod",
       "category": "Numbers",
       "generated_at": "2026-11-10T08:28:26.066479"
+    },
+    {
+      "english": "Hi there, how’s your day going?",
+      "slovenian": "Živjo, kako ti gre danes?",
+      "transliteration": "Živjo, kako ti gre danes?",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:10:08.531276"
+    },
+    {
+      "english": "Hello, I’m happy to see you.",
+      "slovenian": "Pozdravljeni, res sem vesel",
+      "transliteration": "Pozdravljeni, res sem vesel[a], da ste tu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:10:08.531288"
+    },
+    {
+      "english": "Good to have you here today.",
+      "slovenian": "Dobro je, da si danes tukaj.",
+      "transliteration": "Dobro je, da si danes tukaj.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:10:08.531290"
+    },
+    {
+      "english": "Hey, how are things with you?",
+      "slovenian": "Hej, kako je pri tebi?",
+      "transliteration": "Hej, kako je pri tebi?",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:10:08.531292"
+    },
+    {
+      "english": "Welcome back, it’s good to see you.",
+      "slovenian": "Dobrodošel nazaj, lepo te je videti.",
+      "transliteration": "Dobrodošel nazaj, lepo te je videti.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:10:08.531293"
     }
   ],
-  "last_updated": "2026-11-10T08:28:26.066481"
+  "last_updated": "2026-11-10T19:10:08.531295"
 }
