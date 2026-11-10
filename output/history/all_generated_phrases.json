@@ -21699,7 +21699,42 @@
       "transliteration": "Najprej hrust, potem okušaj, vsak grižljaj",
       "category": "Food",
       "generated_at": "2026-11-10T07:50:45.275268"
+    },
+    {
+      "english": "I have one new book today.",
+      "slovenian": "Danes imam eno novo knjigo.",
+      "transliteration": "danes imam eno novo knjigo",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T08:28:26.066457"
+    },
+    {
+      "english": "Give me two apples, please.",
+      "slovenian": "Prosim, daj mi dve jabolki.",
+      "transliteration": "prosim, daj mi dve jabolki",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T08:28:26.066475"
+    },
+    {
+      "english": "We need three more chairs.",
+      "slovenian": "Potrebujemo še tri stole.",
+      "transliteration": "potrebujemo še tri stole",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T08:28:26.066477"
+    },
+    {
+      "english": "Bring four bottles of water.",
+      "slovenian": "Prinesi štiri steklenice vode.",
+      "transliteration": "prinesi štiri steklenice vode",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T08:28:26.066478"
+    },
+    {
+      "english": "I ate five strawberries this morning.",
+      "slovenian": "Zjutraj sem pojedel pet jagod.",
+      "transliteration": "zjutraj sem pojedel pet jagod",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T08:28:26.066479"
     }
   ],
-  "last_updated": "2026-11-10T07:50:45.275270"
+  "last_updated": "2026-11-10T08:28:26.066481"
 }
