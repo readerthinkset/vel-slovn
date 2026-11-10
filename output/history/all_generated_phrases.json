@@ -21769,7 +21769,42 @@
       "transliteration": "Dobrodošel nazaj, lepo te je videti.",
       "category": "Greetings",
       "generated_at": "2026-11-10T19:10:08.531293"
+    },
+    {
+      "english": "I save first, then I relax.",
+      "slovenian": "Najprej prihranim, potem se sprostim.",
+      "transliteration": "nai-prej pri-hrá-nim, potem se spro-stim",
+      "category": "Finance",
+      "generated_at": "2026-11-10T20:41:55.050379"
+    },
+    {
+      "english": "Check fees, before you sign anything.",
+      "slovenian": "Preveri stroške, preden karkoli podpišeš.",
+      "transliteration": "pre-ve-ri stro-ške, pre-den kar ko-li pod-pi-sheš",
+      "category": "Finance",
+      "generated_at": "2026-11-10T20:41:55.050391"
+    },
+    {
+      "english": "I set a monthly limit for myself.",
+      "slovenian": "Postavim si mesečni limit.",
+      "transliteration": "po-sta-vim si me-seč-ni li-mit",
+      "category": "Finance",
+      "generated_at": "2026-11-10T20:41:55.050393"
+    },
+    {
+      "english": "Cash flow matters more than profits.",
+      "slovenian": "Denarni tok je pomembnejši od dobička.",
+      "transliteration": "de-na-rni tok je po-mem-bnej-shi od dob-ič-ka",
+      "category": "Finance",
+      "generated_at": "2026-11-10T20:41:55.050394"
+    },
+    {
+      "english": "I keep an emergency fund close.",
+      "slovenian": "Imam rezervni sklad vedno pri roki.",
+      "transliteration": "i-ma-m re-zev-ni sklá-d vedno pri ro-ki",
+      "category": "Finance",
+      "generated_at": "2026-11-10T20:41:55.050396"
     }
   ],
-  "last_updated": "2026-11-10T19:10:08.531295"
+  "last_updated": "2026-11-10T20:41:55.050398"
 }
