@@ -21804,7 +21804,42 @@
       "transliteration": "i-ma-m re-zev-ni sklá-d vedno pri ro-ki",
       "category": "Finance",
       "generated_at": "2026-11-10T20:41:55.050396"
+    },
+    {
+      "english": "Thank you, I really appreciate it.",
+      "slovenian": "Hvala, res cenim to.",
+      "transliteration": "Hvala, res cenim to.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T22:15:03.273311"
+    },
+    {
+      "english": "I’m grateful for your help today.",
+      "slovenian": "Hvaležen sem za tvojo pomoč danes.",
+      "transliteration": "Hvaležen sem za tvojo pomoč danes.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T22:15:03.273332"
+    },
+    {
+      "english": "Your support means more than you know.",
+      "slovenian": "Tvoja podpora pomeni več, kot veš.",
+      "transliteration": "Tvoja podpora pomeni več, kot veš.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T22:15:03.273335"
+    },
+    {
+      "english": "Thank you for being there for me.",
+      "slovenian": "Hvala, ker si zame.",
+      "transliteration": "Hvala, ker si zame.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T22:15:03.273337"
+    },
+    {
+      "english": "I feel thankful for your kindness.",
+      "slovenian": "Hvaležen",
+      "transliteration": "Hvaležen sem za tvojo prijaznost.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T22:15:03.273339"
     }
   ],
-  "last_updated": "2026-11-10T20:41:55.050398"
+  "last_updated": "2026-11-10T22:15:03.273341"
 }
