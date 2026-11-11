@@ -21839,7 +21839,42 @@
       "transliteration": "Hvaležen sem za tvojo prijaznost.",
       "category": "Gratitude",
       "generated_at": "2026-11-10T22:15:03.273339"
+    },
+    {
+      "english": "That melody feels familiar, doesn’t it?",
+      "slovenian": "Ta melodija se zdi znana, kajne?",
+      "transliteration": "ta me-lo-di-ja se zdi zho-na-na, kaj-ne",
+      "category": "Music",
+      "generated_at": "2026-11-11T00:26:57.199998"
+    },
+    {
+      "english": "I love how the choir blends together.",
+      "slovenian": "Všeč mi je, kako se zbor zlije.",
+      "transliteration": "všeč mi je, ka-ko se zbor zli-e",
+      "category": "Music",
+      "generated_at": "2026-11-11T00:26:57.200010"
+    },
+    {
+      "english": "Play it softer, just for now.",
+      "slovenian": "Zaigraj tiše, samo za zdaj.",
+      "transliteration": "zai-graj ti-she, sa-mo za zdaj",
+      "category": "Music",
+      "generated_at": "2026-11-11T00:26:57.200012"
+    },
+    {
+      "english": "Turn up the volume, please.",
+      "slovenian": "Prosim, pojačaj glasnost.",
+      "transliteration": "pro-sim, po-ya-chai glas-nost",
+      "category": "Music",
+      "generated_at": "2026-11-11T00:26:57.200014"
+    },
+    {
+      "english": "The song makes me want to dance.",
+      "slovenian": "Ta pesem me spravi plesat.",
+      "transliteration": "ta pe-sem me sprá-vi ples-at",
+      "category": "Music",
+      "generated_at": "2026-11-11T00:26:57.200016"
     }
   ],
-  "last_updated": "2026-11-10T22:15:03.273341"
+  "last_updated": "2026-11-11T00:26:57.200018"
 }
