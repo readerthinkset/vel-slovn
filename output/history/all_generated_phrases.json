@@ -22084,7 +22084,42 @@
       "transliteration": "po neh-vee-tee dee-shee MOK-rah zem-lya",
       "category": "Nature",
       "generated_at": "2026-11-12T04:47:59.131034"
+    },
+    {
+      "english": "Talk confidently, in everyday Slovenian.",
+      "slovenian": "Govorite samozavestno, v vsakdanji slovenščini.",
+      "transliteration": "govorite samozaVESTno, v vsAKdanji sloveNŠČIni",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T19:24:31.370100"
+    },
+    {
+      "english": "Practice short phrases, and relax.",
+      "slovenian": "Vadite kratke stavke, in se sprostite.",
+      "transliteration": "vaDIte kratKE stavke, in se sproSTITE",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T19:24:31.370114"
+    },
+    {
+      "english": "Order food easily, without worry.",
+      "slovenian": "Naročite hrano zlahka, brez skrbi.",
+      "transliteration": "naROČite hraNO zLAhka, brez skrBI",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T19:24:31.370117"
+    },
+    {
+      "english": "Chat with locals, whenever you can.",
+      "slovenian": "Poklepetajte z domačini, kadar le morete.",
+      "transliteration": "poKLEpetajte z doMAČiNI, kaDAR le MOReTE",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T19:24:31.370119"
+    },
+    {
+      "english": "Ask simple questions, then keep smiling.",
+      "slovenian": "Postavljajte preprosta vprašanja, potem se nasmehnite.",
+      "transliteration": "postaVLJAjte prePROSta VPraŠANja, poTEM se naSMEhnite",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T19:24:31.370120"
     }
   ],
-  "last_updated": "2026-11-12T04:47:59.131036"
+  "last_updated": "2026-11-12T19:24:31.370122"
 }
