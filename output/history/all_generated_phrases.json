@@ -22329,7 +22329,42 @@
       "transliteration": "Dobiva se danes opoldne.",
       "category": "Time",
       "generated_at": "2026-11-13T20:45:13.162121"
+    },
+    {
+      "english": "You’ve got this, keep going.",
+      "slovenian": "Zmoreš, kar naprej.",
+      "transliteration": "zmoresh, kar naprej",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T22:27:51.939372"
+    },
+    {
+      "english": "Try it again, with a smile.",
+      "slovenian": "Poskusi znova, z nasmehom.",
+      "transliteration": "poskusi znova, z nasmehom",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T22:27:51.939384"
+    },
+    {
+      "english": "Even slowly, you’re making progress.",
+      "slovenian": "Tudi počasi, napreduješ.",
+      "transliteration": "tudi posasi, napreduješ",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T22:27:51.939386"
+    },
+    {
+      "english": "Stay with the sentence, don’t rush.",
+      "slovenian": "Ostani pri stavku, ne hiti.",
+      "transliteration": "ostani pri stavku, ne hiti",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T22:27:51.939388"
+    },
+    {
+      "english": "Say it once, then correct yourself.",
+      "slovenian": "Reci enkrat, potem se popravi.",
+      "transliteration": "reci enkrat, potem se popravi",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T22:27:51.939389"
     }
   ],
-  "last_updated": "2026-11-13T20:45:13.162122"
+  "last_updated": "2026-11-13T22:27:51.939391"
 }
