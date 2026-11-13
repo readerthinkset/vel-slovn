@@ -22294,7 +22294,42 @@
       "transliteration": "Ali od tu vozi tramvaj?",
       "category": "Travel",
       "generated_at": "2026-11-13T19:01:53.462241"
+    },
+    {
+      "english": "Right now, let's talk.",
+      "slovenian": "Zdaj, pogovoriva se.",
+      "transliteration": "Zdaj, pogovarjiva se.",
+      "category": "Time",
+      "generated_at": "2026-11-13T20:45:13.162104"
+    },
+    {
+      "english": "Hang on, I'll be there.",
+      "slovenian": "Počakaj, pridem takoj.",
+      "transliteration": "Pokačaj, pridem takoj.",
+      "category": "Time",
+      "generated_at": "2026-11-13T20:45:13.162118"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "slovenian": "Vzemi si čas, brez naglice.",
+      "transliteration": "Vzemi si čas, brez naglice.",
+      "category": "Time",
+      "generated_at": "2026-11-13T20:45:13.162120"
+    },
+    {
+      "english": "We should leave soon, please.",
+      "slovenian": "Tudi mi moramo kmalu oditi, prosim.",
+      "transliteration": "Tudi mi moramo kmalu oditi, prosim.",
+      "category": "Time",
+      "generated_at": "2026-11-13T20:45:13.162120"
+    },
+    {
+      "english": "Meet me at noon today.",
+      "slovenian": "Dobiva se danes opoldne.",
+      "transliteration": "Dobiva se danes opoldne.",
+      "category": "Time",
+      "generated_at": "2026-11-13T20:45:13.162121"
     }
   ],
-  "last_updated": "2026-11-13T19:01:53.462243"
+  "last_updated": "2026-11-13T20:45:13.162122"
 }
