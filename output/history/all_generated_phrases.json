@@ -22259,7 +22259,42 @@
       "transliteration": "Obrni glavo, znotraj ostani miren.",
       "category": "Balance",
       "generated_at": "2026-11-13T03:58:56.794915"
+    },
+    {
+      "english": "Where is the ticket office, please?",
+      "slovenian": "Kje je prodajno mesto za vozovnice, prosim?",
+      "transliteration": "Kje je prodajno mesto za vozovnice, prosim?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T19:01:53.462224"
+    },
+    {
+      "english": "How much is a day pass?",
+      "slovenian": "Koliko stane dnevna karta, prosim?",
+      "transliteration": "Koliko stane dnevna karta, prosim?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T19:01:53.462236"
+    },
+    {
+      "english": "Which platform does the bus leave from?",
+      "slovenian": "S katerega perona odpelje avtobus?",
+      "transliteration": "S katerega perona odpelje avtobus?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T19:01:53.462238"
+    },
+    {
+      "english": "Do you accept contactless payments here?",
+      "slovenian": "Ali tukaj sprejemate brezstične plačila?",
+      "transliteration": "Ali tukaj sprejemate brezstične plačila?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T19:01:53.462240"
+    },
+    {
+      "english": "Is there a tram from here?",
+      "slovenian": "Ali od tu vozi tramvaj?",
+      "transliteration": "Ali od tu vozi tramvaj?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T19:01:53.462241"
     }
   ],
-  "last_updated": "2026-11-13T03:58:56.794916"
+  "last_updated": "2026-11-13T19:01:53.462243"
 }
