@@ -22399,7 +22399,42 @@
       "transliteration": "njegov želodec ropota, ko je živčen",
       "category": "Body Parts",
       "generated_at": "2026-11-14T00:42:07.078608"
+    },
+    {
+      "english": "Friends like you, feel like home.",
+      "slovenian": "Prijatelji, kot si ti, so dom.",
+      "transliteration": "Pri-jate-lji, kot si ti, so dom.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T03:57:44.860148"
+    },
+    {
+      "english": "I’m lucky to have you.",
+      "slovenian": "Srečna sem, da te imam.",
+      "transliteration": "Sre-na sem, da te imam.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T03:57:44.860160"
+    },
+    {
+      "english": "Thanks for being there for me.",
+      "slovenian": "Hvala, ker si mi vedno tu.",
+      "transliteration": "Hva-la, ker si mi ve-dno tu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T03:57:44.860162"
+    },
+    {
+      "english": "We laugh, even when it’s hard.",
+      "slovenian": "Sva se smejala, tudi ko je težko.",
+      "transliteration": "Sva se sme-ja-la, tu-di ko je te-zko.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T03:57:44.860163"
+    },
+    {
+      "english": "You make my days softer.",
+      "slovenian": "Tvoji nasmehi mi dan polepšajo.",
+      "transliteration": "Tvo-ji na-sme-hi mi dan po-lep-sa-jo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T03:57:44.860164"
     }
   ],
-  "last_updated": "2026-11-14T00:42:07.078610"
+  "last_updated": "2026-11-14T03:57:44.860166"
 }
