@@ -22364,7 +22364,42 @@
       "transliteration": "reci enkrat, potem se popravi",
       "category": "Perseverance",
       "generated_at": "2026-11-13T22:27:51.939389"
+    },
+    {
+      "english": "My neck aches after long work.",
+      "slovenian": "Moj vrat boli po dolgem delu.",
+      "transliteration": "moj vrat boli po dolgem delu",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T00:42:07.078588"
+    },
+    {
+      "english": "His back feels stiff this morning.",
+      "slovenian": "Njegov hrbet je danes zjutraj tog.",
+      "transliteration": "njegov hrbet je danes zjutraj tog",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T00:42:07.078600"
+    },
+    {
+      "english": "Her shoulder throbs from carrying bags.",
+      "slovenian": "Njen ramenski predel utripa od nošenja vrečk.",
+      "transliteration": "njen ramenski predel utripa od nošenja vrečk",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T00:42:07.078602"
+    },
+    {
+      "english": "My chest feels heavy when I run.",
+      "slovenian": "Moje prsi so težke, ko tečem.",
+      "transliteration": "moje prsi so težke, ko tečem",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T00:42:07.078604"
+    },
+    {
+      "english": "His stomach growls when he's nervous.",
+      "slovenian": "Njegov želodec ropota, ko je živčen.",
+      "transliteration": "njegov želodec ropota, ko je živčen",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T00:42:07.078608"
     }
   ],
-  "last_updated": "2026-11-13T22:27:51.939391"
+  "last_updated": "2026-11-14T00:42:07.078610"
 }
