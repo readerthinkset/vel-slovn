@@ -22609,7 +22609,42 @@
       "transliteration": "Govorite angleško?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-15T03:41:02.118661"
+    },
+    {
+      "english": "Call an ambulance, please, right now.",
+      "slovenian": "Pokličite rešilca, prosim, takoj zdaj.",
+      "transliteration": "Pokli-chite re-ši-za, pro-sim, ta-koj za-jdă.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T18:20:48.457342"
+    },
+    {
+      "english": "I’m not feeling well, help me.",
+      "slovenian": "Nisem se dobro počutil, pomagajte mi.",
+      "transliteration": "Nis-em se do-bro po-čut-il, po-ma-gajte mi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T18:20:48.457355"
+    },
+    {
+      "english": "I need a doctor, please, now.",
+      "slovenian": "Potrebujem zdravnika, prosim, zdaj.",
+      "transliteration": "Po-tre-bu-je-m za-vd-nika, pro-sim, zdej.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T18:20:48.457357"
+    },
+    {
+      "english": "There’s smoke here, get out fast.",
+      "slovenian": "Tukaj je dim, hitro ven!",
+      "transliteration": "Tu-kaj je dim, hi-tro ven!",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T18:20:48.457358"
+    },
+    {
+      "english": "Fire is spreading, call for help.",
+      "slovenian": "Ogenj se širi, pokličite pomoč.",
+      "transliteration": "O-genj se ši-ri, po-kli-čite po-moč.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T18:20:48.457360"
     }
   ],
-  "last_updated": "2026-11-15T03:41:02.118662"
+  "last_updated": "2026-11-15T18:20:48.457362"
 }
