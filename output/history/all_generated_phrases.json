@@ -22574,7 +22574,42 @@
       "transliteration": "Iz-di-hnem, in ve-selje na-ra-ste.",
       "category": "Joy",
       "generated_at": "2026-11-14T23:40:19.276218"
+    },
+    {
+      "english": "Hello, how are you today?",
+      "slovenian": "Živjo, kako si danes?",
+      "transliteration": "Zivjo, kako si danes?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-15T03:41:02.118644"
+    },
+    {
+      "english": "Good morning, nice to meet you.",
+      "slovenian": "Dobro jutro, lepo te je spoznati.",
+      "transliteration": "Dobro jutro, lepo te je spoznati.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-15T03:41:02.118657"
+    },
+    {
+      "english": "Please, can you help me?",
+      "slovenian": "Prosim, ali mi lahko pomagate?",
+      "transliteration": "Prosim, ali mi lahko pomagate?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-15T03:41:02.118658"
+    },
+    {
+      "english": "Sorry, I don't understand.",
+      "slovenian": "Oprostite, ne razumem.",
+      "transliteration": "Oprostite, ne razumem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-15T03:41:02.118660"
+    },
+    {
+      "english": "Do you speak English?",
+      "slovenian": "Govorite angleško?",
+      "transliteration": "Govorite angleško?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-15T03:41:02.118661"
     }
   ],
-  "last_updated": "2026-11-14T23:40:19.276220"
+  "last_updated": "2026-11-15T03:41:02.118662"
 }
