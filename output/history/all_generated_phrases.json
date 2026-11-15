@@ -22679,7 +22679,42 @@
       "transliteration": "Upo-chas-nee, am-pak ne neh-hay",
       "category": "Education",
       "generated_at": "2026-11-15T19:32:20.127818"
+    },
+    {
+      "english": "Stand straight, and relax your shoulders.",
+      "slovenian": "Vzravnaj se, sprosti ramena.",
+      "transliteration": "Vzravnaj se, sprosti ramena.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T21:35:32.819984"
+    },
+    {
+      "english": "Look at me, then look away.",
+      "slovenian": "Poglej me, potem poglej stran.",
+      "transliteration": "Poglej me, potem poglej stran.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T21:35:32.819996"
+    },
+    {
+      "english": "Slow down, and take a breath.",
+      "slovenian": "Upočasni, vzemi sapo.",
+      "transliteration": "Upočasni, vzemi sapo.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T21:35:32.819998"
+    },
+    {
+      "english": "Say it once, then try again.",
+      "slovenian": "Reci enkrat, potem poskusi znova.",
+      "transliteration": "Reci enkrat, potem poskusi znova.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T21:35:32.819999"
+    },
+    {
+      "english": "Keep your mouth relaxed, not tight.",
+      "slovenian": "Imej sproščena usta, ne zateguj.",
+      "transliteration": "Imej sproščena usta, ne zateguj.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T21:35:32.820001"
     }
   ],
-  "last_updated": "2026-11-15T19:32:20.127819"
+  "last_updated": "2026-11-15T21:35:32.820003"
 }
