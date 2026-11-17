@@ -22924,7 +22924,42 @@
       "transliteration": "Lahko se pogovarjava, o vsem.",
       "category": "Relationships",
       "generated_at": "2026-11-17T02:48:01.688638"
+    },
+    {
+      "english": "Do you have this in a smaller size?",
+      "slovenian": "Imate to v manjši velikosti?",
+      "transliteration": "Imate to v manjši velikosti?",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T05:38:15.745060"
+    },
+    {
+      "english": "How much does this cost, exactly?",
+      "slovenian": "Koliko stane to, točno?",
+      "transliteration": "Koliko stane to, točno?",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T05:38:15.745076"
+    },
+    {
+      "english": "Is there a discount today?",
+      "slovenian": "Ali imate danes kakšen popust?",
+      "transliteration": "Ali imate danes kakšen popust?",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T05:38:15.745078"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "slovenian": "Lahko to preizkusim, prosim?",
+      "transliteration": "Lahko to preizkusim, prosim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T05:38:15.745080"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "slovenian": "Kje je kabina za preizkušanje?",
+      "transliteration": "Kje je kabina za preizkušanje?",
+      "category": "Shopping",
+      "generated_at": "2026-11-17T05:38:15.745081"
     }
   ],
-  "last_updated": "2026-11-17T02:48:01.688640"
+  "last_updated": "2026-11-17T05:38:15.745083"
 }
