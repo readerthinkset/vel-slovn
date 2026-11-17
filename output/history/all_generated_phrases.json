@@ -22959,7 +22959,42 @@
       "transliteration": "Kje je kabina za preizkušanje?",
       "category": "Shopping",
       "generated_at": "2026-11-17T05:38:15.745081"
+    },
+    {
+      "english": "Excuse me, where is the nearest station?",
+      "slovenian": "Oprostite, kje je najbližja postaja?",
+      "transliteration": "O-pros-ti-te, kje je naj-blizh-ja po-sta-ja?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T20:19:31.465656"
+    },
+    {
+      "english": "I’m sorry, I didn’t understand you.",
+      "slovenian": "Oprostite, nisem vas razumel",
+      "transliteration": "O-pros-ti-te, nisem vas razu-me-l/a.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T20:19:31.465674"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "slovenian": "Lahko to ponovite, prosim?",
+      "transliteration": "La-hko to po-no-vi-te, pro-sim?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T20:19:31.465676"
+    },
+    {
+      "english": "I’d like to order something, please.",
+      "slovenian": "Rad",
+      "transliteration": "Rad/a bi na-ro-chil/a ne-ka j, pro-sim.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T20:19:31.465678"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "slovenian": "Ali je stranišče blizu?",
+      "transliteration": "A-li je stran-i-shche bli-zu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T20:19:31.465680"
     }
   ],
-  "last_updated": "2026-11-17T05:38:15.745083"
+  "last_updated": "2026-11-17T20:19:31.465683"
 }
