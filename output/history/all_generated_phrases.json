@@ -22854,7 +22854,42 @@
       "transliteration": "Kupila sem te kavbojke, res so trdne.",
       "category": "Clothes",
       "generated_at": "2026-11-16T23:11:16.334783"
+    },
+    {
+      "english": "There is still light, somewhere ahead.",
+      "slovenian": "Še vedno je svetloba, nekje naprej.",
+      "transliteration": "Se vedno je svetloba, nekje naprej.",
+      "category": "Hope",
+      "generated_at": "2026-11-17T00:43:19.202370"
+    },
+    {
+      "english": "I will try again, just today.",
+      "slovenian": "Spet bom poskusil, kar danes.",
+      "transliteration": "Spet bom poskusil, kar danes.",
+      "category": "Hope",
+      "generated_at": "2026-11-17T00:43:19.202385"
+    },
+    {
+      "english": "Your effort matters, even now.",
+      "slovenian": "Tvoj trud šteje, tudi zdaj.",
+      "transliteration": "Tvoj trud šteje, tudi zdaj.",
+      "category": "Hope",
+      "generated_at": "2026-11-17T00:43:19.202387"
+    },
+    {
+      "english": "Hold on, good things are coming.",
+      "slovenian": "Vztrajaj, dobre stvari prihajajo.",
+      "transliteration": "Vztrajaj, dobre stvari prihajajo.",
+      "category": "Hope",
+      "generated_at": "2026-11-17T00:43:19.202388"
+    },
+    {
+      "english": "Breathe slowly, and let hope settle.",
+      "slovenian": "Dihaj počasi, in naj se upanje usede.",
+      "transliteration": "Dihaj počasi, in naj se upanje usede.",
+      "category": "Hope",
+      "generated_at": "2026-11-17T00:43:19.202388"
     }
   ],
-  "last_updated": "2026-11-16T23:11:16.334785"
+  "last_updated": "2026-11-17T00:43:19.202390"
 }
