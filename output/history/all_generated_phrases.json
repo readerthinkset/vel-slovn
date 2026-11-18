@@ -23064,7 +23064,42 @@
       "transliteration": "Oblaki hitro plujejo čez nebo",
       "category": "Weather",
       "generated_at": "2026-11-17T23:52:35.403856"
+    },
+    {
+      "english": "You’re improving, keep going forward.",
+      "slovenian": "Izboljšuješ se, samo naprej.",
+      "transliteration": "iz-BOL-šuješ se, sa-mo na-PREJ",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:09:12.605591"
+    },
+    {
+      "english": "Trust yourself, you can say it.",
+      "slovenian": "Verjemi vase, zmoreš to izgovoriti.",
+      "transliteration": "VE-rjem-i va-se, ZMO-reš to iz-go-vo-RI-ti",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:09:12.605607"
+    },
+    {
+      "english": "Slow down, your words will come.",
+      "slovenian": "Upočasni, besede bodo prišle.",
+      "transliteration": "u-PO-čas-ni, BE-se-de bo-do PRI-šle",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:09:12.605608"
+    },
+    {
+      "english": "You know more than you think.",
+      "slovenian": "Več znaš, kot misliš.",
+      "transliteration": "VEČ znaš, kot MIŠ-liš",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:09:12.605609"
+    },
+    {
+      "english": "Breathe, then speak with confidence.",
+      "slovenian": "Dihaj, nato govori samozavestno.",
+      "transliteration": "DI-haj, na-to go-vo-ri sa-mo-za-VEST-no",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:09:12.605610"
     }
   ],
-  "last_updated": "2026-11-17T23:52:35.403858"
+  "last_updated": "2026-11-18T02:09:12.605611"
 }
