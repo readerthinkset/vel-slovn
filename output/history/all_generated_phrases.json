@@ -23029,7 +23029,42 @@
       "transliteration": "Sončna svetloba mi ogreje ramena ob zidu.",
       "category": "Nature",
       "generated_at": "2026-11-17T21:59:29.756973"
+    },
+    {
+      "english": "The wind is stronger than yesterday.",
+      "slovenian": "Veter je močnejši kot včeraj.",
+      "transliteration": "Vehter je mothnejši kot včeraj",
+      "category": "Weather",
+      "generated_at": "2026-11-17T23:52:35.403836"
+    },
+    {
+      "english": "Dark clouds are coming from the west.",
+      "slovenian": "Temni oblaki prihajajo z zahoda.",
+      "transliteration": "Temni oblaki prihajajo z zahoda",
+      "category": "Weather",
+      "generated_at": "2026-11-17T23:52:35.403850"
+    },
+    {
+      "english": "It might rain later today.",
+      "slovenian": "Kasneje danes lahko začne deževati.",
+      "transliteration": "Kasneje danes lahko začne deževati",
+      "category": "Weather",
+      "generated_at": "2026-11-17T23:52:35.403852"
+    },
+    {
+      "english": "The sky looks clear right now.",
+      "slovenian": "Nebo je zdaj videti jasno.",
+      "transliteration": "Nebo je zdaj videti jasno",
+      "category": "Weather",
+      "generated_at": "2026-11-17T23:52:35.403854"
+    },
+    {
+      "english": "Clouds move fast across the sky.",
+      "slovenian": "Oblaki hitro plujejo čez nebo.",
+      "transliteration": "Oblaki hitro plujejo čez nebo",
+      "category": "Weather",
+      "generated_at": "2026-11-17T23:52:35.403856"
     }
   ],
-  "last_updated": "2026-11-17T21:59:29.756975"
+  "last_updated": "2026-11-17T23:52:35.403858"
 }
