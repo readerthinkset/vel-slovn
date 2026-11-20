@@ -23414,7 +23414,42 @@
       "transliteration": "Zelim ti prijetne večere in nežna jutra.",
       "category": "Holidays",
       "generated_at": "2026-11-19T23:33:46.398907"
+    },
+    {
+      "english": "Great job, you’re really getting it.",
+      "slovenian": "Super, res ti gre!",
+      "transliteration": "SU-per, res ti gre!",
+      "category": "Success",
+      "generated_at": "2026-11-20T01:41:04.815467"
+    },
+    {
+      "english": "Nice work, keep that going.",
+      "slovenian": "Bravo, tako naprej!",
+      "transliteration": "BRA-vo, ta-ko na-prej!",
+      "category": "Success",
+      "generated_at": "2026-11-20T01:41:04.815480"
+    },
+    {
+      "english": "You did it, without overthinking.",
+      "slovenian": "Uspelo ti je, brez skrbi.",
+      "transliteration": "us-PE-lo ti je, brez SKR-bi.",
+      "category": "Success",
+      "generated_at": "2026-11-20T01:41:04.815481"
+    },
+    {
+      "english": "Good catch, now say it smoothly.",
+      "slovenian": "Dobra opazka, zdaj povej tekoče.",
+      "transliteration": "DO-bra o-paZ-ka, zdaj po-Vei TE-ko-che.",
+      "category": "Success",
+      "generated_at": "2026-11-20T01:41:04.815482"
+    },
+    {
+      "english": "Perfect, that sounds natural now.",
+      "slovenian": "Odlično, zdaj zveni naravno.",
+      "transliteration": "o-DI-LIČ-no, zdaj ZVENI na-RA-vno.",
+      "category": "Success",
+      "generated_at": "2026-11-20T01:41:04.815484"
     }
   ],
-  "last_updated": "2026-11-19T23:33:46.398911"
+  "last_updated": "2026-11-20T01:41:04.815485"
 }
