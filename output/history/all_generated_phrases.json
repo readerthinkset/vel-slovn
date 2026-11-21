@@ -23624,7 +23624,42 @@
       "transliteration": "Oh-ra-nee topel, mee-ren ton.",
       "category": "Directions",
       "generated_at": "2026-11-21T01:07:42.373348"
+    },
+    {
+      "english": "Call 112 now, something is wrong.",
+      "slovenian": "Pokličite 112 zdaj, nekaj ni v redu.",
+      "transliteration": "Poklíčite dvanajst, zdaj, nekaj ni v redu.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:41:42.832007"
+    },
+    {
+      "english": "Help me, I fell in the street.",
+      "slovenian": "Pomagajte mi, padel sem na cesti.",
+      "transliteration": "Pomagajte mi, padel sem na cesti.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:41:42.832021"
+    },
+    {
+      "english": "Is anyone here? I need help.",
+      "slovenian": "Je kdo tukaj? Potrebujem pomoč.",
+      "transliteration": "Je kdo tukaj? Potrebujem pomoć.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:41:42.832022"
+    },
+    {
+      "english": "I feel very weak, please help.",
+      "slovenian": "Zelo sem šibek, prosim pomagajte.",
+      "transliteration": "Zelo sem šibek, prosim pomagajte.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:41:42.832023"
+    },
+    {
+      "english": "My head hurts badly, I need help.",
+      "slovenian": "Močno me boli glava, potrebujem pomoč.",
+      "transliteration": "Močno me boli glava, potrebujem pomoč.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:41:42.832024"
     }
   ],
-  "last_updated": "2026-11-21T01:07:42.373350"
+  "last_updated": "2026-11-21T04:41:42.832027"
 }
