@@ -23589,7 +23589,42 @@
       "transliteration": "Zahvalim se, vedno bolj pogosto.",
       "category": "Purpose",
       "generated_at": "2026-11-20T23:01:01.439308"
+    },
+    {
+      "english": "Start slowly, speak clearly.",
+      "slovenian": "Začni počasi, govori jasno.",
+      "transliteration": "Zay-in po-chá-lee, go-vor yás-no.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T01:07:42.373327"
+    },
+    {
+      "english": "Relax your jaw, don't force.",
+      "slovenian": "Sprosti čeljust, ne sili.",
+      "transliteration": "Spo-rest che-lust, ne si-lee.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T01:07:42.373344"
+    },
+    {
+      "english": "Listen first, then repeat after me.",
+      "slovenian": "Najprej poslušaj, potem ponovi za mano.",
+      "transliteration": "Nay-prey pos-lu-shay, potem po-no-vee za ma-no.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T01:07:42.373345"
+    },
+    {
+      "english": "Breathe in, then say the word.",
+      "slovenian": "Vdihni, nato izgovori besedo.",
+      "transliteration": "V-dikh-nee, na-to eez-go-vo-ree be-sé-do.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T01:07:42.373347"
+    },
+    {
+      "english": "Keep your tone friendly and calm.",
+      "slovenian": "Ohrani topel, miren ton.",
+      "transliteration": "Oh-ra-nee topel, mee-ren ton.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T01:07:42.373348"
     }
   ],
-  "last_updated": "2026-11-20T23:01:01.439310"
+  "last_updated": "2026-11-21T01:07:42.373350"
 }
