@@ -23834,7 +23834,42 @@
       "transliteration": "Napake so normalne, ne ustavljaj se.",
       "category": "Motivation",
       "generated_at": "2026-11-22T03:56:12.666277"
+    },
+    {
+      "english": "Turn off notifications, please, for a while.",
+      "slovenian": "Izklopi obvestila, prosim, za nekaj časa.",
+      "transliteration": "Izklopi obvestila, prosim, za nekaj casa.",
+      "category": "Technology",
+      "generated_at": "2026-11-22T18:54:50.415269"
+    },
+    {
+      "english": "Charge your phone overnight, if possible.",
+      "slovenian": "Napolni telefon čez noč, če lahko.",
+      "transliteration": "Napolni telefon cez noc, ce lahko.",
+      "category": "Technology",
+      "generated_at": "2026-11-22T18:54:50.415285"
+    },
+    {
+      "english": "Enable dark mode, it feels easier.",
+      "slovenian": "Vklopi temni način, tako je lažje.",
+      "transliteration": "Vklopi temni nacin, tako je lazje.",
+      "category": "Technology",
+      "generated_at": "2026-11-22T18:54:50.415287"
+    },
+    {
+      "english": "My Wi-Fi keeps dropping, again.",
+      "slovenian": "Moj Wi-Fi spet izgublja signal.",
+      "transliteration": "Moj Wi-Fi spet izgublja signal.",
+      "category": "Technology",
+      "generated_at": "2026-11-22T18:54:50.415292"
+    },
+    {
+      "english": "The app asks for permission to access.",
+      "slovenian": "Aplikacija prosi za dovoljenje za dostop.",
+      "transliteration": "Aplikacija prosi za dovoljenje za dostop.",
+      "category": "Technology",
+      "generated_at": "2026-11-22T18:54:50.415294"
     }
   ],
-  "last_updated": "2026-11-22T03:56:12.666279"
+  "last_updated": "2026-11-22T18:54:50.415296"
 }
