@@ -24009,7 +24009,42 @@
       "transliteration": "Ponosna sem nate, vedno.",
       "category": "Relationships",
       "generated_at": "2026-11-23T04:37:03.531286"
+    },
+    {
+      "english": "Hello! Long time no see.",
+      "slovenian": "Zdravo! Dolgo se nisva slišala.",
+      "transliteration": "Zdravo! Dolgo se nisva slisala.",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T23:17:35.377640"
+    },
+    {
+      "english": "Good to meet you at last.",
+      "slovenian": "Končno te je lepo spoznati.",
+      "transliteration": "Končno te je lepo spoznati.",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T23:17:35.377654"
+    },
+    {
+      "english": "How are you, really, right now?",
+      "slovenian": "Kako si, res, ta trenutek?",
+      "transliteration": "Kako si, res, ta trenutek?",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T23:17:35.377656"
+    },
+    {
+      "english": "Hey, I'm glad you're here.",
+      "slovenian": "Hej, vesel sem, da si tukaj.",
+      "transliteration": "Hej, vesel sem, da si tukaj.",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T23:17:35.377657"
+    },
+    {
+      "english": "Welcome! Let's start fresh together.",
+      "slovenian": "Dobrodošel! Začniva skupaj na novo.",
+      "transliteration": "Dobrodosel! Zaceniva skupaj na novo.",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T23:17:35.377659"
     }
   ],
-  "last_updated": "2026-11-23T04:37:03.531288"
+  "last_updated": "2026-11-23T23:17:35.377661"
 }
