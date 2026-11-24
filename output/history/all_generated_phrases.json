@@ -24149,7 +24149,42 @@
       "transliteration": "Kje se do-bi-va kas-ne-je?",
       "category": "Common Expressions",
       "generated_at": "2026-11-24T05:02:02.854600"
+    },
+    {
+      "english": "Right after breakfast, we'll head out.",
+      "slovenian": "Takoj po zajtrku bomo odšli.",
+      "transliteration": "Takoj po zajtrku bomo odšli.",
+      "category": "Time",
+      "generated_at": "2026-11-24T07:30:16.959029"
+    },
+    {
+      "english": "In a little while, call me back.",
+      "slovenian": "Čez malo časa me pokliči nazaj.",
+      "transliteration": "Čez malo časa me pokliči nazaj.",
+      "category": "Time",
+      "generated_at": "2026-11-24T07:30:16.959041"
+    },
+    {
+      "english": "At dusk, we’ll find a place to rest.",
+      "slovenian": "V mraku si bomo našli prostor za počitek.",
+      "transliteration": "V mraku si bomo našli prostor za počitek.",
+      "category": "Time",
+      "generated_at": "2026-11-24T07:30:16.959043"
+    },
+    {
+      "english": "Tomorrow morning, I'll check my messages.",
+      "slovenian": "Jutri zjutraj bom preveril sporočila.",
+      "transliteration": "Jutri zjutraj bom preveril sporočila.",
+      "category": "Time",
+      "generated_at": "2026-11-24T07:30:16.959045"
+    },
+    {
+      "english": "We'll start at ten sharp, please.",
+      "slovenian": "Začnemo ob desetih točno, prosim.",
+      "transliteration": "Začnemo ob desetih točno, prosim.",
+      "category": "Time",
+      "generated_at": "2026-11-24T07:30:16.959046"
     }
   ],
-  "last_updated": "2026-11-24T05:02:02.854602"
+  "last_updated": "2026-11-24T07:30:16.959048"
 }
