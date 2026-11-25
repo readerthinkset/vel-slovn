@@ -24289,7 +24289,42 @@
       "transliteration": "Bilo je pogumno, res spoštujem.",
       "category": "Kindness",
       "generated_at": "2026-11-25T01:18:43.220758"
+    },
+    {
+      "english": "Patience, everything takes its own time.",
+      "slovenian": "Potrpežljivost, vse vzame svoj čas.",
+      "transliteration": "potrpežljivost, vse vzaMe svoj čas.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:23:57.171725"
+    },
+    {
+      "english": "Wait calmly, the rest will follow.",
+      "slovenian": "Mirno počakaj, ostalo pride za tem.",
+      "transliteration": "mirno počakaj, ostalo pride za tem.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:23:57.171739"
+    },
+    {
+      "english": "Take your time, don’t force it.",
+      "slovenian": "Vzemi si čas, ne sili tega.",
+      "transliteration": "vzemi si čas, ne sili tega.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:23:57.171741"
+    },
+    {
+      "english": "Breathe, let things settle down.",
+      "slovenian": "Dihaj, naj se vse umiri.",
+      "transliteration": "dihaJ, naj se vse umiri.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:23:57.171743"
+    },
+    {
+      "english": "Slow down, you’ll get it right.",
+      "slovenian": "Upočasni, pa boš zadelo.",
+      "transliteration": "upočasni, pa boš zade lo.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:23:57.171744"
     }
   ],
-  "last_updated": "2026-11-25T01:18:43.220759"
+  "last_updated": "2026-11-25T03:23:57.171746"
 }
