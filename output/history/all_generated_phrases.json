@@ -24464,7 +24464,42 @@
       "transliteration": "Počutim se srečno, da te imam.",
       "category": "Gratitude",
       "generated_at": "2026-11-26T00:53:36.635292"
+    },
+    {
+      "english": "Let’s talk over coffee today.",
+      "slovenian": "Pogovoriva se ob kavi danes.",
+      "transliteration": "Pogovor-va se ob ka-vi da-nes.",
+      "category": "Culture",
+      "generated_at": "2026-11-26T02:40:30.848331"
+    },
+    {
+      "english": "Welcome home, we missed you.",
+      "slovenian": "Dobrodošel domov, pogrešali smo te.",
+      "transliteration": "Dobro-došel do-mov, po-greša-li smo te.",
+      "category": "Culture",
+      "generated_at": "2026-11-26T02:40:30.848344"
+    },
+    {
+      "english": "Come, let’s taste this cheese.",
+      "slovenian": "Pridi, poskusi ta sir.",
+      "transliteration": "Pri-di, po-sku-si ta sir.",
+      "category": "Culture",
+      "generated_at": "2026-11-26T02:40:30.848348"
+    },
+    {
+      "english": "Try a warm štrukelj with us.",
+      "slovenian": "Poskusi topel štrukelj z nami.",
+      "transliteration": "Po-sku-si to-pel štru-kel z na-mi.",
+      "category": "Culture",
+      "generated_at": "2026-11-26T02:40:30.848349"
+    },
+    {
+      "english": "We’ll bake, you stir the batter.",
+      "slovenian": "Pečemo, ti mešaj maso.",
+      "transliteration": "Pe-če-mo, ti me-ša-j ma-so.",
+      "category": "Culture",
+      "generated_at": "2026-11-26T02:40:30.848350"
     }
   ],
-  "last_updated": "2026-11-26T00:53:36.635296"
+  "last_updated": "2026-11-26T02:40:30.848352"
 }
