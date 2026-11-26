@@ -24569,7 +24569,42 @@
       "transliteration": "Povrni se hitro, zmagaj trenutek.",
       "category": "Sports",
       "generated_at": "2026-11-26T20:47:26.241240"
+    },
+    {
+      "english": "Where should I buy a SIM card?",
+      "slovenian": "Kje naj kupim SIM kartico?",
+      "transliteration": "Kje naj kupim SIM kartico?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T22:45:46.567573"
+    },
+    {
+      "english": "How do I get to the station?",
+      "slovenian": "Kako pridem do železniške postaje?",
+      "transliteration": "Kako pridem do železniške postaje?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T22:45:46.567585"
+    },
+    {
+      "english": "What time does the museum open?",
+      "slovenian": "Ob kateri uri muzej odprejo?",
+      "transliteration": "Ob kateri uri muzej odprejo?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T22:45:46.567587"
+    },
+    {
+      "english": "Do you have free walking tours?",
+      "slovenian": "Imate brezplačne peš ture?",
+      "transliteration": "Imate brezplačne peš ture?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T22:45:46.567588"
+    },
+    {
+      "english": "Could I see the dessert menu?",
+      "slovenian": "Lahko pogledam meni za sladice?",
+      "transliteration": "Lahko pogledam meni za sladice?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T22:45:46.567589"
     }
   ],
-  "last_updated": "2026-11-26T20:47:26.241242"
+  "last_updated": "2026-11-26T22:45:46.567591"
 }
