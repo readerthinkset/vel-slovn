@@ -24625,7 +24625,28 @@
       "transliteration": "Razumem, in res mi je žal.",
       "category": "Forgiveness",
       "generated_at": "2026-11-27T11:36:09.477099"
+    },
+    {
+      "english": "Know your spending limits, then relax.",
+      "slovenian": "Poznaš svoje meje porabe, potem se sprostiš.",
+      "transliteration": "Po-znaš svo-je me-je po-ra-be, po-tem se spro-stiš.",
+      "category": "Finance",
+      "generated_at": "2026-11-27T19:20:32.340172"
+    },
+    {
+      "english": "Pay yourself first, every single month.",
+      "slovenian": "Najprej poskrbi zase, vsak mesec.",
+      "transliteration": "Naj-prej po-skrbi za-se, vsak me-sec.",
+      "category": "Finance",
+      "generated_at": "2026-11-27T19:20:32.340184"
+    },
+    {
+      "english": "Save for emergencies, stay calm anytime.",
+      "slovenian": "Prihrani za nujne primere, vedno mirno.",
+      "transliteration": "Pri-hra-ni za nuj-ne pri-me-re, ved-no mir-no.",
+      "category": "Finance",
+      "generated_at": "2026-11-27T19:20:32.340186"
     }
   ],
-  "last_updated": "2026-11-27T11:36:09.477101"
+  "last_updated": "2026-11-27T19:20:32.340189"
 }
